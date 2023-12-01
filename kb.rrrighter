@@ -10,7 +10,7 @@
     },
     {
       "id": "9fbbd16c-ea94-4ce9-b87c-79ca54889259",
-      "text": "Philosophies",
+      "text": "🧠 Philosophies",
       "children": [
         "6d97dd62-563a-44bb-ba0c-48886167d5ba",
         "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
@@ -22,15 +22,16 @@
     },
     {
       "id": "6494e5b8-afb2-492b-b433-bd3caf926034",
-      "text": "[SDLC | Methodologies](https://en.wikipedia.org/wiki/Software_development_process#Methodologies)",
+      "text": "🔬 Methodologies",
       "children": [
         "516ec531-086c-4440-8e1f-a56eb25d2b43",
-        "05832c84-6748-4a51-a53b-fe79ea277db8"
+        "05832c84-6748-4a51-a53b-fe79ea277db8",
+        "d9894527-e870-4dbb-b182-5bff54ab804b"
       ]
     },
     {
       "id": "33c6e19c-f9d2-482f-9531-9978c426ebad",
-      "text": "Principles",
+      "text": "🏛 Principles",
       "children": [
         "d7224ab9-d763-40fe-96cf-0088de8051e4",
         "2bd8f900-168e-4d35-ae4a-f7858f769a03",
@@ -47,7 +48,7 @@
     },
     {
       "id": "352a8136-e7af-4591-9186-b87b090fb63d",
-      "text": "Practices",
+      "text": "💪 Practices",
       "children": [
         "da6f4be1-02c3-4440-8060-8a86cb62fed8",
         "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
@@ -58,7 +59,7 @@
     },
     {
       "id": "6b61108b-2b3a-44ad-9604-da62791b55d1",
-      "text": "Library",
+      "text": "📚 Library",
       "children": [
         "5d22a013-52f3-485e-8301-50703b257489",
         "41ba2458-2cd8-4078-bd8e-2b65dd49229e",
@@ -69,7 +70,7 @@
     },
     {
       "id": "8f8f6190-8819-4e1a-a7a2-bd910ae562d5",
-      "text": "Experts",
+      "text": "🤓 Experts",
       "children": [
         "dafb9909-b9b2-43d5-a7ce-906d095a7e33",
         "9e628e82-8f43-4f79-b607-b71396a02686",
@@ -123,7 +124,7 @@
     },
     {
       "id": "5d22a013-52f3-485e-8301-50703b257489",
-      "text": "📚 Books",
+      "text": "📖 Books",
       "children": [
         "28486206-08e4-4cc2-bbe4-46f6cab33fdd",
         "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
@@ -1020,7 +1021,7 @@
     },
     {
       "id": "f8fe8775-feb1-4b46-b31b-783569280093",
-      "text": "Tools",
+      "text": "🛠️ Tools",
       "children": [
         "e1584566-d15e-47af-af6d-4d35c3c6edad",
         "d7ad5cb1-c2e7-4de9-8f07-1f69d7d23ba4",
@@ -1202,6 +1203,10 @@
     {
       "id": "28486206-08e4-4cc2-bbe4-46f6cab33fdd",
       "text": "[What is the single most influential book every programmer should read? - Stack Overflow](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)"
+    },
+    {
+      "id": "d9894527-e870-4dbb-b182-5bff54ab804b",
+      "text": "[SDLC methodologies overview](https://en.wikipedia.org/wiki/Software_development_process#Methodologies)"
     }
   ]
 }
