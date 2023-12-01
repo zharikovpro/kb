@@ -12,11 +12,12 @@
       "id": "9fbbd16c-ea94-4ce9-b87c-79ca54889259",
       "text": "🧠 Philosophies",
       "children": [
-        "6d97dd62-563a-44bb-ba0c-48886167d5ba",
-        "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
         "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
         "1dac6458-f29b-47fb-9e53-7bbc104ee41f",
+        "200fb470-0962-46b1-bfa7-e9ab25b06af4",
         "e4b79e6c-5b8b-4efe-aef7-2f8d87216df7",
+        "6526ce07-9465-4bff-b84e-aa7926eebc28",
+        "b135c146-d54b-46b2-851c-7fc370ede8fc",
         "930d8f72-a727-482c-9794-a3227eb7fe9f"
       ]
     },
@@ -103,10 +104,13 @@
         "6d35c9c7-8f59-41a7-a24f-885f0673d7c3",
         "57db816d-74e8-4699-8774-c22ad317b2c3",
         "eb7c99be-376f-4f41-83ef-c616fde9bf40",
+        "9be2d6c4-7915-49bf-b27f-96695c34271c",
+        "896d534c-4a5f-404c-bc9d-0aad0fc1d3fb",
         "48bf19df-c236-4e49-bfdf-06d4928c6642",
         "0676883d-d9c6-4841-855b-a7be2fd16f11",
         "c96df81d-f0e2-454f-9993-5927e8b9a4f5",
         "284469af-bc7d-4d57-9f6b-2e7f26f82fdf",
+        "6e0c0c28-764e-43dc-bc80-e33423951608",
         "3db4156e-5845-4add-8045-5851d1694814",
         "f958176a-11e9-4c1c-ab79-6776982eb39a",
         "b5d50272-28a2-47fd-9d1e-23901b39f47e",
@@ -120,6 +124,7 @@
         "136a6947-a497-4965-954b-c56660d499de",
         "9c74a42d-77d2-4eb4-9905-b7db5edfa690",
         "0d5b6573-b9d8-4ffd-8f82-94b8d7bcf871",
+        "960bde3c-2e60-4e85-979f-c6b1a9e9966f",
         "7657e774-1634-4cf7-af8e-60a02c09b0ae"
       ]
     },
@@ -129,14 +134,14 @@
       "children": [
         "28486206-08e4-4cc2-bbe4-46f6cab33fdd",
         "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
+        "112d6abe-a910-4e6e-a8e6-5f845fe21658",
         "ad0caf61-c754-4466-ad75-064ba2b4b0f3",
+        "d765efc7-2078-444b-ade7-86a3c074ecb1",
         "e8e9464c-cf51-423e-86e4-a83f97633808",
         "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
         "634029ff-0014-494d-9d41-fe9249aaae8e",
-        "c2768186-89ea-4f56-9fb6-c61be10e251a",
-        "112d6abe-a910-4e6e-a8e6-5f845fe21658",
-        "d765efc7-2078-444b-ade7-86a3c074ecb1",
-        "377f4065-480e-4fe3-af92-049ede43870e"
+        "377f4065-480e-4fe3-af92-049ede43870e",
+        "c2768186-89ea-4f56-9fb6-c61be10e251a"
       ]
     },
     {
@@ -147,7 +152,8 @@
         "6306efb2-c7c4-4d66-aeb3-e12d6ead87a4",
         "d9b03f42-cde6-40d9-b644-27d302f7ff8e",
         "c3e9c3a3-4a2a-4f37-b8be-d99f27dc1a61",
-        "9d9d76c5-916a-45d8-a015-1359aee192aa"
+        "9d9d76c5-916a-45d8-a015-1359aee192aa",
+        "b456d03b-8c14-4f86-aa23-e656742ce6ea"
       ]
     },
     {
@@ -209,7 +215,9 @@
         "17c3074c-865a-430d-9d74-fa0968261ba3",
         "6526ce07-9465-4bff-b84e-aa7926eebc28",
         "b135c146-d54b-46b2-851c-7fc370ede8fc",
-        "4ebc88a1-fba4-4991-97a2-030874168f01"
+        "4ebc88a1-fba4-4991-97a2-030874168f01",
+        "a237cf29-f293-42d7-b63e-fcf44beee6e2",
+        "c9e78519-1f27-49de-98dd-c3059591c58e"
       ]
     },
     {
@@ -242,7 +250,8 @@
         "634029ff-0014-494d-9d41-fe9249aaae8e",
         "c9e78519-1f27-49de-98dd-c3059591c58e",
         "7d435570-aec6-4fdd-8215-13360af99d02",
-        "b9455c62-27f0-4eae-8e36-5e26d85b0d38"
+        "b9455c62-27f0-4eae-8e36-5e26d85b0d38",
+        "b6d729c4-d082-44a2-bd5c-c39d75c3e928"
       ]
     },
     {
@@ -299,10 +308,11 @@
       "children": [
         "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
         "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
-        "42ea06d3-0e49-4184-9d52-aa8a5ab550a4",
-        "346428f0-158d-427a-86c1-20fc2a18238e",
         "97444934-a8ab-4f53-8cf4-0350e53cdcad",
-        "3e857f69-ea92-4f22-95ad-072c3249aed7"
+        "3e857f69-ea92-4f22-95ad-072c3249aed7",
+        "42ea06d3-0e49-4184-9d52-aa8a5ab550a4",
+        "b6d729c4-d082-44a2-bd5c-c39d75c3e928",
+        "346428f0-158d-427a-86c1-20fc2a18238e"
       ]
     },
     {
@@ -393,25 +403,29 @@
       "text": "📄 Articles",
       "children": [
         "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
-        "dde162ad-72ae-4371-9b88-c4f078f81793",
-        "2d708966-ca73-4681-85fa-900c91b9d489",
-        "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
-        "1ee6e87c-afd7-4165-a698-7413d381dda9",
-        "a761e9fd-7100-4832-a2ee-c33addce6a03",
         "97444934-a8ab-4f53-8cf4-0350e53cdcad",
-        "3e857f69-ea92-4f22-95ad-072c3249aed7"
+        "b6d729c4-d082-44a2-bd5c-c39d75c3e928",
+        "3e857f69-ea92-4f22-95ad-072c3249aed7",
+        "2d708966-ca73-4681-85fa-900c91b9d489",
+        "dde162ad-72ae-4371-9b88-c4f078f81793",
+        "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
+        "981e07bd-957f-4b46-be7e-1893eba909f6",
+        "1ee6e87c-afd7-4165-a698-7413d381dda9",
+        "a761e9fd-7100-4832-a2ee-c33addce6a03"
       ]
     },
     {
       "id": "79c3f389-7efb-45c7-8af3-bd325b02530a",
       "text": "📊 Reports",
       "children": [
-        "26c366e5-9b08-4427-aa50-abb910ffd294",
         "392122d9-aacf-48a4-aa63-ae37bfd84888",
-        "ff8d1324-3f8f-4918-a31a-8d583ee4d4a3",
-        "542f2f30-78fd-4723-8bd8-c7d6cc3cf247",
         "d1bb649d-2951-47ee-aeab-31861d3027cb",
-        "5acdb295-aa6b-4898-b499-961c0fb9d7d1"
+        "5acdb295-aa6b-4898-b499-961c0fb9d7d1",
+        "c5fecc70-3411-4ad8-ae2c-24eb94fa4b9e",
+        "ff8d1324-3f8f-4918-a31a-8d583ee4d4a3",
+        "e0a76495-c00a-42bb-b571-894f4c03c025",
+        "542f2f30-78fd-4723-8bd8-c7d6cc3cf247",
+        "26c366e5-9b08-4427-aa50-abb910ffd294"
       ]
     },
     {
@@ -447,7 +461,8 @@
         "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
         "048d1e17-a657-4cf4-a5de-fea0660f037b",
         "2d708966-ca73-4681-85fa-900c91b9d489",
-        "dde162ad-72ae-4371-9b88-c4f078f81793"
+        "dde162ad-72ae-4371-9b88-c4f078f81793",
+        "981e07bd-957f-4b46-be7e-1893eba909f6"
       ]
     },
     {
@@ -768,8 +783,8 @@
       "id": "d1bb649d-2951-47ee-aeab-31861d3027cb",
       "text": "[SlashData - the leading analyst in the developer economy.](https://www.slashdata.co/)",
       "children": [
-        "7f7b9945-967f-41f9-99a6-4b85359d36f5",
         "41fae60b-fc5d-4d81-99fd-f2a002768544",
+        "7f7b9945-967f-41f9-99a6-4b85359d36f5",
         "ec182dd0-c85d-420d-9f19-0b50735d94a7",
         "9a255429-f1b7-4977-b6bb-17747ee1798a"
       ]
@@ -1115,6 +1130,7 @@
       "id": "112d6abe-a910-4e6e-a8e6-5f845fe21658",
       "text": "[The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)",
       "children": [
+        "d38109bd-a966-479e-8adf-0cb07c93712e",
         "5789fbfe-5d87-4bab-af9d-a225c74dbf6e"
       ]
     },
@@ -1212,6 +1228,160 @@
     {
       "id": "0d5b6573-b9d8-4ffd-8f82-94b8d7bcf871",
       "text": "[Feedly | RSS reader](https://feedly.com/)"
+    },
+    {
+      "id": "9be2d6c4-7915-49bf-b27f-96695c34271c",
+      "text": "[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)"
+    },
+    {
+      "id": "981e07bd-957f-4b46-be7e-1893eba909f6",
+      "text": "[Dont Catch Exceptions](https://wiki.c2.com/?DontCatchExceptions)"
+    },
+    {
+      "id": "d38109bd-a966-479e-8adf-0cb07c93712e",
+      "text": "Basics of the Unix Philosophy",
+      "children": [
+        "ad38109c-8e51-43e1-a4eb-890be5941b25",
+        "39e4b7b7-7b1d-4aaf-b967-28dd89f96441",
+        "3e9e51e2-3d36-4fbd-83e5-a3eb06467939",
+        "29ff0a65-cb22-47ca-9d5b-86f02d1ca709",
+        "be4ee27b-d173-435e-b8a3-aaf9580ef27c",
+        "cfdf7d12-d8a2-4953-bbea-032a37fc754a",
+        "ede26db8-292b-4011-83cb-113ba0d34628",
+        "62fea8e2-105a-4a07-aa6c-35f2e89fcabb",
+        "b000be8e-88d1-4042-b121-3091c2100109",
+        "70d259f1-4d5a-43cf-bc95-8995696c88ae",
+        "bc3cb963-0806-4cbe-94e0-d88072e16c52",
+        "3924c3cb-ac0a-47d4-8600-1795531de279",
+        "985a239c-b3b3-4d6c-b2e3-23b28a3bebba",
+        "b73ef16c-935e-4c9c-b77a-a40a33136e16",
+        "73132356-78d6-478f-a45f-0569838ac622",
+        "29c20d44-08f0-441d-bf49-e7afd6b065ad",
+        "4c1fd88c-d8fd-4413-afbe-fc8e02fd179a"
+      ]
+    },
+    {
+      "id": "b6d729c4-d082-44a2-bd5c-c39d75c3e928",
+      "text": "[Test first](https://blog.cleancoder.com/uncle-bob/2013/09/23/Test-first.html)"
+    },
+    {
+      "id": "200fb470-0962-46b1-bfa7-e9ab25b06af4",
+      "text": "[Craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship)",
+      "children": [
+        "6d97dd62-563a-44bb-ba0c-48886167d5ba",
+        "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d"
+      ]
+    },
+    {
+      "id": "ad38109c-8e51-43e1-a4eb-890be5941b25",
+      "text": "Rule of Modularity: Write simple parts connected by clean interfaces."
+    },
+    {
+      "id": "39e4b7b7-7b1d-4aaf-b967-28dd89f96441",
+      "text": "Rule of Clarity: Clarity is better than cleverness."
+    },
+    {
+      "id": "3e9e51e2-3d36-4fbd-83e5-a3eb06467939",
+      "text": "Rule of Composition: Design programs to be connected to other programs."
+    },
+    {
+      "id": "29ff0a65-cb22-47ca-9d5b-86f02d1ca709",
+      "text": "Rule of Separation: Separate policy from mechanism; separate interfaces from engines."
+    },
+    {
+      "id": "be4ee27b-d173-435e-b8a3-aaf9580ef27c",
+      "text": "Rule of Simplicity: Design for simplicity; add complexity only where you must."
+    },
+    {
+      "id": "cfdf7d12-d8a2-4953-bbea-032a37fc754a",
+      "text": "Rule of Parsimony: Write a big program only when it is clear by demonstration that nothing else will do."
+    },
+    {
+      "id": "ede26db8-292b-4011-83cb-113ba0d34628",
+      "text": "Rule of Transparency: Design for visibility to make inspection and debugging easier."
+    },
+    {
+      "id": "62fea8e2-105a-4a07-aa6c-35f2e89fcabb",
+      "text": "Rule of Robustness: Robustness is the child of transparency and simplicity."
+    },
+    {
+      "id": "b000be8e-88d1-4042-b121-3091c2100109",
+      "text": "Rule of Representation: Fold knowledge into data so program logic can be stupid and robust."
+    },
+    {
+      "id": "70d259f1-4d5a-43cf-bc95-8995696c88ae",
+      "text": "Rule of Least Surprise: In interface design, always do the least surprising thing."
+    },
+    {
+      "id": "bc3cb963-0806-4cbe-94e0-d88072e16c52",
+      "text": "Rule of Silence: When a program has nothing surprising to say, it should say nothing."
+    },
+    {
+      "id": "3924c3cb-ac0a-47d4-8600-1795531de279",
+      "text": "Rule of Repair: When you must fail, fail noisily and as soon as possible."
+    },
+    {
+      "id": "985a239c-b3b3-4d6c-b2e3-23b28a3bebba",
+      "text": "Rule of Economy: Programmer time is expensive; conserve it in preference to machine time."
+    },
+    {
+      "id": "b73ef16c-935e-4c9c-b77a-a40a33136e16",
+      "text": "Rule of Generation: Avoid hand-hacking; write programs to write programs when you can."
+    },
+    {
+      "id": "73132356-78d6-478f-a45f-0569838ac622",
+      "text": "Rule of Optimization: Prototype before polishing. Get it working before you optimize it."
+    },
+    {
+      "id": "29c20d44-08f0-441d-bf49-e7afd6b065ad",
+      "text": "Rule of Diversity: Distrust all claims for “one true way”."
+    },
+    {
+      "id": "4c1fd88c-d8fd-4413-afbe-fc8e02fd179a",
+      "text": "Rule of Extensibility: Design for the future, because it will be here sooner than you think."
+    },
+    {
+      "id": "896d534c-4a5f-404c-bc9d-0aad0fc1d3fb",
+      "text": "[Docker Desktop: The #1 Containerization Tool for Developers | Docker](https://www.docker.com/products/docker-desktop/)"
+    },
+    {
+      "id": "960bde3c-2e60-4e85-979f-c6b1a9e9966f",
+      "text": "[Zoom](https://zoom.us/)"
+    },
+    {
+      "id": "c5fecc70-3411-4ad8-ae2c-24eb94fa4b9e",
+      "text": "[Octoverse 2023: The state of open source | The State of the Octoverse](https://octoverse.github.com/)"
+    },
+    {
+      "id": "99cf6d1b-1e7c-4561-905d-10056f2fd0d3",
+      "text": "[Gartner for Software Engineering Leaders](https://www.gartner.com/en/software-engineering)",
+      "children": [
+        "3232664d-b1f0-4648-93a5-a12ac7d0abcd",
+        "ace99f49-6c2e-4f9f-bb7e-3c4fbba08c60"
+      ]
+    },
+    {
+      "id": "e0a76495-c00a-42bb-b571-894f4c03c025",
+      "text": "[Gartner - Wikipedia](https://en.wikipedia.org/wiki/Gartner)",
+      "children": [
+        "99cf6d1b-1e7c-4561-905d-10056f2fd0d3"
+      ]
+    },
+    {
+      "id": "3232664d-b1f0-4648-93a5-a12ac7d0abcd",
+      "text": "[Lead High-Performing Software Engineering Teams | Gartner](https://www.gartner.com/en/software-engineering/topics/software-engineering-leadership)"
+    },
+    {
+      "id": "ace99f49-6c2e-4f9f-bb7e-3c4fbba08c60",
+      "text": "[Magic Quadrant Research Methodology | Gartner](https://www.gartner.com/en/research/methodologies/magic-quadrants-research)"
+    },
+    {
+      "id": "b456d03b-8c14-4f86-aa23-e656742ce6ea",
+      "text": "[Logitech MX Keys Mini for Mac - Bluetooth Keyboard](https://www.logitech.com/en-us/products/keyboards/mx-keys-mini-for-mac.920-010389.html)"
+    },
+    {
+      "id": "6e0c0c28-764e-43dc-bc80-e33423951608",
+      "text": "[ngrok | Connect localhost to the internet for testing applications and APIs](https://ngrok.com/)"
     }
   ]
 }
