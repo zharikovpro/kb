@@ -1,0 +1,803 @@
+{
+  "notes": [
+    {
+      "id": "8f8f6190-8819-4e1a-a7a2-bd910ae562d5",
+      "text": "Experts",
+      "children": [
+        "dafb9909-b9b2-43d5-a7ce-906d095a7e33",
+        "9e628e82-8f43-4f79-b607-b71396a02686",
+        "37a837a3-3fba-4b5b-8c6b-5b1e11444f66",
+        "4a6c026d-8d4f-4d3d-b1ca-f4389a228f66",
+        "a0511261-91f0-4546-ae49-5ec55f9abc6d",
+        "97386e6c-8ce0-49a8-9888-0f56b9e5407e",
+        "71dc55b6-0d3d-470c-b451-51a4985e43e9",
+        "302cfdca-3083-47ea-af4c-e99d84672db4",
+        "8d856404-3c99-4fe2-abd7-392b3aaffe56"
+      ]
+    },
+    {
+      "id": "6b61108b-2b3a-44ad-9604-da62791b55d1",
+      "text": "Library",
+      "children": [
+        "5d22a013-52f3-485e-8301-50703b257489",
+        "1774c7ce-9bfd-4b0d-9950-d76238d67b62",
+        "41ba2458-2cd8-4078-bd8e-2b65dd49229e",
+        "5fe39731-4724-477b-a77b-19a45313a030",
+        "79c3f389-7efb-45c7-8af3-bd325b02530a"
+      ]
+    },
+    {
+      "id": "d6b8bf89-968c-48eb-acff-a9cdc53dfc29",
+      "text": "Hardware",
+      "children": [
+        "e961a6e9-ffac-448c-ac54-3ea2aa295c3a",
+        "13bbd5c9-f3c0-4ac6-ab10-2e351ee1b706",
+        "c37ea8ea-b003-47fb-b46e-9946249799c2",
+        "103e427c-13c8-4679-a508-aab0933a57f1",
+        "93ff9dc6-6ce3-4dc4-9dc3-5aa2c64eb634",
+        "bd5aa63a-ea6f-4046-a7ff-4cc45127a038"
+      ]
+    },
+    {
+      "id": "d7ad5cb1-c2e7-4de9-8f07-1f69d7d23ba4",
+      "text": "Software",
+      "children": [
+        "919732b3-f9e6-4359-88a3-381fea3c9473",
+        "eb7c99be-376f-4f41-83ef-c616fde9bf40",
+        "c96df81d-f0e2-454f-9993-5927e8b9a4f5"
+      ]
+    },
+    {
+      "id": "5d22a013-52f3-485e-8301-50703b257489",
+      "text": "📚 Books",
+      "children": [
+        "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
+        "ad0caf61-c754-4466-ad75-064ba2b4b0f3",
+        "5aff23ca-dc5b-4084-8c83-7e146b18f4bb",
+        "e8e9464c-cf51-423e-86e4-a83f97633808",
+        "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
+        "634029ff-0014-494d-9d41-fe9249aaae8e"
+      ]
+    },
+    {
+      "id": "c37ea8ea-b003-47fb-b46e-9946249799c2",
+      "text": "⌨️ Keyboard",
+      "children": [
+        "2b5366c9-f6ee-47c2-bb13-381bb5b9fbd3",
+        "6306efb2-c7c4-4d66-aeb3-e12d6ead87a4",
+        "d9b03f42-cde6-40d9-b644-27d302f7ff8e",
+        "c3e9c3a3-4a2a-4f37-b8be-d99f27dc1a61",
+        "9d9d76c5-916a-45d8-a015-1359aee192aa"
+      ]
+    },
+    {
+      "id": "103e427c-13c8-4679-a508-aab0933a57f1",
+      "text": "🖱️ Mouse",
+      "children": [
+        "479233f3-37db-4455-8038-abc114e83a97",
+        "26ffab2e-ce25-45e8-8924-abce754c1522",
+        "da853c64-8c90-4180-8a1a-73e4baaa0b62"
+      ]
+    },
+    {
+      "id": "bd5aa63a-ea6f-4046-a7ff-4cc45127a038",
+      "text": "Router",
+      "children": [
+        "c27a7d9b-bf4b-4f3a-9c05-a6ca6f77c095"
+      ]
+    },
+    {
+      "id": "13bbd5c9-f3c0-4ac6-ab10-2e351ee1b706",
+      "text": "🖥️ Monitor",
+      "children": [
+        "12a9e02b-3499-4f53-9ee0-8acaf0176b62",
+        "eae0ce82-7c10-4e7d-930c-a6551575b659",
+        "173ee182-e49d-4fd4-87c3-35b16bd58a96"
+      ]
+    },
+    {
+      "id": "e961a6e9-ffac-448c-ac54-3ea2aa295c3a",
+      "text": "🪑 Chair",
+      "children": [
+        "12a9e02b-3499-4f53-9ee0-8acaf0176b62",
+        "5553c3bf-4ea1-406a-9029-2a9c6da3c2e9"
+      ]
+    },
+    {
+      "id": "93ff9dc6-6ce3-4dc4-9dc3-5aa2c64eb634",
+      "text": "Desk",
+      "children": [
+        "12a9e02b-3499-4f53-9ee0-8acaf0176b62",
+        "4e2dea77-a206-4659-892a-262b2ed9253e"
+      ]
+    },
+    {
+      "id": "352a8136-e7af-4591-9186-b87b090fb63d",
+      "text": "Practices",
+      "children": [
+        "da6f4be1-02c3-4440-8060-8a86cb62fed8",
+        "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
+        "59f6c398-cc59-484f-ad80-5bb664d046d2"
+      ]
+    },
+    {
+      "id": "57cb5d37-09c6-4cc8-b2b4-0b4e5bc3fbec",
+      "text": "Languages",
+      "children": [
+        "147adf6a-2543-42c7-9ad1-f1438513f7be",
+        "6abfd86c-d1c2-496d-8217-b8c6fcd8c53e",
+        "8473ed69-c44a-4485-9f07-4eecdc9106ea"
+      ]
+    },
+    {
+      "id": "1774c7ce-9bfd-4b0d-9950-d76238d67b62",
+      "text": "📺 Videos",
+      "children": [
+        "42ea06d3-0e49-4184-9d52-aa8a5ab550a4",
+        "ba878ce8-c6f1-4f0d-a753-414c86b111e2",
+        "17c3074c-865a-430d-9d74-fa0968261ba3",
+        "6526ce07-9465-4bff-b84e-aa7926eebc28",
+        "b135c146-d54b-46b2-851c-7fc370ede8fc",
+        "4ebc88a1-fba4-4991-97a2-030874168f01"
+      ]
+    },
+    {
+      "id": "5fe39731-4724-477b-a77b-19a45313a030",
+      "text": "💬 Quotes",
+      "children": [
+        "1cd78ea2-7194-4335-a45b-d884360cde4e",
+        "73a57e0f-d378-49e3-be07-d2df35389422",
+        "8a04c667-61a7-4359-a5eb-aea6b23a5065",
+        "e68b9457-bce6-4fea-a7a6-50b08af9a7ae",
+        "31867e12-f7d4-48c9-a97e-3de39d27f427",
+        "b04faee6-23fa-4649-879b-6cdfe87ac627"
+      ]
+    },
+    {
+      "id": "542f2f30-78fd-4723-8bd8-c7d6cc3cf247",
+      "text": "[Technology Radar](https://www.thoughtworks.com/radar)"
+    },
+    {
+      "id": "919732b3-f9e6-4359-88a3-381fea3c9473",
+      "text": "Services",
+      "children": [
+        "b554521d-9797-4230-9607-b9360b270623",
+        "b5d50272-28a2-47fd-9d1e-23901b39f47e",
+        "f958176a-11e9-4c1c-ab79-6776982eb39a",
+        "3db4156e-5845-4add-8045-5851d1694814",
+        "48bf19df-c236-4e49-bfdf-06d4928c6642",
+        "a641be90-5094-479b-9c50-4c4321dfc371"
+      ]
+    },
+    {
+      "id": "b554521d-9797-4230-9607-b9360b270623",
+      "text": "Todoist"
+    },
+    {
+      "id": "b5d50272-28a2-47fd-9d1e-23901b39f47e",
+      "text": "Tresorit"
+    },
+    {
+      "id": "da6f4be1-02c3-4440-8060-8a86cb62fed8",
+      "text": "[TDD | Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)",
+      "children": [
+        "c9e78519-1f27-49de-98dd-c3059591c58e",
+        "634029ff-0014-494d-9d41-fe9249aaae8e"
+      ]
+    },
+    {
+      "id": "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
+      "text": "[BDD | Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)"
+    },
+    {
+      "id": "048d1e17-a657-4cf4-a5de-fea0660f037b",
+      "text": "[XP | Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)",
+      "children": [
+        "5609235b-9b14-4b27-a7cb-d1c3ab92996d"
+      ]
+    },
+    {
+      "id": "71dc55b6-0d3d-470c-b451-51a4985e43e9",
+      "text": "[DHH | David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)"
+    },
+    {
+      "id": "a0511261-91f0-4546-ae49-5ec55f9abc6d",
+      "text": "[Sandi Metz](https://en.wikipedia.org/wiki/Sandi_Metz)",
+      "children": [
+        "17c3074c-865a-430d-9d74-fa0968261ba3",
+        "a237cf29-f293-42d7-b63e-fcf44beee6e2",
+        "c9e78519-1f27-49de-98dd-c3059591c58e"
+      ]
+    },
+    {
+      "id": "37a837a3-3fba-4b5b-8c6b-5b1e11444f66",
+      "text": "[Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer))",
+      "children": [
+        "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
+        "b04faee6-23fa-4649-879b-6cdfe87ac627",
+        "e8e9464c-cf51-423e-86e4-a83f97633808"
+      ]
+    },
+    {
+      "id": "9e628e82-8f43-4f79-b607-b71396a02686",
+      "text": "[Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)",
+      "children": [
+        "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
+        "b04faee6-23fa-4649-879b-6cdfe87ac627",
+        "da6f4be1-02c3-4440-8060-8a86cb62fed8",
+        "048d1e17-a657-4cf4-a5de-fea0660f037b",
+        "e8e9464c-cf51-423e-86e4-a83f97633808"
+      ]
+    },
+    {
+      "id": "dafb9909-b9b2-43d5-a7ce-906d095a7e33",
+      "text": "[Uncle Bob | Robert Cecil Martin](https://en.wikipedia.org/wiki/Robert_C._Martin)",
+      "children": [
+        "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
+        "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
+        "42ea06d3-0e49-4184-9d52-aa8a5ab550a4",
+        "346428f0-158d-427a-86c1-20fc2a18238e",
+        "97444934-a8ab-4f53-8cf4-0350e53cdcad"
+      ]
+    },
+    {
+      "id": "97386e6c-8ce0-49a8-9888-0f56b9e5407e",
+      "text": "Jez Humble"
+    },
+    {
+      "id": "f958176a-11e9-4c1c-ab79-6776982eb39a",
+      "text": "CodeClimate",
+      "children": [
+        "4c5c34cc-c2c8-48b6-a255-43677d941f05",
+        "016dd81c-2ca2-4cdc-b33a-1996abbd7d9e"
+      ]
+    },
+    {
+      "id": "4c5c34cc-c2c8-48b6-a255-43677d941f05",
+      "text": "Quality"
+    },
+    {
+      "id": "016dd81c-2ca2-4cdc-b33a-1996abbd7d9e",
+      "text": "Velocity"
+    },
+    {
+      "id": "3db4156e-5845-4add-8045-5851d1694814",
+      "text": "Sentry",
+      "children": [
+        "e152e988-4876-46f1-b015-9c4c65212e26"
+      ]
+    },
+    {
+      "id": "4a6c026d-8d4f-4d3d-b1ca-f4389a228f66",
+      "text": "Steve McConnell"
+    },
+    {
+      "id": "147adf6a-2543-42c7-9ad1-f1438513f7be",
+      "text": "JavaScript",
+      "children": [
+        "ba878ce8-c6f1-4f0d-a753-414c86b111e2",
+        "26c366e5-9b08-4427-aa50-abb910ffd294",
+        "26294495-1abb-4105-9caf-70c407775386",
+        "48c66850-a3d6-4856-9566-fd3091668cc4"
+      ]
+    },
+    {
+      "id": "26c366e5-9b08-4427-aa50-abb910ffd294",
+      "text": "[State of JavaScript](https://stateofjs.com/)"
+    },
+    {
+      "id": "eb7c99be-376f-4f41-83ef-c616fde9bf40",
+      "text": "JetBrains Toolbox",
+      "children": [
+        "b3985d8e-c127-4b98-9de4-6dea37da876d",
+        "6812260c-10da-4a8d-b48d-11ee8b1b6c03",
+        "acc2a3a9-2590-4ddd-a340-c0e0e713b0e1"
+      ]
+    },
+    {
+      "id": "b3985d8e-c127-4b98-9de4-6dea37da876d",
+      "text": "RubyMine"
+    },
+    {
+      "id": "6812260c-10da-4a8d-b48d-11ee8b1b6c03",
+      "text": "WebStorm"
+    },
+    {
+      "id": "acc2a3a9-2590-4ddd-a340-c0e0e713b0e1",
+      "text": "DataGrip"
+    },
+    {
+      "id": "6abfd86c-d1c2-496d-8217-b8c6fcd8c53e",
+      "text": "Ruby",
+      "children": [
+        "a0511261-91f0-4546-ae49-5ec55f9abc6d",
+        "71dc55b6-0d3d-470c-b451-51a4985e43e9"
+      ]
+    },
+    {
+      "id": "346428f0-158d-427a-86c1-20fc2a18238e",
+      "text": "[SOLID](https://en.wikipedia.org/wiki/SOLID)",
+      "children": [
+        "17c3074c-865a-430d-9d74-fa0968261ba3"
+      ]
+    },
+    {
+      "id": "41ba2458-2cd8-4078-bd8e-2b65dd49229e",
+      "text": "📄 Articles",
+      "children": [
+        "2d708966-ca73-4681-85fa-900c91b9d489",
+        "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
+        "1ee6e87c-afd7-4165-a698-7413d381dda9",
+        "dde162ad-72ae-4371-9b88-c4f078f81793",
+        "a761e9fd-7100-4832-a2ee-c33addce6a03",
+        "97444934-a8ab-4f53-8cf4-0350e53cdcad"
+      ]
+    },
+    {
+      "id": "79c3f389-7efb-45c7-8af3-bd325b02530a",
+      "text": "📊 Reports",
+      "children": [
+        "26c366e5-9b08-4427-aa50-abb910ffd294",
+        "392122d9-aacf-48a4-aa63-ae37bfd84888",
+        "ff8d1324-3f8f-4918-a31a-8d583ee4d4a3",
+        "542f2f30-78fd-4723-8bd8-c7d6cc3cf247",
+        "d1bb649d-2951-47ee-aeab-31861d3027cb",
+        "5acdb295-aa6b-4898-b499-961c0fb9d7d1"
+      ]
+    },
+    {
+      "id": "8d856404-3c99-4fe2-abd7-392b3aaffe56",
+      "text": "[Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey)",
+      "children": [
+        "6526ce07-9465-4bff-b84e-aa7926eebc28",
+        "6561e0e6-4518-4fc7-bcdd-52f2a5813dea",
+        "b135c146-d54b-46b2-851c-7fc370ede8fc",
+        "4ebc88a1-fba4-4991-97a2-030874168f01"
+      ]
+    },
+    {
+      "id": "6526ce07-9465-4bff-b84e-aa7926eebc28",
+      "text": "[Hammock Driven Development - Rich Hickey - YouTube](https://www.youtube.com/watch?v=f84n5oFoZBc)"
+    },
+    {
+      "id": "6561e0e6-4518-4fc7-bcdd-52f2a5813dea",
+      "text": "[Keynote The Value of Values - Rich Hickey - YouTube](https://www.youtube.com/watch?v=-I-VpPMzG7c)"
+    },
+    {
+      "id": "b135c146-d54b-46b2-851c-7fc370ede8fc",
+      "text": "[Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey - YouTube](https://www.youtube.com/watch?v=rI8tNMsozo0)"
+    },
+    {
+      "id": "4ebc88a1-fba4-4991-97a2-030874168f01",
+      "text": "[\"Design in Practice\" by Rich Hickey - YouTube](https://www.youtube.com/watch?v=c5QF2HjHLSE)"
+    },
+    {
+      "id": "302cfdca-3083-47ea-af4c-e99d84672db4",
+      "text": "[Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham)",
+      "children": [
+        "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
+        "048d1e17-a657-4cf4-a5de-fea0660f037b",
+        "2d708966-ca73-4681-85fa-900c91b9d489",
+        "dde162ad-72ae-4371-9b88-c4f078f81793"
+      ]
+    },
+    {
+      "id": "2d708966-ca73-4681-85fa-900c91b9d489",
+      "text": "[Optimize Later](https://wiki.c2.com/?OptimizeLater)"
+    },
+    {
+      "id": "b04faee6-23fa-4649-879b-6cdfe87ac627",
+      "text": "[Kent Beck Design Rules:](https://martinfowler.com/bliki/BeckDesignRules.html)\n\n- Passes the tests\n- Reveals intention\n- No duplication\n- Fewest elements"
+    },
+    {
+      "id": "c3e9c3a3-4a2a-4f37-b8be-d99f27dc1a61",
+      "text": "[Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/)"
+    },
+    {
+      "id": "d9b03f42-cde6-40d9-b644-27d302f7ff8e",
+      "text": "[ErgoDox EZ](https://ergodox-ez.com/)"
+    },
+    {
+      "id": "26ffab2e-ce25-45e8-8924-abce754c1522",
+      "text": "[Lift](https://www.logitech.com/en-us/products/mice/lift-vertical-ergonomic-mouse.html)"
+    },
+    {
+      "id": "da853c64-8c90-4180-8a1a-73e4baaa0b62",
+      "text": "MX Master 3"
+    },
+    {
+      "id": "c27a7d9b-bf4b-4f3a-9c05-a6ca6f77c095",
+      "text": "Keenetic Hero 4G"
+    },
+    {
+      "id": "4e2dea77-a206-4659-892a-262b2ed9253e",
+      "text": "[Ikea Bekant sit/stand desk](https://www.ikea.com/us/en/cat/bekant-office-desks-18962/?filters=f-type%3ADesk%20sit%2Fstand)",
+      "children": [
+        "c78eb80a-58dd-425c-a5d0-e57b90433249"
+      ]
+    },
+    {
+      "id": "5553c3bf-4ea1-406a-9029-2a9c6da3c2e9",
+      "text": "[Herman Miller Embody](https://www.hermanmiller.com/en_lac/products/seating/office-chairs/embody-chairs/product-details/)"
+    },
+    {
+      "id": "33c6e19c-f9d2-482f-9531-9978c426ebad",
+      "text": "Principles",
+      "children": [
+        "346428f0-158d-427a-86c1-20fc2a18238e",
+        "d7224ab9-d763-40fe-96cf-0088de8051e4",
+        "d2c5f893-0ab0-4081-a801-c6856f768ca0"
+      ]
+    },
+    {
+      "id": "17c3074c-865a-430d-9d74-fa0968261ba3",
+      "text": "[GORUCO 2009 - SOLID Object-Oriented Design by Sandi Metz - YouTube](https://www.youtube.com/watch?v=v-2yFMzxqwU)"
+    },
+    {
+      "id": "a237cf29-f293-42d7-b63e-fcf44beee6e2",
+      "text": "[RailsConf 2014 - All the Little Things by Sandi Metz - YouTube](https://www.youtube.com/watch?v=8bZh5LMaSmE)"
+    },
+    {
+      "id": "c9e78519-1f27-49de-98dd-c3059591c58e",
+      "text": "[Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)"
+    },
+    {
+      "id": "48bf19df-c236-4e49-bfdf-06d4928c6642",
+      "text": "Copilot"
+    },
+    {
+      "id": "392122d9-aacf-48a4-aa63-ae37bfd84888",
+      "text": "StackOverflow Developers Survey"
+    },
+    {
+      "id": "ff8d1324-3f8f-4918-a31a-8d583ee4d4a3",
+      "text": "JetBrains developers survey"
+    },
+    {
+      "id": "6494e5b8-afb2-492b-b433-bd3caf926034",
+      "text": "[SDLC | Methodologies](https://en.wikipedia.org/wiki/Software_development_process#Methodologies)",
+      "children": [
+        "516ec531-086c-4440-8e1f-a56eb25d2b43",
+        "05832c84-6748-4a51-a53b-fe79ea277db8"
+      ]
+    },
+    {
+      "id": "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1",
+      "text": "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))",
+      "children": [
+        "a761e9fd-7100-4832-a2ee-c33addce6a03"
+      ]
+    },
+    {
+      "id": "041cf31d-1527-4e1c-9776-c63c639c792c",
+      "text": "👋 Welcome",
+      "children": [
+        "efa2c4b9-1976-47b7-9611-a99b9d2dc0e2",
+        "51bddefe-2f4c-49bf-ad86-0833a714318a"
+      ]
+    },
+    {
+      "id": "efa2c4b9-1976-47b7-9611-a99b9d2dc0e2",
+      "text": "This page is my knowledge base about software development."
+    },
+    {
+      "id": "516ec531-086c-4440-8e1f-a56eb25d2b43",
+      "text": "[Agile](https://en.wikipedia.org/wiki/Agile_software_development)",
+      "children": [
+        "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
+        "bd887a85-c44e-46e1-aac8-c02f1ae708f8",
+        "d7224ab9-d763-40fe-96cf-0088de8051e4",
+        "048d1e17-a657-4cf4-a5de-fea0660f037b",
+        "d08828f7-6658-4601-8eab-3c1cc29f4bd7",
+        "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1"
+      ]
+    },
+    {
+      "id": "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
+      "text": "[Manifesto for Agile Software Development](https://agilemanifesto.org/)",
+      "children": [
+        "1cd78ea2-7194-4335-a45b-d884360cde4e"
+      ]
+    },
+    {
+      "id": "1cd78ea2-7194-4335-a45b-d884360cde4e",
+      "text": "We are uncovering better ways of developing\nsoftware by doing it and helping others do it.\nThrough this work we have come to value:\n\n**Individuals and interactions** over processes and tools\n**Working software** over comprehensive documentation\n**Customer collaboration** over contract negotiation\n**Responding to change** over following a plan\n\nThat is, while there is value in the items on\nthe right, we value the items on the left more."
+    },
+    {
+      "id": "bd887a85-c44e-46e1-aac8-c02f1ae708f8",
+      "text": "[Software craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship)",
+      "children": [
+        "6d97dd62-563a-44bb-ba0c-48886167d5ba"
+      ]
+    },
+    {
+      "id": "6d97dd62-563a-44bb-ba0c-48886167d5ba",
+      "text": "[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)",
+      "children": [
+        "73a57e0f-d378-49e3-be07-d2df35389422"
+      ]
+    },
+    {
+      "id": "73a57e0f-d378-49e3-be07-d2df35389422",
+      "text": "As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:\n\nNot only working software, but also well-crafted software\nNot only responding to change, but also steadily adding value\nNot only individuals and interactions, but also a community of professionals\nNot only customer collaboration, but also productive partnerships\n\nThat is, in pursuit of the items on the left we have found the items on the right to be indispensable."
+    },
+    {
+      "id": "d7224ab9-d763-40fe-96cf-0088de8051e4",
+      "text": "[Agile software development principles](https://en.wikipedia.org/wiki/Agile_software_development#Agile_software_development_principles)",
+      "children": [
+        "8a04c667-61a7-4359-a5eb-aea6b23a5065"
+      ]
+    },
+    {
+      "id": "8a04c667-61a7-4359-a5eb-aea6b23a5065",
+      "text": "Customer satisfaction by early and continuous delivery of valuable software.\nWelcome changing requirements, even in late development.\nDeliver working software frequently (weeks rather than months).\nClose, daily cooperation between business people and developers.\nProjects are built around motivated individuals, who should be trusted.\nFace-to-face conversation is the best form of communication (co-location).\nWorking software is the primary measure of progress.\nSustainable development, able to maintain a constant pace.\nContinuous attention to technical excellence and good design.\nSimplicity—the art of maximizing the amount of work not done—is essential.\nBest architectures, requirements, and designs emerge from self-organizing teams.\nRegularly, the team reflects on how to become more effective, and adjusts accordingly."
+    },
+    {
+      "id": "d08828f7-6658-4601-8eab-3c1cc29f4bd7",
+      "text": "[Kanban](https://en.wikipedia.org/wiki/Kanban_(development))"
+    },
+    {
+      "id": "ad0caf61-c754-4466-ad75-064ba2b4b0f3",
+      "text": "[The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)"
+    },
+    {
+      "id": "59f6c398-cc59-484f-ad80-5bb664d046d2",
+      "text": "[Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)",
+      "children": [
+        "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
+        "a237cf29-f293-42d7-b63e-fcf44beee6e2",
+        "e8e9464c-cf51-423e-86e4-a83f97633808"
+      ]
+    },
+    {
+      "id": "d2c5f893-0ab0-4081-a801-c6856f768ca0",
+      "text": "https://en.wikipedia.org/wiki/List_of_software_development_philosophies#Rules_of_thumb,_laws,_guidelines_and_principles"
+    },
+    {
+      "id": "3acbdb95-8f31-4938-8354-156c2ab51c60",
+      "text": "Workstation",
+      "children": [
+        "15b06d5e-935e-4963-8c10-9bec1e70dc6d",
+        "d7ad5cb1-c2e7-4de9-8f07-1f69d7d23ba4",
+        "d6b8bf89-968c-48eb-acff-a9cdc53dfc29"
+      ]
+    },
+    {
+      "id": "15b06d5e-935e-4963-8c10-9bec1e70dc6d",
+      "text": "Ergonomics",
+      "children": [
+        "68583ce8-9165-4395-b7eb-13c8c74ef22f",
+        "5e0cbf74-71c7-40f3-98a3-cbabda590a44",
+        "fe2fea5a-8af9-447e-9e18-ff77f445cac0",
+        "d496565c-622c-4200-b678-9b3c6ef29bcf",
+        "6306efb2-c7c4-4d66-aeb3-e12d6ead87a4",
+        "2b5366c9-f6ee-47c2-bb13-381bb5b9fbd3",
+        "479233f3-37db-4455-8038-abc114e83a97"
+      ]
+    },
+    {
+      "id": "51bddefe-2f4c-49bf-ad86-0833a714318a",
+      "text": "Notes are managed using my pet project [Rrrighter](https://github.com/rrrighter/rrrighter)."
+    },
+    {
+      "id": "5e0cbf74-71c7-40f3-98a3-cbabda590a44",
+      "text": "[Office ergonomics: Your how-to guide - Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169)"
+    },
+    {
+      "id": "68583ce8-9165-4395-b7eb-13c8c74ef22f",
+      "text": "❣️ [Ergonomics Program by Environmental Health and Safety at Harvard](https://www.ehs.harvard.edu/programs/ergonomics)\n\nErgonomics is the applied science of equipment and process design to maximize productivity by reducing operator fatigue and discomfort. Simply put, ergonomics is the science of designing the job to fit the worker, rather than physically forcing the worker to fit the job.",
+      "children": [
+        "2be7bc78-ff9e-484b-8297-041231de9048"
+      ]
+    },
+    {
+      "id": "2be7bc78-ff9e-484b-8297-041231de9048",
+      "text": "[Computer Workstations](https://www.ehs.harvard.edu/programs/ergonomics#computer-workstations)",
+      "children": [
+        "12a9e02b-3499-4f53-9ee0-8acaf0176b62",
+        "05ca05d3-6b7a-4f47-b43c-c326a87efce3",
+        "a8933ae8-a5ce-4ed0-b361-2428776d8728"
+      ]
+    },
+    {
+      "id": "05ca05d3-6b7a-4f47-b43c-c326a87efce3",
+      "text": "[Common Pain Quickfix](https://www.ehs.harvard.edu/sites/default/files/common_pain_quick_fix_herman_miller.pdf)"
+    },
+    {
+      "id": "12a9e02b-3499-4f53-9ee0-8acaf0176b62",
+      "text": "[Guide to ergonomic computer workstation seated/standing posture](https://www.ehs.harvard.edu/sites/default/files/herman_miller_computer_workstation_posture_guide.pdf)"
+    },
+    {
+      "id": "a8933ae8-a5ce-4ed0-b361-2428776d8728",
+      "text": "[Shared workstation ergonomics fact sheet](https://www.ehs.harvard.edu/sites/default/files/shared_workstation_ergonomics_fact_sheet.pdf)"
+    },
+    {
+      "id": "fe2fea5a-8af9-447e-9e18-ff77f445cac0",
+      "text": "[Seating and ergonomics | CUH - Cambridge University Hospitals NHS Foundation Trust](https://www.cuh.nhs.uk/patient-information/seating-and-ergonomics/)"
+    },
+    {
+      "id": "479233f3-37db-4455-8038-abc114e83a97",
+      "text": "⚠️ [Risks & Issues Caused by Conventional Mice](https://kinesis-ergo.com/solutions/mouse-risk-factors/)"
+    },
+    {
+      "id": "6306efb2-c7c4-4d66-aeb3-e12d6ead87a4",
+      "text": "[The Full-Body Benefits of Split Keyboards ](https://kinesis-ergo.com/full-body-benefits-split-keyboards/)"
+    },
+    {
+      "id": "d496565c-622c-4200-b678-9b3c6ef29bcf",
+      "text": "[Setting Up Your Desktop - Microsoft Support](https://support.microsoft.com/en-gb/topic/setting-up-your-desktop-e9f3fc2c-e6fa-d27f-78c4-274b3669c425)"
+    },
+    {
+      "id": "2b5366c9-f6ee-47c2-bb13-381bb5b9fbd3",
+      "text": "⚠️ [Conventional Keyboard Risk Factors](https://kinesis-ergo.com/solutions/keyboard-risk-factors/)"
+    },
+    {
+      "id": "9d9d76c5-916a-45d8-a015-1359aee192aa",
+      "text": "[Kailh Box Brown Mechanical Switches](https://www.kailh.net/products/kailh-box-switch-set?variant=43650946793714)"
+    },
+    {
+      "id": "173ee182-e49d-4fd4-87c3-35b16bd58a96",
+      "text": "[North Bayou NB H180 Dual Monitor Desk Mount Stand Full Motion Swivel Monitor Arm Gas Spring for 22''- 35'' Computer Monitor from 2kg to 12kg](https://www.amazon.com.au/Monitor-Motion-Swivel-Spring-Computer/dp/B0714DN1QH)"
+    },
+    {
+      "id": "eae0ce82-7c10-4e7d-930c-a6551575b659",
+      "text": "[LG 32UN500-W Review: Great Budget Entry Into 4K | Tom's Hardware](https://www.tomshardware.com/reviews/lg-32un500-w)"
+    },
+    {
+      "id": "c78eb80a-58dd-425c-a5d0-e57b90433249",
+      "text": "Tabletop dimensions 60x80cm, min height 65cm"
+    },
+    {
+      "id": "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
+      "text": "[Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)"
+    },
+    {
+      "id": "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
+      "text": "[refactoring.guru](https://refactoring.guru/)"
+    },
+    {
+      "id": "8473ed69-c44a-4485-9f07-4eecdc9106ea",
+      "text": "TypeScript",
+      "children": [
+        "ba878ce8-c6f1-4f0d-a753-414c86b111e2",
+        "1ee6e87c-afd7-4165-a698-7413d381dda9"
+      ]
+    },
+    {
+      "id": "1ee6e87c-afd7-4165-a698-7413d381dda9",
+      "text": "[The Case For Returning Errors Instead of Throwing Them in Typescript](https://www.hugonteifeh.com/blog/the-case-for-returning-errors)"
+    },
+    {
+      "id": "e1584566-d15e-47af-af6d-4d35c3c6edad",
+      "text": "Stack",
+      "children": [
+        "57cb5d37-09c6-4cc8-b2b4-0b4e5bc3fbec"
+      ]
+    },
+    {
+      "id": "26294495-1abb-4105-9caf-70c407775386",
+      "text": "[React Hooks for Data Fetching – SWR](https://swr.vercel.app/)"
+    },
+    {
+      "id": "48c66850-a3d6-4856-9566-fd3091668cc4",
+      "text": "[Mock Service Worker - API mocking library for browser and Node.js](https://mswjs.io/)"
+    },
+    {
+      "id": "ba878ce8-c6f1-4f0d-a753-414c86b111e2",
+      "text": "[Expert led courses for front-end web developers. | egghead.io](https://egghead.io/)"
+    },
+    {
+      "id": "42ea06d3-0e49-4184-9d52-aa8a5ab550a4",
+      "text": "[Clean Coders: Level up your code.](https://cleancoders.com/)"
+    },
+    {
+      "id": "dde162ad-72ae-4371-9b88-c4f078f81793",
+      "text": "[Premature Optimization](https://wiki.c2.com/?PrematureOptimization)",
+      "children": [
+        "e68b9457-bce6-4fea-a7a6-50b08af9a7ae",
+        "31867e12-f7d4-48c9-a97e-3de39d27f427"
+      ]
+    },
+    {
+      "id": "e68b9457-bce6-4fea-a7a6-50b08af9a7ae",
+      "text": "Premature optimization is the root of all evil - [DonaldKnuth](https://en.wikipedia.org/wiki/Donald_Knuth)"
+    },
+    {
+      "id": "31867e12-f7d4-48c9-a97e-3de39d27f427",
+      "text": "Programmers waste enormous amounts of time thinking about, or worrying about, the speed of noncritical parts of their programs, and these attempts at efficiency actually have a strong negative impact when debugging and maintenance are considered. We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%."
+    },
+    {
+      "id": "5aff23ca-dc5b-4084-8c83-7e146b18f4bb",
+      "text": "The Art of UNIX Programming"
+    },
+    {
+      "id": "a761e9fd-7100-4832-a2ee-c33addce6a03",
+      "text": "[The official Scrum Guide](https://scrumguides.org/scrum-guide.html)"
+    },
+    {
+      "id": "c96df81d-f0e2-454f-9993-5927e8b9a4f5",
+      "text": "[OpenAPI Design & Documentation Management Tool | Stoplight](https://stoplight.io/)"
+    },
+    {
+      "id": "e8e9464c-cf51-423e-86e4-a83f97633808",
+      "text": "Refactoring Ruby Edition"
+    },
+    {
+      "id": "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
+      "text": "Extreme Programming Explained"
+    },
+    {
+      "id": "634029ff-0014-494d-9d41-fe9249aaae8e",
+      "text": "Test Driven Development By Example"
+    },
+    {
+      "id": "7f7b9945-967f-41f9-99a6-4b85359d36f5",
+      "text": "[STATE OF THE DEVELOPER NATION 25TH EDITION](https://www.slashdata.co/free-resources/state-of-the-developer-nation-25th-edition?)",
+      "children": [
+        "ec39c899-74ee-4f33-828c-eae8636be9e6",
+        "0f4447db-055b-462b-975c-b181b43808cf",
+        "2cc642b1-362c-48df-81c9-d90473fe3944"
+      ]
+    },
+    {
+      "id": "d1bb649d-2951-47ee-aeab-31861d3027cb",
+      "text": "[SlashData - the leading analyst in the developer economy.](https://www.slashdata.co/)",
+      "children": [
+        "7f7b9945-967f-41f9-99a6-4b85359d36f5"
+      ]
+    },
+    {
+      "id": "ec39c899-74ee-4f33-828c-eae8636be9e6",
+      "text": "https://www.slashdata.co/free-resources/the-state-of-developer-happiness?"
+    },
+    {
+      "id": "0f4447db-055b-462b-975c-b181b43808cf",
+      "text": "https://www.slashdata.co/free-resources/state-of-continuous-delivery-report-2023?"
+    },
+    {
+      "id": "2cc642b1-362c-48df-81c9-d90473fe3944",
+      "text": "https://www.slashdata.co/free-resources/the-state-of-cloud-native-development-1?"
+    },
+    {
+      "id": "e152e988-4876-46f1-b015-9c4c65212e26",
+      "text": "gartner sentry cool vendor"
+    },
+    {
+      "id": "a641be90-5094-479b-9c50-4c4321dfc371",
+      "text": "DataDog"
+    },
+    {
+      "id": "5acdb295-aa6b-4898-b499-961c0fb9d7d1",
+      "text": "https://dora.dev/",
+      "children": [
+        "f57af5c6-ba3a-4dd8-9b82-3073d27f7828"
+      ]
+    },
+    {
+      "id": "f57af5c6-ba3a-4dd8-9b82-3073d27f7828",
+      "text": "https://cloud.google.com/devops/state-of-devops"
+    },
+    {
+      "id": "05832c84-6748-4a51-a53b-fe79ea277db8",
+      "text": "[DevOps](https://en.wikipedia.org/wiki/DevOps)",
+      "children": [
+        "d017560b-ef09-411c-8142-5837982d4d6c"
+      ]
+    },
+    {
+      "id": "d017560b-ef09-411c-8142-5837982d4d6c",
+      "text": "CI/CD",
+      "children": [
+        "59191a6c-4601-4df4-a0ef-4719e7d5f073"
+      ]
+    },
+    {
+      "id": "59191a6c-4601-4df4-a0ef-4719e7d5f073",
+      "text": "trunk based dev"
+    },
+    {
+      "id": "97444934-a8ab-4f53-8cf4-0350e53cdcad",
+      "text": "[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)"
+    }
+  ]
+}
