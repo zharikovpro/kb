@@ -29,19 +29,18 @@
     },
     {
       "id": "33c6e19c-f9d2-482f-9531-9978c426ebad",
-      "text": "Principles",
+      "text": "[Rules of thumb, laws, guidelines and principles](https://en.wikipedia.org/wiki/List_of_software_development_philosophies#Rules_of_thumb,_laws,_guidelines_and_principles)",
       "children": [
         "d7224ab9-d763-40fe-96cf-0088de8051e4",
         "2bd8f900-168e-4d35-ae4a-f7858f769a03",
-        "365b79e7-1812-4c9a-86ee-a351740e4ebf",
-        "8121599f-818d-480b-81c6-6615d45f1e05",
         "b977aab0-459a-467a-864a-bb5fbe5f224d",
+        "8121599f-818d-480b-81c6-6615d45f1e05",
+        "365b79e7-1812-4c9a-86ee-a351740e4ebf",
         "b22c46ef-b9e9-4acb-9b93-3d18864806ac",
         "84923e28-25fd-47f0-9625-775e23532a22",
         "155086b4-49b3-426a-b167-40bd027c99e5",
         "453283d1-a9ca-4a5d-920d-d06b369e44f3",
-        "346428f0-158d-427a-86c1-20fc2a18238e",
-        "eb97e379-c42e-46e3-ac00-670ce6fc1903"
+        "346428f0-158d-427a-86c1-20fc2a18238e"
       ]
     },
     {
@@ -50,7 +49,9 @@
       "children": [
         "da6f4be1-02c3-4440-8060-8a86cb62fed8",
         "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
-        "59f6c398-cc59-484f-ad80-5bb664d046d2"
+        "59f6c398-cc59-484f-ad80-5bb664d046d2",
+        "e70cd69b-891d-4e2f-88f4-fe99c29ce64e",
+        "d017560b-ef09-411c-8142-5837982d4d6c"
       ]
     },
     {
@@ -124,12 +125,12 @@
       "children": [
         "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
         "ad0caf61-c754-4466-ad75-064ba2b4b0f3",
-        "5aff23ca-dc5b-4084-8c83-7e146b18f4bb",
         "e8e9464c-cf51-423e-86e4-a83f97633808",
         "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
         "634029ff-0014-494d-9d41-fe9249aaae8e",
         "c2768186-89ea-4f56-9fb6-c61be10e251a",
-        "112d6abe-a910-4e6e-a8e6-5f845fe21658"
+        "112d6abe-a910-4e6e-a8e6-5f845fe21658",
+        "d765efc7-2078-444b-ade7-86a3c074ecb1"
       ]
     },
     {
@@ -231,8 +232,9 @@
       "id": "da6f4be1-02c3-4440-8060-8a86cb62fed8",
       "text": "[TDD | Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)",
       "children": [
-        "c9e78519-1f27-49de-98dd-c3059591c58e",
-        "634029ff-0014-494d-9d41-fe9249aaae8e"
+        "3e857f69-ea92-4f22-95ad-072c3249aed7",
+        "634029ff-0014-494d-9d41-fe9249aaae8e",
+        "c9e78519-1f27-49de-98dd-c3059591c58e"
       ]
     },
     {
@@ -265,7 +267,8 @@
       "children": [
         "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
         "b04faee6-23fa-4649-879b-6cdfe87ac627",
-        "e8e9464c-cf51-423e-86e4-a83f97633808"
+        "e8e9464c-cf51-423e-86e4-a83f97633808",
+        "d765efc7-2078-444b-ade7-86a3c074ecb1"
       ]
     },
     {
@@ -287,12 +290,16 @@
         "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
         "42ea06d3-0e49-4184-9d52-aa8a5ab550a4",
         "346428f0-158d-427a-86c1-20fc2a18238e",
-        "97444934-a8ab-4f53-8cf4-0350e53cdcad"
+        "97444934-a8ab-4f53-8cf4-0350e53cdcad",
+        "3e857f69-ea92-4f22-95ad-072c3249aed7"
       ]
     },
     {
       "id": "97386e6c-8ce0-49a8-9888-0f56b9e5407e",
-      "text": "Jez Humble"
+      "text": "[Jez Humble](https://continuousdelivery.com/about/)",
+      "children": [
+        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb"
+      ]
     },
     {
       "id": "f958176a-11e9-4c1c-ab79-6776982eb39a",
@@ -316,16 +323,14 @@
     },
     {
       "id": "4a6c026d-8d4f-4d3d-b1ca-f4389a228f66",
-      "text": "Steve McConnell"
+      "text": "[Steve McConnell - Wikipedia](https://en.wikipedia.org/wiki/Steve_McConnell)"
     },
     {
       "id": "147adf6a-2543-42c7-9ad1-f1438513f7be",
       "text": "JavaScript",
       "children": [
         "ba878ce8-c6f1-4f0d-a753-414c86b111e2",
-        "26c366e5-9b08-4427-aa50-abb910ffd294",
-        "26294495-1abb-4105-9caf-70c407775386",
-        "48c66850-a3d6-4856-9566-fd3091668cc4"
+        "26c366e5-9b08-4427-aa50-abb910ffd294"
       ]
     },
     {
@@ -359,7 +364,8 @@
       "children": [
         "a0511261-91f0-4546-ae49-5ec55f9abc6d",
         "71dc55b6-0d3d-470c-b451-51a4985e43e9",
-        "a540fbbd-da3e-406d-b8c9-527054c77d17"
+        "a540fbbd-da3e-406d-b8c9-527054c77d17",
+        "e8e9464c-cf51-423e-86e4-a83f97633808"
       ]
     },
     {
@@ -367,20 +373,22 @@
       "text": "[SOLID](https://en.wikipedia.org/wiki/SOLID)",
       "children": [
         "17c3074c-865a-430d-9d74-fa0968261ba3",
-        "03777503-add3-43f0-9610-03d6c5685cda"
+        "c26f0155-f0b4-4918-bafc-21436f183663",
+        "e256730d-981f-408a-976b-f24d34cc809e"
       ]
     },
     {
       "id": "41ba2458-2cd8-4078-bd8e-2b65dd49229e",
       "text": "📄 Articles",
       "children": [
+        "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
+        "dde162ad-72ae-4371-9b88-c4f078f81793",
         "2d708966-ca73-4681-85fa-900c91b9d489",
         "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
         "1ee6e87c-afd7-4165-a698-7413d381dda9",
-        "dde162ad-72ae-4371-9b88-c4f078f81793",
         "a761e9fd-7100-4832-a2ee-c33addce6a03",
         "97444934-a8ab-4f53-8cf4-0350e53cdcad",
-        "d295df5b-41d3-4028-a2ed-79efc3da9ab3"
+        "3e857f69-ea92-4f22-95ad-072c3249aed7"
       ]
     },
     {
@@ -493,11 +501,11 @@
     },
     {
       "id": "392122d9-aacf-48a4-aa63-ae37bfd84888",
-      "text": "StackOverflow Developers Survey"
+      "text": "[Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)"
     },
     {
       "id": "ff8d1324-3f8f-4918-a31a-8d583ee4d4a3",
-      "text": "JetBrains developers survey"
+      "text": "[The State of Developer Ecosystem in 2022 Infographic | JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/lp/devecosystem-2022/)"
     },
     {
       "id": "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1",
@@ -556,7 +564,10 @@
     },
     {
       "id": "d08828f7-6658-4601-8eab-3c1cc29f4bd7",
-      "text": "[Kanban](https://en.wikipedia.org/wiki/Kanban_(development))"
+      "text": "[Kanban](https://en.wikipedia.org/wiki/Kanban_(development))",
+      "children": [
+        "fc294880-4891-4be5-a27e-84ddbb3d8536"
+      ]
     },
     {
       "id": "ad0caf61-c754-4466-ad75-064ba2b4b0f3",
@@ -564,11 +575,12 @@
     },
     {
       "id": "59f6c398-cc59-484f-ad80-5bb664d046d2",
-      "text": "[Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)",
+      "text": "[Code Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)",
       "children": [
+        "d765efc7-2078-444b-ade7-86a3c074ecb1",
+        "e8e9464c-cf51-423e-86e4-a83f97633808",
         "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
-        "a237cf29-f293-42d7-b63e-fcf44beee6e2",
-        "e8e9464c-cf51-423e-86e4-a83f97633808"
+        "a237cf29-f293-42d7-b63e-fcf44beee6e2"
       ]
     },
     {
@@ -694,14 +706,6 @@
       ]
     },
     {
-      "id": "26294495-1abb-4105-9caf-70c407775386",
-      "text": "[React Hooks for Data Fetching – SWR](https://swr.vercel.app/)"
-    },
-    {
-      "id": "48c66850-a3d6-4856-9566-fd3091668cc4",
-      "text": "[Mock Service Worker - API mocking library for browser and Node.js](https://mswjs.io/)"
-    },
-    {
       "id": "ba878ce8-c6f1-4f0d-a753-414c86b111e2",
       "text": "[Expert led courses for front-end web developers. | egghead.io](https://egghead.io/)"
     },
@@ -726,10 +730,6 @@
       "text": "Programmers waste enormous amounts of time thinking about, or worrying about, the speed of noncritical parts of their programs, and these attempts at efficiency actually have a strong negative impact when debugging and maintenance are considered. We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%."
     },
     {
-      "id": "5aff23ca-dc5b-4084-8c83-7e146b18f4bb",
-      "text": "The Art of UNIX Programming"
-    },
-    {
       "id": "a761e9fd-7100-4832-a2ee-c33addce6a03",
       "text": "[The official Scrum Guide](https://scrumguides.org/scrum-guide.html)"
     },
@@ -739,72 +739,61 @@
     },
     {
       "id": "e8e9464c-cf51-423e-86e4-a83f97633808",
-      "text": "Refactoring Ruby Edition"
+      "text": "[Refactoring Ruby Edition](https://martinfowler.com/books/refactoringRubyEd.html)"
     },
     {
       "id": "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
-      "text": "Extreme Programming Explained"
+      "text": "[Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/)"
     },
     {
       "id": "634029ff-0014-494d-9d41-fe9249aaae8e",
-      "text": "Test Driven Development By Example"
+      "text": "[Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck-ebook/dp/B095SQ9WP4/)"
     },
     {
       "id": "7f7b9945-967f-41f9-99a6-4b85359d36f5",
-      "text": "[STATE OF THE DEVELOPER NATION 25TH EDITION](https://www.slashdata.co/free-resources/state-of-the-developer-nation-25th-edition?)",
-      "children": [
-        "ec39c899-74ee-4f33-828c-eae8636be9e6",
-        "0f4447db-055b-462b-975c-b181b43808cf",
-        "2cc642b1-362c-48df-81c9-d90473fe3944"
-      ]
+      "text": "[State of the developer nation 25th edition](https://www.slashdata.co/free-resources/state-of-the-developer-nation-25th-edition)"
     },
     {
       "id": "d1bb649d-2951-47ee-aeab-31861d3027cb",
       "text": "[SlashData - the leading analyst in the developer economy.](https://www.slashdata.co/)",
       "children": [
-        "7f7b9945-967f-41f9-99a6-4b85359d36f5"
+        "7f7b9945-967f-41f9-99a6-4b85359d36f5",
+        "41fae60b-fc5d-4d81-99fd-f2a002768544",
+        "ec182dd0-c85d-420d-9f19-0b50735d94a7",
+        "9a255429-f1b7-4977-b6bb-17747ee1798a"
       ]
     },
     {
-      "id": "ec39c899-74ee-4f33-828c-eae8636be9e6",
-      "text": "https://www.slashdata.co/free-resources/the-state-of-developer-happiness?"
-    },
-    {
-      "id": "0f4447db-055b-462b-975c-b181b43808cf",
-      "text": "https://www.slashdata.co/free-resources/state-of-continuous-delivery-report-2023?"
-    },
-    {
-      "id": "2cc642b1-362c-48df-81c9-d90473fe3944",
-      "text": "https://www.slashdata.co/free-resources/the-state-of-cloud-native-development-1?"
-    },
-    {
       "id": "5acdb295-aa6b-4898-b499-961c0fb9d7d1",
-      "text": "https://dora.dev/",
+      "text": "[DORA | DevOps Research and Assessment](https://dora.dev/)",
       "children": [
         "f57af5c6-ba3a-4dd8-9b82-3073d27f7828"
       ]
     },
     {
       "id": "f57af5c6-ba3a-4dd8-9b82-3073d27f7828",
-      "text": "https://cloud.google.com/devops/state-of-devops"
+      "text": "[2023 State of DevOps Report  |  Google Cloud](https://cloud.google.com/devops/state-of-devops)"
     },
     {
       "id": "05832c84-6748-4a51-a53b-fe79ea277db8",
       "text": "[DevOps](https://en.wikipedia.org/wiki/DevOps)",
       "children": [
-        "d017560b-ef09-411c-8142-5837982d4d6c"
+        "d017560b-ef09-411c-8142-5837982d4d6c",
+        "5acdb295-aa6b-4898-b499-961c0fb9d7d1"
       ]
     },
     {
       "id": "d017560b-ef09-411c-8142-5837982d4d6c",
-      "text": "CI/CD",
+      "text": "[CI/CD - Wikipedia](https://en.wikipedia.org/wiki/CI/CD)",
       "children": [
-        "59191a6c-4601-4df4-a0ef-4719e7d5f073"
+        "59191a6c-4601-4df4-a0ef-4719e7d5f073",
+        "ec182dd0-c85d-420d-9f19-0b50735d94a7",
+        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb"
       ]
     },
     {
       "id": "59191a6c-4601-4df4-a0ef-4719e7d5f073",
-      "text": "trunk based dev"
+      "text": "[Trunk based development](https://trunkbaseddevelopment.com/)"
     },
     {
       "id": "97444934-a8ab-4f53-8cf4-0350e53cdcad",
@@ -1036,13 +1025,6 @@
       "text": "[List of software development philosophies - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)",
       "children": [
         "6494e5b8-afb2-492b-b433-bd3caf926034",
-        "668ebe57-19c8-47b1-adb1-edc10d2ddf4e"
-      ]
-    },
-    {
-      "id": "668ebe57-19c8-47b1-adb1-edc10d2ddf4e",
-      "text": "[Rules of thumb, laws, guidelines and principles](https://en.wikipedia.org/wiki/List_of_software_development_philosophies#Rules_of_thumb,_laws,_guidelines_and_principles)",
-      "children": [
         "33c6e19c-f9d2-482f-9531-9978c426ebad"
       ]
     },
@@ -1106,14 +1088,6 @@
       "text": "[KISS principle - Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)"
     },
     {
-      "id": "eb97e379-c42e-46e3-ac00-670ce6fc1903",
-      "text": "[Loose coupling - Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)"
-    },
-    {
-      "id": "03777503-add3-43f0-9610-03d6c5685cda",
-      "text": "[Open–closed principle - Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)"
-    },
-    {
       "id": "2bd8f900-168e-4d35-ae4a-f7858f769a03",
       "text": "[Pareto principle - Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)"
     },
@@ -1161,6 +1135,46 @@
     {
       "id": "84923e28-25fd-47f0-9625-775e23532a22",
       "text": "[YAGNI | You aren't gonna need it - Wikipedia](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)"
+    },
+    {
+      "id": "fc294880-4891-4be5-a27e-84ddbb3d8536",
+      "text": "[Kanban Guide](https://kanbanguides.org/english/)"
+    },
+    {
+      "id": "e70cd69b-891d-4e2f-88f4-fe99c29ce64e",
+      "text": "[Pair programming - Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)"
+    },
+    {
+      "id": "3e857f69-ea92-4f22-95ad-072c3249aed7",
+      "text": "[The Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)"
+    },
+    {
+      "id": "c26f0155-f0b4-4918-bafc-21436f183663",
+      "text": "[Single-responsibility principle - Wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle)"
+    },
+    {
+      "id": "e256730d-981f-408a-976b-f24d34cc809e",
+      "text": "[Dependency inversion principle - Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)"
+    },
+    {
+      "id": "d765efc7-2078-444b-ade7-86a3c074ecb1",
+      "text": "[Refactoring](https://refactoring.com/)"
+    },
+    {
+      "id": "41fae60b-fc5d-4d81-99fd-f2a002768544",
+      "text": "[The state of developer happiness](https://www.slashdata.co/free-resources/the-state-of-developer-happiness)"
+    },
+    {
+      "id": "ec182dd0-c85d-420d-9f19-0b50735d94a7",
+      "text": "[The state of continuous delivery 2023](https://www.slashdata.co/free-resources/state-of-continuous-delivery-report-2023)"
+    },
+    {
+      "id": "9a255429-f1b7-4977-b6bb-17747ee1798a",
+      "text": "[The state of cloud native development](https://www.slashdata.co/free-resources/the-state-of-cloud-native-development-1)"
+    },
+    {
+      "id": "54cf63eb-6eee-4dc8-89f2-a3c182151fbb",
+      "text": "[What is Continuous Delivery? - Continuous Delivery](https://continuousdelivery.com/)"
     }
   ]
 }
