@@ -1,6 +1,70 @@
 {
   "notes": [
     {
+      "id": "041cf31d-1527-4e1c-9776-c63c639c792c",
+      "text": "👋 Welcome",
+      "children": [
+        "efa2c4b9-1976-47b7-9611-a99b9d2dc0e2",
+        "51bddefe-2f4c-49bf-ad86-0833a714318a"
+      ]
+    },
+    {
+      "id": "9fbbd16c-ea94-4ce9-b87c-79ca54889259",
+      "text": "Philosophy",
+      "children": [
+        "6d97dd62-563a-44bb-ba0c-48886167d5ba",
+        "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
+        "1dac6458-f29b-47fb-9e53-7bbc104ee41f",
+        "e4b79e6c-5b8b-4efe-aef7-2f8d87216df7",
+        "930d8f72-a727-482c-9794-a3227eb7fe9f"
+      ]
+    },
+    {
+      "id": "6494e5b8-afb2-492b-b433-bd3caf926034",
+      "text": "[SDLC | Methodologies](https://en.wikipedia.org/wiki/Software_development_process#Methodologies)",
+      "children": [
+        "516ec531-086c-4440-8e1f-a56eb25d2b43",
+        "05832c84-6748-4a51-a53b-fe79ea277db8"
+      ]
+    },
+    {
+      "id": "33c6e19c-f9d2-482f-9531-9978c426ebad",
+      "text": "Principles",
+      "children": [
+        "d7224ab9-d763-40fe-96cf-0088de8051e4",
+        "2bd8f900-168e-4d35-ae4a-f7858f769a03",
+        "365b79e7-1812-4c9a-86ee-a351740e4ebf",
+        "8121599f-818d-480b-81c6-6615d45f1e05",
+        "b977aab0-459a-467a-864a-bb5fbe5f224d",
+        "b22c46ef-b9e9-4acb-9b93-3d18864806ac",
+        "84923e28-25fd-47f0-9625-775e23532a22",
+        "155086b4-49b3-426a-b167-40bd027c99e5",
+        "453283d1-a9ca-4a5d-920d-d06b369e44f3",
+        "346428f0-158d-427a-86c1-20fc2a18238e",
+        "eb97e379-c42e-46e3-ac00-670ce6fc1903"
+      ]
+    },
+    {
+      "id": "352a8136-e7af-4591-9186-b87b090fb63d",
+      "text": "Practices",
+      "children": [
+        "da6f4be1-02c3-4440-8060-8a86cb62fed8",
+        "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
+        "59f6c398-cc59-484f-ad80-5bb664d046d2"
+      ]
+    },
+    {
+      "id": "6b61108b-2b3a-44ad-9604-da62791b55d1",
+      "text": "Library",
+      "children": [
+        "5d22a013-52f3-485e-8301-50703b257489",
+        "1774c7ce-9bfd-4b0d-9950-d76238d67b62",
+        "41ba2458-2cd8-4078-bd8e-2b65dd49229e",
+        "5fe39731-4724-477b-a77b-19a45313a030",
+        "79c3f389-7efb-45c7-8af3-bd325b02530a"
+      ]
+    },
+    {
       "id": "8f8f6190-8819-4e1a-a7a2-bd910ae562d5",
       "text": "Experts",
       "children": [
@@ -16,25 +80,14 @@
       ]
     },
     {
-      "id": "6b61108b-2b3a-44ad-9604-da62791b55d1",
-      "text": "Library",
-      "children": [
-        "5d22a013-52f3-485e-8301-50703b257489",
-        "1774c7ce-9bfd-4b0d-9950-d76238d67b62",
-        "41ba2458-2cd8-4078-bd8e-2b65dd49229e",
-        "5fe39731-4724-477b-a77b-19a45313a030",
-        "79c3f389-7efb-45c7-8af3-bd325b02530a"
-      ]
-    },
-    {
       "id": "d6b8bf89-968c-48eb-acff-a9cdc53dfc29",
       "text": "Hardware",
       "children": [
-        "e961a6e9-ffac-448c-ac54-3ea2aa295c3a",
+        "40d17be7-6781-444c-bd72-98981cfd33e9",
         "13bbd5c9-f3c0-4ac6-ab10-2e351ee1b706",
         "c37ea8ea-b003-47fb-b46e-9946249799c2",
         "103e427c-13c8-4679-a508-aab0933a57f1",
-        "93ff9dc6-6ce3-4dc4-9dc3-5aa2c64eb634",
+        "463fb64b-fed0-429f-8183-7494edbafffa",
         "bd5aa63a-ea6f-4046-a7ff-4cc45127a038"
       ]
     },
@@ -42,9 +95,27 @@
       "id": "d7ad5cb1-c2e7-4de9-8f07-1f69d7d23ba4",
       "text": "Software",
       "children": [
-        "919732b3-f9e6-4359-88a3-381fea3c9473",
+        "97309d98-a043-4a0b-9f0f-f0b37a94bac4",
+        "7657e774-1634-4cf7-af8e-60a02c09b0ae",
+        "6d35c9c7-8f59-41a7-a24f-885f0673d7c3",
+        "57db816d-74e8-4699-8774-c22ad317b2c3",
         "eb7c99be-376f-4f41-83ef-c616fde9bf40",
-        "c96df81d-f0e2-454f-9993-5927e8b9a4f5"
+        "48bf19df-c236-4e49-bfdf-06d4928c6642",
+        "0676883d-d9c6-4841-855b-a7be2fd16f11",
+        "c96df81d-f0e2-454f-9993-5927e8b9a4f5",
+        "284469af-bc7d-4d57-9f6b-2e7f26f82fdf",
+        "3db4156e-5845-4add-8045-5851d1694814",
+        "f958176a-11e9-4c1c-ab79-6776982eb39a",
+        "b5d50272-28a2-47fd-9d1e-23901b39f47e",
+        "0a5e95d9-a07c-41cd-8842-a85c0389972d",
+        "bc4c9c49-cb46-4134-bf62-6589c8f99787",
+        "d0ebc7a6-95c2-4e05-b126-5597b8eea116",
+        "d0cfcc49-50fc-432c-a158-e229f94c0785",
+        "a361368a-6d4d-427b-b090-66cfe98786f7",
+        "75ee8f39-2f26-4cb2-9639-6812bcc59b74",
+        "5663adf8-8bc7-4a99-9e0a-c6793e921210",
+        "136a6947-a497-4965-954b-c56660d499de",
+        "9c74a42d-77d2-4eb4-9905-b7db5edfa690"
       ]
     },
     {
@@ -56,7 +127,9 @@
         "5aff23ca-dc5b-4084-8c83-7e146b18f4bb",
         "e8e9464c-cf51-423e-86e4-a83f97633808",
         "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
-        "634029ff-0014-494d-9d41-fe9249aaae8e"
+        "634029ff-0014-494d-9d41-fe9249aaae8e",
+        "c2768186-89ea-4f56-9fb6-c61be10e251a",
+        "112d6abe-a910-4e6e-a8e6-5f845fe21658"
       ]
     },
     {
@@ -97,7 +170,7 @@
     },
     {
       "id": "e961a6e9-ffac-448c-ac54-3ea2aa295c3a",
-      "text": "🪑 Chair",
+      "text": "🪑 Office chair",
       "children": [
         "12a9e02b-3499-4f53-9ee0-8acaf0176b62",
         "5553c3bf-4ea1-406a-9029-2a9c6da3c2e9"
@@ -105,19 +178,10 @@
     },
     {
       "id": "93ff9dc6-6ce3-4dc4-9dc3-5aa2c64eb634",
-      "text": "Desk",
+      "text": "Office desk",
       "children": [
         "12a9e02b-3499-4f53-9ee0-8acaf0176b62",
         "4e2dea77-a206-4659-892a-262b2ed9253e"
-      ]
-    },
-    {
-      "id": "352a8136-e7af-4591-9186-b87b090fb63d",
-      "text": "Practices",
-      "children": [
-        "da6f4be1-02c3-4440-8060-8a86cb62fed8",
-        "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
-        "59f6c398-cc59-484f-ad80-5bb664d046d2"
       ]
     },
     {
@@ -150,7 +214,9 @@
         "8a04c667-61a7-4359-a5eb-aea6b23a5065",
         "e68b9457-bce6-4fea-a7a6-50b08af9a7ae",
         "31867e12-f7d4-48c9-a97e-3de39d27f427",
-        "b04faee6-23fa-4649-879b-6cdfe87ac627"
+        "b04faee6-23fa-4649-879b-6cdfe87ac627",
+        "fddc2655-2260-41f3-8737-20052d5a0442",
+        "1dac6458-f29b-47fb-9e53-7bbc104ee41f"
       ]
     },
     {
@@ -158,24 +224,8 @@
       "text": "[Technology Radar](https://www.thoughtworks.com/radar)"
     },
     {
-      "id": "919732b3-f9e6-4359-88a3-381fea3c9473",
-      "text": "Services",
-      "children": [
-        "b554521d-9797-4230-9607-b9360b270623",
-        "b5d50272-28a2-47fd-9d1e-23901b39f47e",
-        "f958176a-11e9-4c1c-ab79-6776982eb39a",
-        "3db4156e-5845-4add-8045-5851d1694814",
-        "48bf19df-c236-4e49-bfdf-06d4928c6642",
-        "a641be90-5094-479b-9c50-4c4321dfc371"
-      ]
-    },
-    {
-      "id": "b554521d-9797-4230-9607-b9360b270623",
-      "text": "Todoist"
-    },
-    {
       "id": "b5d50272-28a2-47fd-9d1e-23901b39f47e",
-      "text": "Tresorit"
+      "text": "[Tresorit | End-to-End Encrypted Cloud Storage for Businesses](https://tresorit.com/)"
     },
     {
       "id": "da6f4be1-02c3-4440-8060-8a86cb62fed8",
@@ -246,7 +296,7 @@
     },
     {
       "id": "f958176a-11e9-4c1c-ab79-6776982eb39a",
-      "text": "CodeClimate",
+      "text": "[Code Climate | Software Engineering Intelligence](https://codeclimate.com/)",
       "children": [
         "4c5c34cc-c2c8-48b6-a255-43677d941f05",
         "016dd81c-2ca2-4cdc-b33a-1996abbd7d9e"
@@ -254,18 +304,15 @@
     },
     {
       "id": "4c5c34cc-c2c8-48b6-a255-43677d941f05",
-      "text": "Quality"
+      "text": "[Quality](https://codeclimate.com/quality)"
     },
     {
       "id": "016dd81c-2ca2-4cdc-b33a-1996abbd7d9e",
-      "text": "Velocity"
+      "text": "[Velocity](https://codeclimate.com/velocity/what-is-velocity)"
     },
     {
       "id": "3db4156e-5845-4add-8045-5851d1694814",
-      "text": "Sentry",
-      "children": [
-        "e152e988-4876-46f1-b015-9c4c65212e26"
-      ]
+      "text": "[Sentry | Application Performance Monitoring & Error Tracking Software](https://sentry.io/)"
     },
     {
       "id": "4a6c026d-8d4f-4d3d-b1ca-f4389a228f66",
@@ -287,38 +334,40 @@
     },
     {
       "id": "eb7c99be-376f-4f41-83ef-c616fde9bf40",
-      "text": "JetBrains Toolbox",
+      "text": "[JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com/)",
       "children": [
-        "b3985d8e-c127-4b98-9de4-6dea37da876d",
         "6812260c-10da-4a8d-b48d-11ee8b1b6c03",
+        "b3985d8e-c127-4b98-9de4-6dea37da876d",
         "acc2a3a9-2590-4ddd-a340-c0e0e713b0e1"
       ]
     },
     {
       "id": "b3985d8e-c127-4b98-9de4-6dea37da876d",
-      "text": "RubyMine"
+      "text": "[RubyMine: The Ruby on Rails IDE by JetBrains](https://www.jetbrains.com/ruby/)"
     },
     {
       "id": "6812260c-10da-4a8d-b48d-11ee8b1b6c03",
-      "text": "WebStorm"
+      "text": "[WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)"
     },
     {
       "id": "acc2a3a9-2590-4ddd-a340-c0e0e713b0e1",
-      "text": "DataGrip"
+      "text": "[DataGrip: The Cross-Platform IDE for Databases & SQL by JetBrains](https://www.jetbrains.com/datagrip/)"
     },
     {
       "id": "6abfd86c-d1c2-496d-8217-b8c6fcd8c53e",
       "text": "Ruby",
       "children": [
         "a0511261-91f0-4546-ae49-5ec55f9abc6d",
-        "71dc55b6-0d3d-470c-b451-51a4985e43e9"
+        "71dc55b6-0d3d-470c-b451-51a4985e43e9",
+        "a540fbbd-da3e-406d-b8c9-527054c77d17"
       ]
     },
     {
       "id": "346428f0-158d-427a-86c1-20fc2a18238e",
       "text": "[SOLID](https://en.wikipedia.org/wiki/SOLID)",
       "children": [
-        "17c3074c-865a-430d-9d74-fa0968261ba3"
+        "17c3074c-865a-430d-9d74-fa0968261ba3",
+        "03777503-add3-43f0-9610-03d6c5685cda"
       ]
     },
     {
@@ -330,7 +379,8 @@
         "1ee6e87c-afd7-4165-a698-7413d381dda9",
         "dde162ad-72ae-4371-9b88-c4f078f81793",
         "a761e9fd-7100-4832-a2ee-c33addce6a03",
-        "97444934-a8ab-4f53-8cf4-0350e53cdcad"
+        "97444934-a8ab-4f53-8cf4-0350e53cdcad",
+        "d295df5b-41d3-4028-a2ed-79efc3da9ab3"
       ]
     },
     {
@@ -399,15 +449,20 @@
     },
     {
       "id": "26ffab2e-ce25-45e8-8924-abce754c1522",
-      "text": "[Lift](https://www.logitech.com/en-us/products/mice/lift-vertical-ergonomic-mouse.html)"
+      "text": "[Logtech Lift](https://www.logitech.com/en-us/products/mice/lift-vertical-ergonomic-mouse.html)"
     },
     {
       "id": "da853c64-8c90-4180-8a1a-73e4baaa0b62",
-      "text": "MX Master 3"
+      "text": "Logitech MX Master 3"
     },
     {
       "id": "c27a7d9b-bf4b-4f3a-9c05-a6ca6f77c095",
-      "text": "Keenetic Hero 4G"
+      "text": "[Keenetic Hero 4G (KN-2310)](https://keenetic.com/en/keenetic-hero-4g)",
+      "children": [
+        "04e09f46-5ffd-461c-95a2-cc5c3134d32f",
+        "d13e9874-7907-4ffe-a422-b4c459caa0f0",
+        "eacc4cef-a565-4ad7-893e-8623def1aca7"
+      ]
     },
     {
       "id": "4e2dea77-a206-4659-892a-262b2ed9253e",
@@ -419,15 +474,6 @@
     {
       "id": "5553c3bf-4ea1-406a-9029-2a9c6da3c2e9",
       "text": "[Herman Miller Embody](https://www.hermanmiller.com/en_lac/products/seating/office-chairs/embody-chairs/product-details/)"
-    },
-    {
-      "id": "33c6e19c-f9d2-482f-9531-9978c426ebad",
-      "text": "Principles",
-      "children": [
-        "346428f0-158d-427a-86c1-20fc2a18238e",
-        "d7224ab9-d763-40fe-96cf-0088de8051e4",
-        "d2c5f893-0ab0-4081-a801-c6856f768ca0"
-      ]
     },
     {
       "id": "17c3074c-865a-430d-9d74-fa0968261ba3",
@@ -443,7 +489,7 @@
     },
     {
       "id": "48bf19df-c236-4e49-bfdf-06d4928c6642",
-      "text": "Copilot"
+      "text": "[GitHub Copilot · Your AI pair programmer · GitHub](https://github.com/features/copilot)"
     },
     {
       "id": "392122d9-aacf-48a4-aa63-ae37bfd84888",
@@ -454,26 +500,10 @@
       "text": "JetBrains developers survey"
     },
     {
-      "id": "6494e5b8-afb2-492b-b433-bd3caf926034",
-      "text": "[SDLC | Methodologies](https://en.wikipedia.org/wiki/Software_development_process#Methodologies)",
-      "children": [
-        "516ec531-086c-4440-8e1f-a56eb25d2b43",
-        "05832c84-6748-4a51-a53b-fe79ea277db8"
-      ]
-    },
-    {
       "id": "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1",
       "text": "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))",
       "children": [
         "a761e9fd-7100-4832-a2ee-c33addce6a03"
-      ]
-    },
-    {
-      "id": "041cf31d-1527-4e1c-9776-c63c639c792c",
-      "text": "👋 Welcome",
-      "children": [
-        "efa2c4b9-1976-47b7-9611-a99b9d2dc0e2",
-        "51bddefe-2f4c-49bf-ad86-0833a714318a"
       ]
     },
     {
@@ -485,7 +515,6 @@
       "text": "[Agile](https://en.wikipedia.org/wiki/Agile_software_development)",
       "children": [
         "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
-        "bd887a85-c44e-46e1-aac8-c02f1ae708f8",
         "d7224ab9-d763-40fe-96cf-0088de8051e4",
         "048d1e17-a657-4cf4-a5de-fea0660f037b",
         "d08828f7-6658-4601-8eab-3c1cc29f4bd7",
@@ -504,13 +533,6 @@
       "text": "We are uncovering better ways of developing\nsoftware by doing it and helping others do it.\nThrough this work we have come to value:\n\n**Individuals and interactions** over processes and tools\n**Working software** over comprehensive documentation\n**Customer collaboration** over contract negotiation\n**Responding to change** over following a plan\n\nThat is, while there is value in the items on\nthe right, we value the items on the left more."
     },
     {
-      "id": "bd887a85-c44e-46e1-aac8-c02f1ae708f8",
-      "text": "[Software craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship)",
-      "children": [
-        "6d97dd62-563a-44bb-ba0c-48886167d5ba"
-      ]
-    },
-    {
       "id": "6d97dd62-563a-44bb-ba0c-48886167d5ba",
       "text": "[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)",
       "children": [
@@ -519,7 +541,7 @@
     },
     {
       "id": "73a57e0f-d378-49e3-be07-d2df35389422",
-      "text": "As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:\n\nNot only working software, but also well-crafted software\nNot only responding to change, but also steadily adding value\nNot only individuals and interactions, but also a community of professionals\nNot only customer collaboration, but also productive partnerships\n\nThat is, in pursuit of the items on the left we have found the items on the right to be indispensable."
+      "text": "As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:\n\nNot only working software, but also **well-crafted software**\nNot only responding to change, but also **steadily adding value**\nNot only individuals and interactions, but also **a community of professionals**\nNot only customer collaboration, but also **productive partnerships**\n\nThat is, in pursuit of the items on the left we have found the items on the right to be indispensable."
     },
     {
       "id": "d7224ab9-d763-40fe-96cf-0088de8051e4",
@@ -550,16 +572,12 @@
       ]
     },
     {
-      "id": "d2c5f893-0ab0-4081-a801-c6856f768ca0",
-      "text": "https://en.wikipedia.org/wiki/List_of_software_development_philosophies#Rules_of_thumb,_laws,_guidelines_and_principles"
-    },
-    {
       "id": "3acbdb95-8f31-4938-8354-156c2ab51c60",
       "text": "Workstation",
       "children": [
         "15b06d5e-935e-4963-8c10-9bec1e70dc6d",
-        "d7ad5cb1-c2e7-4de9-8f07-1f69d7d23ba4",
-        "d6b8bf89-968c-48eb-acff-a9cdc53dfc29"
+        "d6b8bf89-968c-48eb-acff-a9cdc53dfc29",
+        "6075f437-7221-42ee-afec-73d54fb9991c"
       ]
     },
     {
@@ -671,6 +689,7 @@
       "id": "e1584566-d15e-47af-af6d-4d35c3c6edad",
       "text": "Stack",
       "children": [
+        "ad850c42-d120-4fcf-b3a6-d2e34c32e117",
         "57cb5d37-09c6-4cc8-b2b4-0b4e5bc3fbec"
       ]
     },
@@ -759,14 +778,6 @@
       "text": "https://www.slashdata.co/free-resources/the-state-of-cloud-native-development-1?"
     },
     {
-      "id": "e152e988-4876-46f1-b015-9c4c65212e26",
-      "text": "gartner sentry cool vendor"
-    },
-    {
-      "id": "a641be90-5094-479b-9c50-4c4321dfc371",
-      "text": "DataDog"
-    },
-    {
       "id": "5acdb295-aa6b-4898-b499-961c0fb9d7d1",
       "text": "https://dora.dev/",
       "children": [
@@ -798,6 +809,358 @@
     {
       "id": "97444934-a8ab-4f53-8cf4-0350e53cdcad",
       "text": "[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)"
+    },
+    {
+      "id": "6075f437-7221-42ee-afec-73d54fb9991c",
+      "text": "Furniture",
+      "children": [
+        "e961a6e9-ffac-448c-ac54-3ea2aa295c3a",
+        "93ff9dc6-6ce3-4dc4-9dc3-5aa2c64eb634"
+      ]
+    },
+    {
+      "id": "a540fbbd-da3e-406d-b8c9-527054c77d17",
+      "text": "[Better Specs. Testing Guidelines for Developers.](https://www.betterspecs.org/)"
+    },
+    {
+      "id": "0676883d-d9c6-4841-855b-a7be2fd16f11",
+      "text": "[RapidAPI for Mac – The most advanced API tool for Mac](https://paw.cloud/)"
+    },
+    {
+      "id": "284469af-bc7d-4d57-9f6b-2e7f26f82fdf",
+      "text": "[Warp: Your terminal, reimagined](https://www.warp.dev/)"
+    },
+    {
+      "id": "57db816d-74e8-4699-8774-c22ad317b2c3",
+      "text": "[Grammarly: Free Writing AI Assistance](https://www.grammarly.com/)"
+    },
+    {
+      "id": "0a5e95d9-a07c-41cd-8842-a85c0389972d",
+      "text": "[Setapp | Powerful apps for Mac & iOS](https://setapp.com/)",
+      "children": [
+        "82e87d00-45ef-4f2f-866c-e597275ce573",
+        "d88be7b8-4e44-423e-ba97-a4a4f965a26c",
+        "1cbc5f49-0574-4591-9194-752f6aeb8d61",
+        "177b9018-671b-4e59-a3ad-5101af8b3b31",
+        "8667c635-adbf-4bee-be7a-a80bf0710971",
+        "19a397aa-15df-478a-a2b5-5429aba1ad9d",
+        "46327962-16d1-403a-bb71-2778f4480639",
+        "f4374d1e-2920-4c3b-b3a3-22cd8b868d43",
+        "9790fe1a-5192-46f7-9c5e-636fb9562233",
+        "86849ba8-3641-438b-b287-0cded40e4b45",
+        "daca2eaf-4bf5-4ee4-9b56-8eb9b4e30bff",
+        "49b05cb9-49e2-4554-82e7-24a40f27aa3c"
+      ]
+    },
+    {
+      "id": "82e87d00-45ef-4f2f-866c-e597275ce573",
+      "text": "[TextSniper on Setapp | Capture part of the screen and turn it into text](https://setapp.com/apps/textsniper)"
+    },
+    {
+      "id": "d88be7b8-4e44-423e-ba97-a4a4f965a26c",
+      "text": "[Proxyman on Setapp | HTTP proxy debugger](https://setapp.com/apps/proxyman)"
+    },
+    {
+      "id": "1cbc5f49-0574-4591-9194-752f6aeb8d61",
+      "text": "[Moment on Setapp | Track life events on Mac](https://setapp.com/apps/moment)"
+    },
+    {
+      "id": "177b9018-671b-4e59-a3ad-5101af8b3b31",
+      "text": "[KeyKey Typing Tutor on Setapp | The best app to improve typing speed on Mac](https://setapp.com/apps/keykey-typing-tutor)"
+    },
+    {
+      "id": "8667c635-adbf-4bee-be7a-a80bf0710971",
+      "text": "[Lungo on Setapp | Stop your Mac from going to sleep](https://setapp.com/apps/lungo)"
+    },
+    {
+      "id": "19a397aa-15df-478a-a2b5-5429aba1ad9d",
+      "text": "[Get Backup Pro on Setapp | A speedy and stable macOS backup software](https://setapp.com/apps/get-backup-pro)"
+    },
+    {
+      "id": "46327962-16d1-403a-bb71-2778f4480639",
+      "text": "[ForkLift on Setapp | Smart file manager and file transfer client for Mac](https://setapp.com/apps/forklift)"
+    },
+    {
+      "id": "f4374d1e-2920-4c3b-b3a3-22cd8b868d43",
+      "text": "[Elmedia Player on Setapp | Multifunctional media player](https://setapp.com/apps/elmedia-player)"
+    },
+    {
+      "id": "9790fe1a-5192-46f7-9c5e-636fb9562233",
+      "text": "[CleanMyMac X on Setapp | Free up space, protect, and speed up Mac](https://setapp.com/apps/cleanmymac)"
+    },
+    {
+      "id": "86849ba8-3641-438b-b287-0cded40e4b45",
+      "text": "[Archiver on Setapp | Compress and decompress files with love](https://setapp.com/apps/archiver)"
+    },
+    {
+      "id": "daca2eaf-4bf5-4ee4-9b56-8eb9b4e30bff",
+      "text": "[AnyTrans for Android on Setapp | Secure Mac to Android content transferring](https://setapp.com/apps/anytrans-for-android)"
+    },
+    {
+      "id": "49b05cb9-49e2-4554-82e7-24a40f27aa3c",
+      "text": "[Almighty on Setapp | Unlock your Mac’s full potential](https://setapp.com/apps/almighty)"
+    },
+    {
+      "id": "bc4c9c49-cb46-4134-bf62-6589c8f99787",
+      "text": "[WhatPulse: Track and Analyze your Activity and Productivity](https://whatpulse.org/)"
+    },
+    {
+      "id": "d0ebc7a6-95c2-4e05-b126-5597b8eea116",
+      "text": "[Bitwarden | The password manager trusted by millions](https://bitwarden.com/)"
+    },
+    {
+      "id": "d0cfcc49-50fc-432c-a158-e229f94c0785",
+      "text": "[DaisyDisk](https://daisydiskapp.com/)"
+    },
+    {
+      "id": "a361368a-6d4d-427b-b090-66cfe98786f7",
+      "text": "[iStat Menus](https://bjango.com/mac/istatmenus/)"
+    },
+    {
+      "id": "75ee8f39-2f26-4cb2-9639-6812bcc59b74",
+      "text": "[Keyboard Maestro: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/)"
+    },
+    {
+      "id": "5663adf8-8bc7-4a99-9e0a-c6793e921210",
+      "text": "[Monosnap | Screenshots tool](https://monosnap.com/)"
+    },
+    {
+      "id": "136a6947-a497-4965-954b-c56660d499de",
+      "text": "[Moom | Window manager](https://manytricks.com/moom/)"
+    },
+    {
+      "id": "9c74a42d-77d2-4eb4-9905-b7db5edfa690",
+      "text": "[Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions](https://www.parallels.com/)"
+    },
+    {
+      "id": "97309d98-a043-4a0b-9f0f-f0b37a94bac4",
+      "text": "[Spark Mail — Smart. Focused. Email.](https://sparkmailapp.com/)"
+    },
+    {
+      "id": "6d35c9c7-8f59-41a7-a24f-885f0673d7c3",
+      "text": "[Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com/)"
+    },
+    {
+      "id": "7657e774-1634-4cf7-af8e-60a02c09b0ae",
+      "text": "[Google Workspace](https://workspace.google.com/business/)"
+    },
+    {
+      "id": "463fb64b-fed0-429f-8183-7494edbafffa",
+      "text": "🎧 Headset",
+      "children": [
+        "dd36650d-d8da-43c1-89c9-a7454eb6b9c0"
+      ]
+    },
+    {
+      "id": "dd36650d-d8da-43c1-89c9-a7454eb6b9c0",
+      "text": "[AirPods Pro (2nd generation) - Apple](https://www.apple.com/airpods-pro/)"
+    },
+    {
+      "id": "04e09f46-5ffd-461c-95a2-cc5c3134d32f",
+      "text": "[Continuous Reliable Internet Connection Features | Keenetic](https://keenetic.com/en/how-it-works/multi-wan)",
+      "children": [
+        "3cbd0cfa-a204-460f-8f50-bae5633ec14a"
+      ]
+    },
+    {
+      "id": "3cbd0cfa-a204-460f-8f50-bae5633ec14a",
+      "text": "Connect to multiple ISPs simultaneously for failover and load balancing using Ethernet, Wi-Fi, and 3G/4G links."
+    },
+    {
+      "id": "d13e9874-7907-4ffe-a422-b4c459caa0f0",
+      "text": "[Powerful Network Storage & Backup | Keenetic](https://keenetic.com/en/how-it-works/nas)",
+      "children": [
+        "30cae995-2675-4d52-8a79-02205299e69d",
+        "ce166072-9688-4034-bf30-e7b3a857e526"
+      ]
+    },
+    {
+      "id": "ce166072-9688-4034-bf30-e7b3a857e526",
+      "text": "[DLNA Media Server](https://help.keenetic.com/hc/en-us/articles/360000865499-Media-Library)"
+    },
+    {
+      "id": "30cae995-2675-4d52-8a79-02205299e69d",
+      "text": "WebDAV, FTP, L2TP/IPsec, SSTP, PPTP, IKEv2"
+    },
+    {
+      "id": "eacc4cef-a565-4ad7-893e-8623def1aca7",
+      "text": "[KeenDNS service – Keenetic](https://help.keenetic.com/hc/en-us/articles/360000400919-KeenDNS-service)"
+    },
+    {
+      "id": "40d17be7-6781-444c-bd72-98981cfd33e9",
+      "text": "💻 Laptop",
+      "children": [
+        "d167f577-991f-47f5-820d-1b99e473b528",
+        "4d0a3e68-7466-4940-96bb-e61a42084f94",
+        "1e5c885b-0cab-4b5f-82a7-733153283bf7",
+        "f8c5f5fa-b54b-4b3c-b21c-1a16b4b29107"
+      ]
+    },
+    {
+      "id": "d167f577-991f-47f5-820d-1b99e473b528",
+      "text": "[MacBook Air with M1 chip - Apple](https://www.apple.com/macbook-air-m1/)",
+      "children": [
+        "e5c283cc-0b9d-4841-97e7-7ca7a50e07cf"
+      ]
+    },
+    {
+      "id": "e5c283cc-0b9d-4841-97e7-7ca7a50e07cf",
+      "text": "13\", 16GB RAM, 512 GB SSD, model A2337, year 2020"
+    },
+    {
+      "id": "1e5c885b-0cab-4b5f-82a7-733153283bf7",
+      "text": "[Slim Type-C Aluminum Multi-Port Adapter V2 - Satechi](https://satechi.net/products/slim-aluminum-type-c-multi-port-adapter-v2)"
+    },
+    {
+      "id": "4d0a3e68-7466-4940-96bb-e61a42084f94",
+      "text": "[USB-C Slim Multi-Port with Ethernet Adapter - Satechi](https://satechi.net/products/slim-multi-port-adapter-with-ethernet)"
+    },
+    {
+      "id": "f8c5f5fa-b54b-4b3c-b21c-1a16b4b29107",
+      "text": "[ThinkPad Universal USB-C Dock v2 | Lenovo US](https://www.lenovo.com/us/en/p/accessories-and-software/docking/docking_usb-docks-(universal-cable-docks)/40b70090us)"
+    },
+    {
+      "id": "f8fe8775-feb1-4b46-b31b-783569280093",
+      "text": "Equipment",
+      "children": [
+        "d7ad5cb1-c2e7-4de9-8f07-1f69d7d23ba4",
+        "3acbdb95-8f31-4938-8354-156c2ab51c60"
+      ]
+    },
+    {
+      "id": "ad850c42-d120-4fcf-b3a6-d2e34c32e117",
+      "text": "[SaaS - zharikovpro Tech Stack](https://stackshare.io/zharikovpro/saas)"
+    },
+    {
+      "id": "930d8f72-a727-482c-9794-a3227eb7fe9f",
+      "text": "[List of software development philosophies - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)",
+      "children": [
+        "6494e5b8-afb2-492b-b433-bd3caf926034",
+        "668ebe57-19c8-47b1-adb1-edc10d2ddf4e"
+      ]
+    },
+    {
+      "id": "668ebe57-19c8-47b1-adb1-edc10d2ddf4e",
+      "text": "[Rules of thumb, laws, guidelines and principles](https://en.wikipedia.org/wiki/List_of_software_development_philosophies#Rules_of_thumb,_laws,_guidelines_and_principles)",
+      "children": [
+        "33c6e19c-f9d2-482f-9531-9978c426ebad"
+      ]
+    },
+    {
+      "id": "17d9fba0-d38a-44ed-a7cb-b08230478bdb",
+      "text": "[Brooks's law - Wikipedia](https://en.wikipedia.org/wiki/Brooks%27s_law)",
+      "children": [
+        "21a7db46-3663-46f8-a9a0-82ab76300d49"
+      ]
+    },
+    {
+      "id": "21a7db46-3663-46f8-a9a0-82ab76300d49",
+      "text": "Adding manpower to a late software project makes it later"
+    },
+    {
+      "id": "c2768186-89ea-4f56-9fb6-c61be10e251a",
+      "text": "[The Mythical Man-Month - Wikipedia](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)",
+      "children": [
+        "17d9fba0-d38a-44ed-a7cb-b08230478bdb"
+      ]
+    },
+    {
+      "id": "155086b4-49b3-426a-b167-40bd027c99e5",
+      "text": "[DRY | Don't repeat yourself - Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
+    },
+    {
+      "id": "8121599f-818d-480b-81c6-6615d45f1e05",
+      "text": "[Fail-fast - Wikipedia](https://en.wikipedia.org/wiki/Fail-fast)"
+    },
+    {
+      "id": "365b79e7-1812-4c9a-86ee-a351740e4ebf",
+      "text": "[If it ain't broke, don't fix it](https://en.wikipedia.org/wiki/Bert_Lance#If_it_ain't_broke,_don't_fix_it)"
+    },
+    {
+      "id": "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
+      "text": "[The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)",
+      "children": [
+        "fddc2655-2260-41f3-8737-20052d5a0442",
+        "5e2494ac-b0db-4218-8673-10fd7ac3442d",
+        "760e1cad-37bd-47ae-8c8e-482ad847d002"
+      ]
+    },
+    {
+      "id": "fddc2655-2260-41f3-8737-20052d5a0442",
+      "text": "Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported. Every time you write new code, you should do so reluctantly, under duress, because you completely exhausted all your other options."
+    },
+    {
+      "id": "5e2494ac-b0db-4218-8673-10fd7ac3442d",
+      "text": "If you can’t get away with no code, the next best thing is to start with brevity."
+    },
+    {
+      "id": "760e1cad-37bd-47ae-8c8e-482ad847d002",
+      "text": "If you love writing code — really, truly *love to write code* — you’ll love it enough to write as little of it as possible."
+    },
+    {
+      "id": "1dac6458-f29b-47fb-9e53-7bbc104ee41f",
+      "text": "My point today is that, if we wish to count lines of code, we should not regard them as \"lines produced\" but as \"lines spent\": the current conventional wisdom is so foolish as to book that count on the wrong side of the ledger. - [Edsger W. Dijkstra - Wikiquote](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)"
+    },
+    {
+      "id": "b22c46ef-b9e9-4acb-9b93-3d18864806ac",
+      "text": "[KISS principle - Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)"
+    },
+    {
+      "id": "eb97e379-c42e-46e3-ac00-670ce6fc1903",
+      "text": "[Loose coupling - Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)"
+    },
+    {
+      "id": "03777503-add3-43f0-9610-03d6c5685cda",
+      "text": "[Open–closed principle - Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)"
+    },
+    {
+      "id": "2bd8f900-168e-4d35-ae4a-f7858f769a03",
+      "text": "[Pareto principle - Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)"
+    },
+    {
+      "id": "b977aab0-459a-467a-864a-bb5fbe5f224d",
+      "text": "[Release early, release often - Wikipedia](https://en.wikipedia.org/wiki/Release_early,_release_often)"
+    },
+    {
+      "id": "453283d1-a9ca-4a5d-920d-d06b369e44f3",
+      "text": "[SPOT | SSOT | Single point of truth | Single source of truth - Wikipedia](https://en.wikipedia.org/wiki/Single_source_of_truth)",
+      "children": [
+        "5789fbfe-5d87-4bab-af9d-a225c74dbf6e"
+      ]
+    },
+    {
+      "id": "112d6abe-a910-4e6e-a8e6-5f845fe21658",
+      "text": "[The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)",
+      "children": [
+        "5789fbfe-5d87-4bab-af9d-a225c74dbf6e"
+      ]
+    },
+    {
+      "id": "5789fbfe-5d87-4bab-af9d-a225c74dbf6e",
+      "text": "[Compactness and Orthogonality - The SPOT Rule](http://www.catb.org/esr/writings/taoup/html/ch04s02.html#spot_rule)",
+      "children": [
+        "7c0b7e7d-dea6-4ac6-be3d-2bdd4010a073"
+      ]
+    },
+    {
+      "id": "7c0b7e7d-dea6-4ac6-be3d-2bdd4010a073",
+      "text": "The Pragmatic Programmer articulates a rule for one particular kind of orthogonality that is especially important. Their “Don't Repeat Yourself” rule is: every piece of knowledge must have a single, unambiguous, authoritative representation within a system. In this book we prefer, following a suggestion by Brian Kernighan, to call this the Single Point Of Truth or SPOT rule."
+    },
+    {
+      "id": "e4b79e6c-5b8b-4efe-aef7-2f8d87216df7",
+      "text": "[Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)",
+      "children": [
+        "dac70732-68c6-45ab-b25d-781f36b03770",
+        "112d6abe-a910-4e6e-a8e6-5f845fe21658"
+      ]
+    },
+    {
+      "id": "dac70732-68c6-45ab-b25d-781f36b03770",
+      "text": "[Do One Thing and Do It Well](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)"
+    },
+    {
+      "id": "84923e28-25fd-47f0-9625-775e23532a22",
+      "text": "[YAGNI | You aren't gonna need it - Wikipedia](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)"
     }
   ]
 }
