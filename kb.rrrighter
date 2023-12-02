@@ -12,13 +12,16 @@
       "id": "9fbbd16c-ea94-4ce9-b87c-79ca54889259",
       "text": "🧠 Philosophies",
       "children": [
-        "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
-        "1dac6458-f29b-47fb-9e53-7bbc104ee41f",
         "200fb470-0962-46b1-bfa7-e9ab25b06af4",
+        "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
+        "06f075ad-25fe-4fd9-8ff8-1fe25b0fd568",
+        "e43c5a6b-ee86-41e7-bdfb-f70ea929f6a8",
         "e4b79e6c-5b8b-4efe-aef7-2f8d87216df7",
+        "c36d0a6f-3f89-473b-8ba0-ee735879ecb6",
         "6526ce07-9465-4bff-b84e-aa7926eebc28",
         "b135c146-d54b-46b2-851c-7fc370ede8fc",
-        "930d8f72-a727-482c-9794-a3227eb7fe9f"
+        "930d8f72-a727-482c-9794-a3227eb7fe9f",
+        "b27fb6cb-52a3-44d8-b7f0-c15842ede306"
       ]
     },
     {
@@ -27,7 +30,8 @@
       "children": [
         "516ec531-086c-4440-8e1f-a56eb25d2b43",
         "05832c84-6748-4a51-a53b-fe79ea277db8",
-        "d9894527-e870-4dbb-b182-5bff54ab804b"
+        "d9894527-e870-4dbb-b182-5bff54ab804b",
+        "cdd646ff-6483-4d44-9368-52bb3d78bc16"
       ]
     },
     {
@@ -81,7 +85,11 @@
         "97386e6c-8ce0-49a8-9888-0f56b9e5407e",
         "71dc55b6-0d3d-470c-b451-51a4985e43e9",
         "302cfdca-3083-47ea-af4c-e99d84672db4",
-        "8d856404-3c99-4fe2-abd7-392b3aaffe56"
+        "8d856404-3c99-4fe2-abd7-392b3aaffe56",
+        "a9941386-4e90-45d7-86dd-b1e5fbdfb803",
+        "d653bf24-661f-4d40-b433-d0d715a43a45",
+        "44c8ba5c-7360-4894-8a27-067ad1ed6ceb",
+        "9ab78929-6123-4637-95e1-e7b88a7ab302"
       ]
     },
     {
@@ -134,14 +142,46 @@
       "children": [
         "28486206-08e4-4cc2-bbe4-46f6cab33fdd",
         "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
+        "1346a070-02b4-47fc-9ae2-1844bb677d95",
+        "0d22ead3-8d34-4881-8144-b6362cd6f613",
+        "7f048e09-fc8d-4a7e-82a4-74fb634b67a0",
+        "47f3668a-8373-4b65-ae19-10daa7d729c2",
         "112d6abe-a910-4e6e-a8e6-5f845fe21658",
-        "ad0caf61-c754-4466-ad75-064ba2b4b0f3",
-        "d765efc7-2078-444b-ade7-86a3c074ecb1",
-        "e8e9464c-cf51-423e-86e4-a83f97633808",
         "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
         "634029ff-0014-494d-9d41-fe9249aaae8e",
+        "d765efc7-2078-444b-ade7-86a3c074ecb1",
+        "e8e9464c-cf51-423e-86e4-a83f97633808",
+        "ad0caf61-c754-4466-ad75-064ba2b4b0f3",
+        "637a85a0-a0fa-4847-b540-09398f3d0f02",
         "377f4065-480e-4fe3-af92-049ede43870e",
-        "c2768186-89ea-4f56-9fb6-c61be10e251a"
+        "c2768186-89ea-4f56-9fb6-c61be10e251a",
+        "fabe718e-eb67-4433-acbc-47d1066af044",
+        "b27fb6cb-52a3-44d8-b7f0-c15842ede306",
+        "a939d22e-1c89-4d76-b096-62966c95798f",
+        "813a1034-5cee-4adf-9350-66864d3ac264",
+        "e7e0eba4-1a30-48d4-b88b-182cdc517f89",
+        "89433be1-52ca-470b-bb1f-00b94a789b50",
+        "74fde713-0476-4d6e-aa1b-db9f1c3b3a03",
+        "3fa5fbaf-c956-4d43-b588-22d44dbbe722",
+        "2af8903a-73f8-4201-9860-fd8719092fb3",
+        "37730209-347d-4bed-9252-357d3d2686b4",
+        "a59383cc-dc21-4a2e-8436-b326603388ec",
+        "34e85dba-900b-4b05-932d-a95199e5de30",
+        "dfc4f5f4-0931-4feb-9fe6-2bedb3bd34a6",
+        "61a7319d-2e3d-4b93-921b-4ea656dd373c",
+        "3a04faee-310f-442f-80c1-1518542fdf1f",
+        "8f93c9be-1a4f-4aad-9303-6257e92d4e30",
+        "65197231-7845-42d1-bc72-5da6cc93f798",
+        "6ee6336f-6fbb-4822-b466-afcd30747112",
+        "cccdeac3-5143-42e7-8efc-166b9c93018d",
+        "853ddf20-a100-4986-a28c-fb123a1786aa",
+        "3fa1848b-9d6d-478a-91d7-5f24216024a8",
+        "165cc5a3-2b16-4489-b3aa-d6ad6477fd53",
+        "c237defc-a85e-43de-b4fa-cd0c363b04a5",
+        "a6fa6023-df2c-4826-a40f-9a7eb883e660",
+        "81a5bd86-2217-4873-b44c-0c94796031b0",
+        "6e814201-1bc1-4163-b8bc-d0517ffd68a9",
+        "1a62beca-52c9-4e3a-ab3a-a0fba2130564"
       ]
     },
     {
@@ -150,6 +190,7 @@
       "children": [
         "2b5366c9-f6ee-47c2-bb13-381bb5b9fbd3",
         "6306efb2-c7c4-4d66-aeb3-e12d6ead87a4",
+        "f9dc7a61-05b6-46cf-bd5d-a46c2dcbd8d6",
         "d9b03f42-cde6-40d9-b644-27d302f7ff8e",
         "c3e9c3a3-4a2a-4f37-b8be-d99f27dc1a61",
         "9d9d76c5-916a-45d8-a015-1359aee192aa",
@@ -231,7 +272,86 @@
         "31867e12-f7d4-48c9-a97e-3de39d27f427",
         "b04faee6-23fa-4649-879b-6cdfe87ac627",
         "fddc2655-2260-41f3-8737-20052d5a0442",
-        "1dac6458-f29b-47fb-9e53-7bbc104ee41f"
+        "1dac6458-f29b-47fb-9e53-7bbc104ee41f",
+        "68367ff9-f4e5-4583-aeb4-57b333b31b41",
+        "82d9998c-0d4b-47a7-b464-5ddc855ff3e8",
+        "9b3b9e1d-340b-4b0c-bf1d-d6194602c921",
+        "7ba4d53a-b87a-4a32-bc06-1d96f0b072df",
+        "74ee7937-ac86-48f4-a326-e541f9c24ddb",
+        "6e81fa8f-02fa-417d-983f-50a45eb6b9dd",
+        "e1cd97fa-1808-4dac-a7c5-ec300ff09d03",
+        "e392f2bf-0462-461a-8443-db8f03e23f88",
+        "81069711-aec6-4d84-bac1-b737bc30e066",
+        "b5851d23-bc15-49cb-99a2-d522eac90f02",
+        "23b96834-04a0-4f9a-989b-c666e3d008e3",
+        "e0c54961-1e02-46c2-bf1b-c909fe37054e",
+        "2e228096-0016-44de-81d3-4e1f096e9630",
+        "d7824fbb-e5f2-44c5-942a-a3350bbcb9b6",
+        "3bbb7a3c-4db8-4778-ab42-df1a072363df",
+        "23802ba6-43eb-49c7-aadc-5c88a524b859",
+        "5b676cf8-bb3a-4439-8675-ad0e7ee82c68",
+        "cd5ea441-d7d8-439e-8f53-8c223f38f6f4",
+        "74036b5e-c083-40ed-8ef7-f800b9a1d47a",
+        "48e428fe-9288-4e39-a340-d9d8fe145a21",
+        "879c907c-67b8-4d13-beab-0df0227f781d",
+        "8ffb3772-6779-4a1e-a3d3-d7fe91309f85",
+        "339398f9-a98b-41e9-8c6f-c51d0cf62fbb",
+        "8f5eddc3-099e-4e06-b209-a195ff428e57",
+        "037b7aab-c0fb-4bb1-9700-f15303ee9457",
+        "8d23e4cd-653e-4785-a00f-e65f19132935",
+        "71297b77-f246-43d2-a7b5-c1f1d21a0932",
+        "1786e519-a70d-431f-8441-36ffc1906e22",
+        "a8056a54-acee-43d7-ae79-567420a58cc8",
+        "0df8c378-cae7-4db4-9b51-f10c72d29603",
+        "a1399073-f680-4485-9300-5def04e68cdb",
+        "86a16a6f-8394-43a6-8c09-a1e305516e49",
+        "e5fa911f-aeb8-40ac-989e-4a0a8855192d",
+        "dcd03783-641e-4485-81f6-04f3ca427e7f",
+        "683c5f3d-a4d5-484b-8351-c224cd57ed9b",
+        "e2daa33b-c8bb-4e9d-a5d6-913ec863a7d9",
+        "80d1b5ff-1158-41df-9e64-bd98ad12745d",
+        "11d2a9e2-4938-4839-9119-53481f9e2ecf",
+        "30650de3-9884-401a-9482-a8c906679c6f",
+        "898ca27d-bd20-4edb-8c37-c3493765442a",
+        "239d9cc8-9c63-4c2a-ab90-0258122ae652",
+        "bf9c6c09-c040-4c5c-b014-11ecdd5f37d5",
+        "dd35e0cd-a568-4f8a-af0e-c6a65765fccb",
+        "0d59beb0-dbff-40d0-a274-5aabdc2f46eb",
+        "d1107b73-e66f-48f6-9acd-fdbb872808ac",
+        "c3e2eca0-48ac-4273-aa00-ac7623f4e463",
+        "e5b105ec-644b-4edb-a5f2-8c89e81e0818",
+        "b82ec4dc-f034-4c18-928d-8e49befc8495",
+        "34294b88-02d6-4a3f-8c54-e5e6fa377fdd",
+        "4dcd5b0f-bd70-4847-a61a-94b1f7c58705",
+        "18b9d258-f5fb-4967-a790-75b96ecca670",
+        "cdfd5095-33d7-4ab2-9d7b-ff77f4ac3cd9",
+        "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f",
+        "6710190a-4f03-4479-b435-d9bd316f6729",
+        "717f1ff3-d379-4176-8416-547db1fdef0c",
+        "818239d4-1d70-41c4-8f34-631c8de2446b",
+        "642b60be-8ba0-4af9-bccf-b8536e397f2f",
+        "86d20209-109b-419b-8109-f958c2e05e3b",
+        "14434375-a600-4db0-a156-92062734921d",
+        "37b4ab5d-d39e-4228-be2d-8baad99f492c",
+        "e237b72f-45c0-4931-84a6-a29eb36c570a",
+        "f9685a05-7566-4162-973b-1bd5dba3a174",
+        "dae87d46-da23-4447-a2b0-befe36a6959d",
+        "a616672e-c6e5-4d7a-b998-e9785660ecbf",
+        "5308ec45-dbe6-41e0-88ea-943abeefa278",
+        "1a07e608-bf42-470e-99c3-ddd7de3b1ed2",
+        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab",
+        "b3e9d76d-1610-4a54-a0fe-72ba355ffad6",
+        "b704b9cc-10bc-492c-b10d-5c8c2dd0f43b",
+        "97e6947c-3087-4897-a34b-7562d7279d19",
+        "a7b00e77-3117-4caa-8fdb-2d13a0915072",
+        "bf219c92-2dcc-478f-b6df-f88f8c5ed200",
+        "c2ea256a-22fa-425f-8556-82b1d87e912a",
+        "2c9f1fd0-947c-4197-8510-59b70108b639",
+        "9a1a4830-d456-4d5a-920c-b37da04e26ff",
+        "b2aeca02-4be1-4a06-b35d-b0f2270e6da8",
+        "ee9b2082-4fae-4836-b9fc-ffef246245c8",
+        "d2575fb9-2db9-4a05-96c6-fb39902f7d2a",
+        "1671b169-fd9c-454b-b1c4-03891970ac62"
       ]
     },
     {
@@ -251,26 +371,43 @@
         "c9e78519-1f27-49de-98dd-c3059591c58e",
         "7d435570-aec6-4fdd-8215-13360af99d02",
         "b9455c62-27f0-4eae-8e36-5e26d85b0d38",
-        "b6d729c4-d082-44a2-bd5c-c39d75c3e928"
+        "b6d729c4-d082-44a2-bd5c-c39d75c3e928",
+        "65197231-7845-42d1-bc72-5da6cc93f798",
+        "e5fa911f-aeb8-40ac-989e-4a0a8855192d",
+        "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f",
+        "37b4ab5d-d39e-4228-be2d-8baad99f492c",
+        "e237b72f-45c0-4931-84a6-a29eb36c570a",
+        "f9685a05-7566-4162-973b-1bd5dba3a174",
+        "dae87d46-da23-4447-a2b0-befe36a6959d",
+        "bf219c92-2dcc-478f-b6df-f88f8c5ed200"
       ]
     },
     {
       "id": "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
       "text": "[BDD | Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)",
       "children": [
-        "7d435570-aec6-4fdd-8215-13360af99d02"
+        "7d435570-aec6-4fdd-8215-13360af99d02",
+        "74ee7937-ac86-48f4-a326-e541f9c24ddb"
       ]
     },
     {
       "id": "048d1e17-a657-4cf4-a5de-fea0660f037b",
       "text": "[XP | Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)",
       "children": [
-        "5609235b-9b14-4b27-a7cb-d1c3ab92996d"
+        "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
+        "18b9d258-f5fb-4967-a790-75b96ecca670",
+        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab"
       ]
     },
     {
       "id": "71dc55b6-0d3d-470c-b451-51a4985e43e9",
-      "text": "[DHH | David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)"
+      "text": "[DHH | David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)",
+      "children": [
+        "a6fa6023-df2c-4826-a40f-9a7eb883e660",
+        "3fa5fbaf-c956-4d43-b588-22d44dbbe722",
+        "637a85a0-a0fa-4847-b540-09398f3d0f02",
+        "81a5bd86-2217-4873-b44c-0c94796031b0"
+      ]
     },
     {
       "id": "a0511261-91f0-4546-ae49-5ec55f9abc6d",
@@ -288,7 +425,9 @@
         "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
         "b04faee6-23fa-4649-879b-6cdfe87ac627",
         "e8e9464c-cf51-423e-86e4-a83f97633808",
-        "d765efc7-2078-444b-ade7-86a3c074ecb1"
+        "d765efc7-2078-444b-ade7-86a3c074ecb1",
+        "74fde713-0476-4d6e-aa1b-db9f1c3b3a03",
+        "93520754-f71b-4075-8bb7-f6f4433b8fd5"
       ]
     },
     {
@@ -299,7 +438,8 @@
         "b04faee6-23fa-4649-879b-6cdfe87ac627",
         "da6f4be1-02c3-4440-8060-8a86cb62fed8",
         "048d1e17-a657-4cf4-a5de-fea0660f037b",
-        "e8e9464c-cf51-423e-86e4-a83f97633808"
+        "e8e9464c-cf51-423e-86e4-a83f97633808",
+        "a616672e-c6e5-4d7a-b998-e9785660ecbf"
       ]
     },
     {
@@ -312,14 +452,19 @@
         "3e857f69-ea92-4f22-95ad-072c3249aed7",
         "42ea06d3-0e49-4184-9d52-aa8a5ab550a4",
         "b6d729c4-d082-44a2-bd5c-c39d75c3e928",
-        "346428f0-158d-427a-86c1-20fc2a18238e"
+        "346428f0-158d-427a-86c1-20fc2a18238e",
+        "1346a070-02b4-47fc-9ae2-1844bb677d95",
+        "0d22ead3-8d34-4881-8144-b6362cd6f613",
+        "7f048e09-fc8d-4a7e-82a4-74fb634b67a0"
       ]
     },
     {
       "id": "97386e6c-8ce0-49a8-9888-0f56b9e5407e",
       "text": "[Jez Humble](https://continuousdelivery.com/about/)",
       "children": [
-        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb"
+        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb",
+        "377f4065-480e-4fe3-af92-049ede43870e",
+        "853ddf20-a100-4986-a28c-fb123a1786aa"
       ]
     },
     {
@@ -344,7 +489,12 @@
     },
     {
       "id": "4a6c026d-8d4f-4d3d-b1ca-f4389a228f66",
-      "text": "[Steve McConnell - Wikipedia](https://en.wikipedia.org/wiki/Steve_McConnell)"
+      "text": "[Steve McConnell - Wikipedia](https://en.wikipedia.org/wiki/Steve_McConnell)",
+      "children": [
+        "a939d22e-1c89-4d76-b096-62966c95798f",
+        "2af8903a-73f8-4201-9860-fd8719092fb3",
+        "34e85dba-900b-4b05-932d-a95199e5de30"
+      ]
     },
     {
       "id": "147adf6a-2543-42c7-9ad1-f1438513f7be",
@@ -395,7 +545,8 @@
       "children": [
         "17c3074c-865a-430d-9d74-fa0968261ba3",
         "c26f0155-f0b4-4918-bafc-21436f183663",
-        "e256730d-981f-408a-976b-f24d34cc809e"
+        "e256730d-981f-408a-976b-f24d34cc809e",
+        "c9c4f344-e657-42f7-ae63-7bce9659d34c"
       ]
     },
     {
@@ -537,7 +688,8 @@
       "id": "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1",
       "text": "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))",
       "children": [
-        "a761e9fd-7100-4832-a2ee-c33addce6a03"
+        "a761e9fd-7100-4832-a2ee-c33addce6a03",
+        "dfc4f5f4-0931-4feb-9fe6-2bedb3bd34a6"
       ]
     },
     {
@@ -552,7 +704,16 @@
         "d7224ab9-d763-40fe-96cf-0088de8051e4",
         "048d1e17-a657-4cf4-a5de-fea0660f037b",
         "d08828f7-6658-4601-8eab-3c1cc29f4bd7",
-        "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1"
+        "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1",
+        "0d22ead3-8d34-4881-8144-b6362cd6f613",
+        "7f048e09-fc8d-4a7e-82a4-74fb634b67a0",
+        "a6fa6023-df2c-4826-a40f-9a7eb883e660",
+        "81a5bd86-2217-4873-b44c-0c94796031b0",
+        "81069711-aec6-4d84-bac1-b737bc30e066",
+        "b5851d23-bc15-49cb-99a2-d522eac90f02",
+        "5b676cf8-bb3a-4439-8675-ad0e7ee82c68",
+        "cd5ea441-d7d8-439e-8f53-8c223f38f6f4",
+        "74036b5e-c083-40ed-8ef7-f800b9a1d47a"
       ]
     },
     {
@@ -606,7 +767,8 @@
         "d765efc7-2078-444b-ade7-86a3c074ecb1",
         "e8e9464c-cf51-423e-86e4-a83f97633808",
         "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
-        "a237cf29-f293-42d7-b63e-fcf44beee6e2"
+        "a237cf29-f293-42d7-b63e-fcf44beee6e2",
+        "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f"
       ]
     },
     {
@@ -749,7 +911,7 @@
     },
     {
       "id": "e68b9457-bce6-4fea-a7a6-50b08af9a7ae",
-      "text": "Premature optimization is the root of all evil - [DonaldKnuth](https://en.wikipedia.org/wiki/Donald_Knuth)"
+      "text": "The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming."
     },
     {
       "id": "31867e12-f7d4-48c9-a97e-3de39d27f427",
@@ -769,7 +931,19 @@
     },
     {
       "id": "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
-      "text": "[Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/)"
+      "text": "[Extreme Programming Explained: Embrace Change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/)",
+      "children": [
+        "b3e9d76d-1610-4a54-a0fe-72ba355ffad6",
+        "b704b9cc-10bc-492c-b10d-5c8c2dd0f43b",
+        "97e6947c-3087-4897-a34b-7562d7279d19",
+        "a7b00e77-3117-4caa-8fdb-2d13a0915072",
+        "bf219c92-2dcc-478f-b6df-f88f8c5ed200",
+        "c2ea256a-22fa-425f-8556-82b1d87e912a",
+        "2c9f1fd0-947c-4197-8510-59b70108b639",
+        "f3f8af1f-0b58-4c5b-ac1c-02acbf51b500",
+        "9a1a4830-d456-4d5a-920c-b37da04e26ff",
+        "b2aeca02-4be1-4a06-b35d-b0f2270e6da8"
+      ]
     },
     {
       "id": "634029ff-0014-494d-9d41-fe9249aaae8e",
@@ -813,9 +987,17 @@
       "id": "d017560b-ef09-411c-8142-5837982d4d6c",
       "text": "[CI/CD - Wikipedia](https://en.wikipedia.org/wiki/CI/CD)",
       "children": [
+        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb",
         "59191a6c-4601-4df4-a0ef-4719e7d5f073",
         "ec182dd0-c85d-420d-9f19-0b50735d94a7",
-        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb"
+        "853ddf20-a100-4986-a28c-fb123a1786aa",
+        "93520754-f71b-4075-8bb7-f6f4433b8fd5",
+        "37730209-347d-4bed-9252-357d3d2686b4",
+        "3a04faee-310f-442f-80c1-1518542fdf1f",
+        "1a62beca-52c9-4e3a-ab3a-a0fba2130564",
+        "23b96834-04a0-4f9a-989b-c666e3d008e3",
+        "a7b00e77-3117-4caa-8fdb-2d13a0915072",
+        "2c9f1fd0-947c-4197-8510-59b70108b639"
       ]
     },
     {
@@ -1105,7 +1287,13 @@
     },
     {
       "id": "1dac6458-f29b-47fb-9e53-7bbc104ee41f",
-      "text": "My point today is that, if we wish to count lines of code, we should not regard them as \"lines produced\" but as \"lines spent\": the current conventional wisdom is so foolish as to book that count on the wrong side of the ledger. - [Edsger W. Dijkstra - Wikiquote](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)"
+      "text": "[Edsger W. Dijkstra - Wikiquote](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra)",
+      "children": [
+        "06f075ad-25fe-4fd9-8ff8-1fe25b0fd568",
+        "360df83c-763a-488d-8ad9-30b8b0bb0d9f",
+        "e9553bae-8107-401e-8d4c-20bebcd30fce",
+        "e43c5a6b-ee86-41e7-bdfb-f70ea929f6a8"
+      ]
     },
     {
       "id": "b22c46ef-b9e9-4acb-9b93-3d18864806ac",
@@ -1123,7 +1311,8 @@
       "id": "453283d1-a9ca-4a5d-920d-d06b369e44f3",
       "text": "[SPOT | SSOT | Single point of truth | Single source of truth - Wikipedia](https://en.wikipedia.org/wiki/Single_source_of_truth)",
       "children": [
-        "5789fbfe-5d87-4bab-af9d-a225c74dbf6e"
+        "5789fbfe-5d87-4bab-af9d-a225c74dbf6e",
+        "b2aeca02-4be1-4a06-b35d-b0f2270e6da8"
       ]
     },
     {
@@ -1167,7 +1356,10 @@
     },
     {
       "id": "e70cd69b-891d-4e2f-88f4-fe99c29ce64e",
-      "text": "[Pair programming - Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)"
+      "text": "[Pair programming - Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)",
+      "children": [
+        "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f"
+      ]
     },
     {
       "id": "3e857f69-ea92-4f22-95ad-072c3249aed7",
@@ -1203,7 +1395,10 @@
     },
     {
       "id": "377f4065-480e-4fe3-af92-049ede43870e",
-      "text": "[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)"
+      "text": "[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)",
+      "children": [
+        "86a16a6f-8394-43a6-8c09-a1e305516e49"
+      ]
     },
     {
       "id": "7d435570-aec6-4fdd-8215-13360af99d02",
@@ -1211,7 +1406,12 @@
     },
     {
       "id": "b9455c62-27f0-4eae-8e36-5e26d85b0d38",
-      "text": "[Acceptance test-driven development - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)"
+      "text": "[ATDD | Acceptance test-driven development - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)",
+      "children": [
+        "9b3b9e1d-340b-4b0c-bf1d-d6194602c921",
+        "7ba4d53a-b87a-4a32-bc06-1d96f0b072df",
+        "a7b00e77-3117-4caa-8fdb-2d13a0915072"
+      ]
     },
     {
       "id": "52d5d09b-9cac-4685-84cd-8835b90b2053",
@@ -1269,7 +1469,11 @@
       "text": "[Craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship)",
       "children": [
         "6d97dd62-563a-44bb-ba0c-48886167d5ba",
-        "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d"
+        "0610e8a3-40f8-49a9-a8c2-762fe58e2d5d",
+        "1346a070-02b4-47fc-9ae2-1844bb677d95",
+        "7f048e09-fc8d-4a7e-82a4-74fb634b67a0",
+        "1a07e608-bf42-470e-99c3-ddd7de3b1ed2",
+        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab"
       ]
     },
     {
@@ -1382,6 +1586,694 @@
     {
       "id": "6e0c0c28-764e-43dc-bc80-e33423951608",
       "text": "[ngrok | Connect localhost to the internet for testing applications and APIs](https://ngrok.com/)"
+    },
+    {
+      "id": "06f075ad-25fe-4fd9-8ff8-1fe25b0fd568",
+      "text": "My point today is that, if we wish to count lines of code, we should not regard them as \"lines produced\" but as \"lines spent\": the current conventional wisdom is so foolish as to book that count on the wrong side of the ledger."
+    },
+    {
+      "id": "d653bf24-661f-4d40-b433-d0d715a43a45",
+      "text": "[Edsger W. Dijkstra - Wikipedia](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)",
+      "children": [
+        "1dac6458-f29b-47fb-9e53-7bbc104ee41f"
+      ]
+    },
+    {
+      "id": "360df83c-763a-488d-8ad9-30b8b0bb0d9f",
+      "text": "Testing shows the presence, not the absence of bugs"
+    },
+    {
+      "id": "e9553bae-8107-401e-8d4c-20bebcd30fce",
+      "text": "A picture may be worth a thousand words, a formula is worth a thousand pictures."
+    },
+    {
+      "id": "e43c5a6b-ee86-41e7-bdfb-f70ea929f6a8",
+      "text": "Elegance is not a dispensable luxury but a quality that decides between success and failure."
+    },
+    {
+      "id": "cdd646ff-6483-4d44-9368-52bb3d78bc16",
+      "text": "[Scientific method - Wikipedia](https://en.wikipedia.org/wiki/Scientific_method)",
+      "children": [
+        "3a6e6228-9b45-4663-941b-c4af6026eee2"
+      ]
+    },
+    {
+      "id": "3a6e6228-9b45-4663-941b-c4af6026eee2",
+      "text": "[Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)",
+      "children": [
+        "4af07617-4171-4c57-a1f7-7ed0ed81eeac"
+      ]
+    },
+    {
+      "id": "4af07617-4171-4c57-a1f7-7ed0ed81eeac",
+      "text": "[Turing Award - Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)",
+      "children": [
+        "d653bf24-661f-4d40-b433-d0d715a43a45",
+        "44c8ba5c-7360-4894-8a27-067ad1ed6ceb",
+        "9ab78929-6123-4637-95e1-e7b88a7ab302"
+      ]
+    },
+    {
+      "id": "44c8ba5c-7360-4894-8a27-067ad1ed6ceb",
+      "text": "[Donald Knuth - Wikipedia](https://en.wikipedia.org/wiki/Donald_Knuth)",
+      "children": [
+        "e68b9457-bce6-4fea-a7a6-50b08af9a7ae",
+        "04a6afb8-84d4-4ff9-942c-f53b154bc68b",
+        "86e5aa00-70fa-4c3e-92fa-db0dda275493",
+        "5e08c852-ee75-4e69-a4a0-61d8bf3b189e",
+        "5a7ce62d-e010-49ff-b6e1-c5b924b73973"
+      ]
+    },
+    {
+      "id": "86e5aa00-70fa-4c3e-92fa-db0dda275493",
+      "text": "In fact, my main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do."
+    },
+    {
+      "id": "5e08c852-ee75-4e69-a4a0-61d8bf3b189e",
+      "text": "If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice."
+    },
+    {
+      "id": "5a7ce62d-e010-49ff-b6e1-c5b924b73973",
+      "text": "A good technical writer, trying not to be obvious about it, but says everything twice: formally and informally. Or maybe three times."
+    },
+    {
+      "id": "04a6afb8-84d4-4ff9-942c-f53b154bc68b",
+      "text": "Programmers waste enormous amounts of time thinking about, or worrying about, the speed of noncritical parts of their programs, and these attempts at efficiency actually have a strong negative impact when debugging and maintenance are considered. We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%."
+    },
+    {
+      "id": "9ab78929-6123-4637-95e1-e7b88a7ab302",
+      "text": "[Barbara Liskov - Wikipedia](https://en.wikipedia.org/wiki/Barbara_Liskov)",
+      "children": [
+        "c9c4f344-e657-42f7-ae63-7bce9659d34c"
+      ]
+    },
+    {
+      "id": "c9c4f344-e657-42f7-ae63-7bce9659d34c",
+      "text": "[Liskov substitution principle - Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)"
+    },
+    {
+      "id": "c36d0a6f-3f89-473b-8ba0-ee735879ecb6",
+      "text": "[Secure by design - Wikipedia](https://en.wikipedia.org/wiki/Secure_by_design)",
+      "children": [
+        "8d01c104-8679-46e3-8eb6-4347f8022695"
+      ]
+    },
+    {
+      "id": "8d01c104-8679-46e3-8eb6-4347f8022695",
+      "text": "[OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation](https://owasp.org/)",
+      "children": [
+        "c8d12347-aaf1-496c-bc86-5038e8ef2efb",
+        "8b726f63-15dc-4d0e-82b2-509e5e52c8dd"
+      ]
+    },
+    {
+      "id": "c8d12347-aaf1-496c-bc86-5038e8ef2efb",
+      "text": "[OWASP Top Ten | OWASP Foundation](https://owasp.org/www-project-top-ten/)"
+    },
+    {
+      "id": "8b726f63-15dc-4d0e-82b2-509e5e52c8dd",
+      "text": "[OWASP Web Security Testing Guide | OWASP Foundation](https://owasp.org/www-project-web-security-testing-guide/)"
+    },
+    {
+      "id": "fabe718e-eb67-4433-acbc-47d1066af044",
+      "text": "[Waltzing With Bears: Managing Risk on Software Projects: Tom DeMarco, Timothy Lister](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects/dp/0932633609)"
+    },
+    {
+      "id": "b27fb6cb-52a3-44d8-b7f0-c15842ede306",
+      "text": "[Thinking, Fast and Slow - Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)"
+    },
+    {
+      "id": "a939d22e-1c89-4d76-b096-62966c95798f",
+      "text": "[Rapid Development. Taming Wild Software Schedules](https://www.amazon.com/Rapid-Development-Devment-Developer-Practices-ebook/dp/B00JDMPOB6)",
+      "children": [
+        "e0c54961-1e02-46c2-bf1b-c909fe37054e",
+        "2e228096-0016-44de-81d3-4e1f096e9630",
+        "d7824fbb-e5f2-44c5-942a-a3350bbcb9b6",
+        "3bbb7a3c-4db8-4778-ab42-df1a072363df",
+        "23802ba6-43eb-49c7-aadc-5c88a524b859",
+        "5b676cf8-bb3a-4439-8675-ad0e7ee82c68",
+        "cd5ea441-d7d8-439e-8f53-8c223f38f6f4",
+        "74036b5e-c083-40ed-8ef7-f800b9a1d47a",
+        "48e428fe-9288-4e39-a340-d9d8fe145a21",
+        "879c907c-67b8-4d13-beab-0df0227f781d",
+        "8ffb3772-6779-4a1e-a3d3-d7fe91309f85",
+        "339398f9-a98b-41e9-8c6f-c51d0cf62fbb",
+        "8f5eddc3-099e-4e06-b209-a195ff428e57",
+        "037b7aab-c0fb-4bb1-9700-f15303ee9457",
+        "8d23e4cd-653e-4785-a00f-e65f19132935",
+        "71297b77-f246-43d2-a7b5-c1f1d21a0932",
+        "1786e519-a70d-431f-8441-36ffc1906e22",
+        "a8056a54-acee-43d7-ae79-567420a58cc8",
+        "0df8c378-cae7-4db4-9b51-f10c72d29603",
+        "a1399073-f680-4485-9300-5def04e68cdb"
+      ]
+    },
+    {
+      "id": "813a1034-5cee-4adf-9350-66864d3ac264",
+      "text": "[Practical Object-Oriented Design in Ruby: An Agile Primer](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330)"
+    },
+    {
+      "id": "e7e0eba4-1a30-48d4-b88b-182cdc517f89",
+      "text": "[Polished Ruby Programming: Build better software with more intuitive, maintainable, scalable, and high-performance Ruby code](https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C)"
+    },
+    {
+      "id": "89433be1-52ca-470b-bb1f-00b94a789b50",
+      "text": "[Peopleware: Productive Projects and Teams - Wikipedia](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams)"
+    },
+    {
+      "id": "74fde713-0476-4d6e-aa1b-db9f1c3b3a03",
+      "text": "[Patterns of Enterprise Application](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)"
+    },
+    {
+      "id": "3fa5fbaf-c956-4d43-b588-22d44dbbe722",
+      "text": "[Basecamp: It Doesn’t Have to Be Crazy at Work](https://basecamp.com/books/calm)",
+      "children": [
+        "e392f2bf-0462-461a-8443-db8f03e23f88",
+        "81069711-aec6-4d84-bac1-b737bc30e066",
+        "b5851d23-bc15-49cb-99a2-d522eac90f02",
+        "23b96834-04a0-4f9a-989b-c666e3d008e3"
+      ]
+    },
+    {
+      "id": "2af8903a-73f8-4201-9860-fd8719092fb3",
+      "text": "[Code Complete - Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)"
+    },
+    {
+      "id": "1346a070-02b4-47fc-9ae2-1844bb677d95",
+      "text": "[The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)",
+      "children": [
+        "e5fa911f-aeb8-40ac-989e-4a0a8855192d",
+        "dcd03783-641e-4485-81f6-04f3ca427e7f",
+        "683c5f3d-a4d5-484b-8351-c224cd57ed9b",
+        "e2daa33b-c8bb-4e9d-a5d6-913ec863a7d9",
+        "80d1b5ff-1158-41df-9e64-bd98ad12745d",
+        "7ee4f764-e8bd-45ff-88ef-9db5f57539b4",
+        "11d2a9e2-4938-4839-9119-53481f9e2ecf",
+        "30650de3-9884-401a-9482-a8c906679c6f"
+      ]
+    },
+    {
+      "id": "47f3668a-8373-4b65-ae19-10daa7d729c2",
+      "text": "[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)",
+      "children": [
+        "ee9b2082-4fae-4836-b9fc-ffef246245c8",
+        "d2575fb9-2db9-4a05-96c6-fb39902f7d2a",
+        "1671b169-fd9c-454b-b1c4-03891970ac62"
+      ]
+    },
+    {
+      "id": "0d22ead3-8d34-4881-8144-b6362cd6f613",
+      "text": "[Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)",
+      "children": [
+        "898ca27d-bd20-4edb-8c37-c3493765442a",
+        "239d9cc8-9c63-4c2a-ab90-0258122ae652",
+        "bf9c6c09-c040-4c5c-b014-11ecdd5f37d5",
+        "dd35e0cd-a568-4f8a-af0e-c6a65765fccb",
+        "0d59beb0-dbff-40d0-a274-5aabdc2f46eb",
+        "d1107b73-e66f-48f6-9acd-fdbb872808ac",
+        "c3e2eca0-48ac-4273-aa00-ac7623f4e463",
+        "e5b105ec-644b-4edb-a5f2-8c89e81e0818",
+        "b82ec4dc-f034-4c18-928d-8e49befc8495",
+        "34294b88-02d6-4a3f-8c54-e5e6fa377fdd",
+        "4dcd5b0f-bd70-4847-a61a-94b1f7c58705",
+        "18b9d258-f5fb-4967-a790-75b96ecca670",
+        "cdfd5095-33d7-4ab2-9d7b-ff77f4ac3cd9",
+        "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f",
+        "6710190a-4f03-4479-b435-d9bd316f6729",
+        "717f1ff3-d379-4176-8416-547db1fdef0c",
+        "818239d4-1d70-41c4-8f34-631c8de2446b",
+        "642b60be-8ba0-4af9-bccf-b8536e397f2f",
+        "86d20209-109b-419b-8109-f958c2e05e3b",
+        "a998df93-2a9a-4bdf-b2dd-7b09dd3feb2a",
+        "c8bbb27e-4f65-4e0e-b205-55938945d358",
+        "14434375-a600-4db0-a156-92062734921d",
+        "37b4ab5d-d39e-4228-be2d-8baad99f492c",
+        "e237b72f-45c0-4931-84a6-a29eb36c570a",
+        "f9685a05-7566-4162-973b-1bd5dba3a174",
+        "dae87d46-da23-4447-a2b0-befe36a6959d",
+        "a616672e-c6e5-4d7a-b998-e9785660ecbf",
+        "5308ec45-dbe6-41e0-88ea-943abeefa278",
+        "1a07e608-bf42-470e-99c3-ddd7de3b1ed2",
+        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab"
+      ]
+    },
+    {
+      "id": "37730209-347d-4bed-9252-357d3d2686b4",
+      "text": "[The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)"
+    },
+    {
+      "id": "a59383cc-dc21-4a2e-8436-b326603388ec",
+      "text": "[SQL Antipatterns: Avoiding the Pitfalls of Database Programming](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557)"
+    },
+    {
+      "id": "34e85dba-900b-4b05-932d-a95199e5de30",
+      "text": "[Software Estimation: Demystifying the Black Art](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351)"
+    },
+    {
+      "id": "dfc4f5f4-0931-4feb-9fe6-2bedb3bd34a6",
+      "text": "[Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)"
+    },
+    {
+      "id": "61a7319d-2e3d-4b93-921b-4ea656dd373c",
+      "text": "[The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/)"
+    },
+    {
+      "id": "3a04faee-310f-442f-80c1-1518542fdf1f",
+      "text": "[The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)"
+    },
+    {
+      "id": "8f93c9be-1a4f-4aad-9303-6257e92d4e30",
+      "text": "[Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)"
+    },
+    {
+      "id": "65197231-7845-42d1-bc72-5da6cc93f798",
+      "text": "[Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)"
+    },
+    {
+      "id": "c237defc-a85e-43de-b4fa-cd0c363b04a5",
+      "text": "[Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)"
+    },
+    {
+      "id": "6ee6336f-6fbb-4822-b466-afcd30747112",
+      "text": "[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)"
+    },
+    {
+      "id": "cccdeac3-5143-42e7-8efc-166b9c93018d",
+      "text": "[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)"
+    },
+    {
+      "id": "853ddf20-a100-4986-a28c-fb123a1786aa",
+      "text": "[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)",
+      "children": [
+        "9b3b9e1d-340b-4b0c-bf1d-d6194602c921",
+        "7ba4d53a-b87a-4a32-bc06-1d96f0b072df",
+        "68367ff9-f4e5-4583-aeb4-57b333b31b41",
+        "82d9998c-0d4b-47a7-b464-5ddc855ff3e8",
+        "74ee7937-ac86-48f4-a326-e541f9c24ddb",
+        "6e81fa8f-02fa-417d-983f-50a45eb6b9dd"
+      ]
+    },
+    {
+      "id": "93520754-f71b-4075-8bb7-f6f4433b8fd5",
+      "text": "[ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)"
+    },
+    {
+      "id": "7f048e09-fc8d-4a7e-82a4-74fb634b67a0",
+      "text": "[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)"
+    },
+    {
+      "id": "3fa1848b-9d6d-478a-91d7-5f24216024a8",
+      "text": "[Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior](https://www.amazon.com/Adrenaline-Junkies-Template-Zombies-Understanding/dp/0932633676)"
+    },
+    {
+      "id": "a9941386-4e90-45d7-86dd-b1e5fbdfb803",
+      "text": "[Tom DeMarco - Wikipedia](https://en.wikipedia.org/wiki/Tom_DeMarco)",
+      "children": [
+        "89433be1-52ca-470b-bb1f-00b94a789b50",
+        "165cc5a3-2b16-4489-b3aa-d6ad6477fd53",
+        "fabe718e-eb67-4433-acbc-47d1066af044",
+        "3fa1848b-9d6d-478a-91d7-5f24216024a8"
+      ]
+    },
+    {
+      "id": "165cc5a3-2b16-4489-b3aa-d6ad6477fd53",
+      "text": "[The Deadline: A Novel About Project Management](https://www.amazon.com/Deadline-Novel-About-Project-Management/dp/0932633390/)"
+    },
+    {
+      "id": "a6fa6023-df2c-4826-a40f-9a7eb883e660",
+      "text": "[Basecamp: REWORK — the New York Times bestselling book about business](https://basecamp.com/books/rework)"
+    },
+    {
+      "id": "637a85a0-a0fa-4847-b540-09398f3d0f02",
+      "text": "[Basecamp: REMOTE — Office Not Required](https://basecamp.com/books/remote)"
+    },
+    {
+      "id": "81a5bd86-2217-4873-b44c-0c94796031b0",
+      "text": "[Basecamp: Getting Real — The smarter, faster, easier way to build a successful web application](https://basecamp.com/books/getting-real)"
+    },
+    {
+      "id": "6e814201-1bc1-4163-b8bc-d0517ffd68a9",
+      "text": "[Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)"
+    },
+    {
+      "id": "68367ff9-f4e5-4583-aeb4-57b333b31b41",
+      "text": "There is no “80% done.” Things are either done, or they are not."
+    },
+    {
+      "id": "82d9998c-0d4b-47a7-b464-5ddc855ff3e8",
+      "text": "These tests do not just test the functional aspects of the system. Capacity, security, and other nonfunctional requirements are established early on, and automated test suites are written to enforce them."
+    },
+    {
+      "id": "9b3b9e1d-340b-4b0c-bf1d-d6194602c921",
+      "text": "Acceptance tests are critical in an agile environment because they answer the questions, “How do I know when I am done?” for developers and “Did I get what I wanted?” for users."
+    },
+    {
+      "id": "7ba4d53a-b87a-4a32-bc06-1d96f0b072df",
+      "text": "Every story or requirement should have at least one automated happy path acceptance test."
+    },
+    {
+      "id": "74ee7937-ac86-48f4-a326-e541f9c24ddb",
+      "text": "for each story or requirement there is a single canonical path through the application in terms of the actions that the user will perform. This is known as the happy path. This is often expressed using the form “Given [a few important characteristics of the state of the system when testing begins], when [the user performs some set of actions], then [a few important characteristics of the new state of the system] will result.” This is sometimes referred to as the “given-when-then” model for tests."
+    },
+    {
+      "id": "6e81fa8f-02fa-417d-983f-50a45eb6b9dd",
+      "text": "These tests of the nonfunctional behaviors of the system enable developers to refactor and rearchitect on the basis of empirical evidence: “The recent changes to the search have caused the performance of the application to degrade—we need to modify the solution to ensure that we meet our capacity requirements.”"
+    },
+    {
+      "id": "1a62beca-52c9-4e3a-ab3a-a0fba2130564",
+      "text": "[The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)",
+      "children": [
+        "e1cd97fa-1808-4dac-a7c5-ec300ff09d03"
+      ]
+    },
+    {
+      "id": "e1cd97fa-1808-4dac-a7c5-ec300ff09d03",
+      "text": "At the end of each development interval, we must have integrated, tested, working, and potentially shippable code, demonstrated in a production-like environment, created from trunk using a one-click process, and validated with automated tests."
+    },
+    {
+      "id": "e392f2bf-0462-461a-8443-db8f03e23f88",
+      "text": "It’s not worth trading sleep for a few extra hours at the office. Not only will it make you exhausted, it’ll literally make you stupid. The science is clear on this: Continued sleep deprivation batters your IQ and saps your creativity. You may be too tired to notice, but the people you work with will."
+    },
+    {
+      "id": "81069711-aec6-4d84-bac1-b737bc30e066",
+      "text": "It’s critical that the scope be flexible on the downside because almost everything that can take six months can also be done in some other form in six weeks. Likewise, small projects balloon into large projects all the time if you’re not careful. It’s all about knowing where to cut, when to say stop, and when to move on."
+    },
+    {
+      "id": "b5851d23-bc15-49cb-99a2-d522eac90f02",
+      "text": "A deadline with a flexible scope invites pushback, compromises, and tradeoffs—all ingredients in healthy, calm projects. It’s when you try to fix both scope and time that you have a recipe for dread, overwork, and exhaustion."
+    },
+    {
+      "id": "23b96834-04a0-4f9a-989b-c666e3d008e3",
+      "text": "Friday is the worst day to release anything."
+    },
+    {
+      "id": "e0c54961-1e02-46c2-bf1b-c909fe37054e",
+      "text": "A requirements defect that is left undetected until construction or maintenance will cost 50 to 200 times as much to fix as it would have cost to fix at requirements time."
+    },
+    {
+      "id": "2e228096-0016-44de-81d3-4e1f096e9630",
+      "text": "Unit testing can find anywhere from 10 to 50 percent of the defects in a program. System testing can find from 20 to 60 percent of a program's defects. Together, their cumulative defect-detection rate is often less than 60 percent (Jones 1986a). The remaining errors are found either by other error-detecting techniques such as reviews or by end-users after the software has been put into production."
+    },
+    {
+      "id": "d7824fbb-e5f2-44c5-942a-a3350bbcb9b6",
+      "text": "About one-third of all projects have an impossible combination of schedules, feature sets, and resources dictated to them before they start."
+    },
+    {
+      "id": "3bbb7a3c-4db8-4778-ab42-df1a072363df",
+      "text": "One of the most surprising things I've discovered while doing the background research for this book is that many people who initially say they need faster development find that what they really need is lower cost or more predictability—or simply a way to avoid a catastrophic failure."
+    },
+    {
+      "id": "23802ba6-43eb-49c7-aadc-5c88a524b859",
+      "text": "If you release a low-quality product on time, people will remember that it was low-quality—not that it was on time. If you release a late product that knocks their socks off, your customers will remember that you released a knockout product; in retrospect, the late delivery won't matter as much as it seems to now."
+    },
+    {
+      "id": "5b676cf8-bb3a-4439-8675-ad0e7ee82c68",
+      "text": "If your customer won't give you a corner of the triangle, you usually can't do the project."
+    },
+    {
+      "id": "cd5ea441-d7d8-439e-8f53-8c223f38f6f4",
+      "text": "Most software customers initially want more than they can afford. As Figure 8-3 suggests, that means that they have to bend either their ideas about the product or their ideas about the resources they are willing to commit. Sometimes the customer will want to bend both the resources and the feature set to meet each other halfway."
+    },
+    {
+      "id": "74036b5e-c083-40ed-8ef7-f800b9a1d47a",
+      "text": "Constructing software is like constructing a house: you can't tell exactly how much it is going to cost until you know exactly what \"it\" is. As with building a house, you can either build your dream house—expense be hanged—or you can build to a budget. If you want to build to a budget, you have to be very flexible about the product characteristics. Whether you build to a budget or not, software development is a process of gradual refinement, so some imprecision is unavoidable. Unlike building a home, in software the only way to refine the product concept and thereby the estimate is to actually build the software. Estimates can be refined over the course of a project. Promise your customer that you will provide more refined estimates at each stage."
+    },
+    {
+      "id": "48e428fe-9288-4e39-a340-d9d8fe145a21",
+      "text": "The imprecision isn't a sign of a bad estimate; it's part of the nature of software development. Failure to acknowledge imprecision is a sign of a bad estimate."
+    },
+    {
+      "id": "879c907c-67b8-4d13-beab-0df0227f781d",
+      "text": "\"deadline pressure is the single greatest enemy of software engineering\""
+    },
+    {
+      "id": "8ffb3772-6779-4a1e-a3d3-d7fe91309f85",
+      "text": "About 40 percent of all software errors have been found to be caused by stress; those errors could have been avoided by scheduling appropriately and by placing no stress on the developers"
+    },
+    {
+      "id": "339398f9-a98b-41e9-8c6f-c51d0cf62fbb",
+      "text": "Creativity. Many aspects of software development—including product specification, design, and construction—require creative thought. Creativity requires hard thinking and persistence when the sought-after solution doesn't immediately spring to mind. The drive to think hard and persist requires internal motivation. Excessive external motivation (aka stress) reduces internal motivation and in turn reduces creativity (Glass 1994a). Aside from reducing the incentive to be creative, a pressure-cooker environment is simply the wrong kind of environment for creative thought. The cogitation required for a breakthrough solution requires a relaxed, contemplative state of mind."
+    },
+    {
+      "id": "8f5eddc3-099e-4e06-b209-a195ff428e57",
+      "text": "Given the same set of requirements, developers will create solutions that vary by as much as a factor of 10 in the amounts of code they require"
+    },
+    {
+      "id": "037b7aab-c0fb-4bb1-9700-f15303ee9457",
+      "text": "schedule pressure creates a vicious circle of more stress, more mistakes, more schedule slips, and ever more schedule pressure."
+    },
+    {
+      "id": "8d23e4cd-653e-4785-a00f-e65f19132935",
+      "text": "Downstream requirements changes could cost anywhere from 50 to 200 times as much as it would cost to get the requirements right in the first place"
+    },
+    {
+      "id": "71297b77-f246-43d2-a7b5-c1f1d21a0932",
+      "text": "One project finished early. The customer accused the developers of sandbagging their estimates. One finished on time. The customer accused the developers of estimating conservatively and stretching out their work to match the estimate. One finished late, and the customer accused the developers of not being committed to the project."
+    },
+    {
+      "id": "1786e519-a70d-431f-8441-36ffc1906e22",
+      "text": "If you want to motivate developers, emphasize technical challenges, autonomy, the chance to learn and use new skills, and career planning—and respect their personal lives."
+    },
+    {
+      "id": "a8056a54-acee-43d7-ae79-567420a58cc8",
+      "text": "The researchers identified this as a major leadership blind spot because most team leaders gave themselves high ratings in the area of setting priorities. For best results, select one objective and make it clear that it is the most important one."
+    },
+    {
+      "id": "0df8c378-cae7-4db4-9b51-f10c72d29603",
+      "text": "There are three general kinds of feature-set control: Early-project control of defining a feature set that is consistent with your project's schedule and budget objectives Mid-project control of controlling creeping requirements Late-project control of trimming features to meet a schedule or cost goal. Successful projects learn to use all three kinds of feature-set control to their advantage."
+    },
+    {
+      "id": "a1399073-f680-4485-9300-5def04e68cdb",
+      "text": "the first commandment of rapid development is to \"narrow your scope\" (Kerr and Hunter 1994). There are three basic ways to do this: Minimal specification Requirements scrubbing Versioned development"
+    },
+    {
+      "id": "86a16a6f-8394-43a6-8c09-a1e305516e49",
+      "text": "In our search for measures of delivery performance that meet these criteria, we settled on four: delivery lead time, deployment frequency, time to restore service, and change fail rate. In this section, we’ll discuss why we picked these particular measures."
+    },
+    {
+      "id": "e5fa911f-aeb8-40ac-989e-4a0a8855192d",
+      "text": "There have been several reports and studies that describe significant defect reduction. From IBM, to Microsoft, from Sabre to Symantec, company after company and team after team have experienced defect reductions of 2x, 5x, and even 10x. These are numbers that no professional should ignore."
+    },
+    {
+      "id": "dcd03783-641e-4485-81f6-04f3ca427e7f",
+      "text": "I find that a regular regimen of muscle focus increases my capacity for mental focus."
+    },
+    {
+      "id": "683c5f3d-a4d5-484b-8351-c224cd57ed9b",
+      "text": "Whatever the activity, there is something about activities that focus on muscles that enhances the ability to work with your mind."
+    },
+    {
+      "id": "e2daa33b-c8bb-4e9d-a5d6-913ec863a7d9",
+      "text": "Professionals draw a clear distinction between estimates and commitments. They do not commit unless they know for certain they will succeed. They are careful not to make any implied commitments. They communicate the probability distribution of their estimates as clearly as possible, so that managers can make appropriate plans."
+    },
+    {
+      "id": "80d1b5ff-1158-41df-9e64-bd98ad12745d",
+      "text": "The way to go fast, and to keep the deadlines at bay, is to stay clean. Professionals do not succumb to the temptation to create a mess in order to move quickly. Professionals realize that “quick and dirty” is an oxymoron. Dirty always means slow!"
+    },
+    {
+      "id": "7ee4f764-e8bd-45ff-88ef-9db5f57539b4",
+      "text": "Choose disciplines that you feel comfortable following in a crisis. Then follow them all the time. Following these disciplines is the best way to avoid getting into a crisis. Don’t change your behavior when the crunch comes. If your disciplines are the best way to work, then they should be followed even in the depths of a crisis."
+    },
+    {
+      "id": "11d2a9e2-4938-4839-9119-53481f9e2ecf",
+      "text": "Manage your stress. Sleepless nights won’t help you get done any faster. Sitting and fretting won’t help either. And the worst thing you could do is to rush! Resist that temptation at all costs. Rushing will only drive you deeper into the hole."
+    },
+    {
+      "id": "30650de3-9884-401a-9482-a8c906679c6f",
+      "text": "A craftsman is someone who works quickly, but without rushing, who provides reasonable estimates and meets commitments. A craftsman knows when to say no, but tries hard to say yes. A craftsman is a professional."
+    },
+    {
+      "id": "f9dc7a61-05b6-46cf-bd5d-a46c2dcbd8d6",
+      "text": "[Touch typing advantages](https://en.wikipedia.org/wiki/Touch_typing#Advantages)",
+      "children": [
+        "518a4063-bb99-4aa2-a558-c4e51d7c8a04",
+        "cc56b59b-feda-40f5-bddc-6679960f1581",
+        "094c502c-5bfa-453a-b695-9db1a7cacf39"
+      ]
+    },
+    {
+      "id": "518a4063-bb99-4aa2-a558-c4e51d7c8a04",
+      "text": "Speed"
+    },
+    {
+      "id": "cc56b59b-feda-40f5-bddc-6679960f1581",
+      "text": "Reduced switching of attention"
+    },
+    {
+      "id": "094c502c-5bfa-453a-b695-9db1a7cacf39",
+      "text": "Reduced neck strain"
+    },
+    {
+      "id": "898ca27d-bd20-4edb-8c37-c3493765442a",
+      "text": "This physics constrains all projects to obey an unassailable trade-off called the Iron Cross of project management. Good, fast, cheap, done: Pick any three you like. You can’t have the fourth."
+    },
+    {
+      "id": "239d9cc8-9c63-4c2a-ab90-0258122ae652",
+      "text": "Agile development is first and foremost a feedback-driven approach. Each week, each day, each hour, and even each minute is driven by looking at the results of the previous week, day, hour, and minute, and then making the appropriate adjustments."
+    },
+    {
+      "id": "bf9c6c09-c040-4c5c-b014-11ecdd5f37d5",
+      "text": "software is not a reliably estimable process. We programmers simply do not know how long things will take. This isn’t because we are incompetent or lazy; it’s because there is simply no way to know how complicated a task is going to be until that task is engaged and finished."
+    },
+    {
+      "id": "dd35e0cd-a568-4f8a-af0e-c6a65765fccb",
+      "text": "This loss of hope is a major goal of Agile. We practice Agile in order to destroy hope before that hope can kill the project."
+    },
+    {
+      "id": "0d59beb0-dbff-40d0-a274-5aabdc2f46eb",
+      "text": "Some folks think that Agile is about going fast. It’s not. It’s never been about going fast. Agile is about knowing, as early as possible, just how screwed we are."
+    },
+    {
+      "id": "d1107b73-e66f-48f6-9acd-fdbb872808ac",
+      "text": "Managers manage software projects by gathering data and then making the best decisions they can based on that data. Agile produces data. Agile produces lots of data. Managers use that data to drive the project to the best possible outcome."
+    },
+    {
+      "id": "c3e2eca0-48ac-4273-aa00-ac7623f4e463",
+      "text": "The best possible outcome may be very disappointing to the stakeholders who originally commissioned the project. But the best possible outcome is, by definition, the best they are going to get."
+    },
+    {
+      "id": "e5b105ec-644b-4edb-a5f2-8c89e81e0818",
+      "text": "Iron Cross of project management: good, fast, cheap, done. Given the data produced by the project, it’s time for the managers of that project to determine just how good, how fast, how cheap, and how done the project should be. Managers do this by making changes to the scope, the schedule, the staff, and the quality."
+    },
+    {
+      "id": "b82ec4dc-f034-4c18-928d-8e49befc8495",
+      "text": "Producing crap does not make you go faster, it makes you go slower. This is the lesson you learn after you’ve been a programmer for 20 or 30 years. There is no such thing as quick and dirty. Anything dirty is slow."
+    },
+    {
+      "id": "34294b88-02d6-4a3f-8c54-e5e6fa377fdd",
+      "text": "The only way to go fast, is to go well."
+    },
+    {
+      "id": "4dcd5b0f-bd70-4847-a61a-94b1f7c58705",
+      "text": "Agile is a process wherein a project is subdivided into iterations. The output of each iteration is measured and used to continuously evaluate the schedule. Features are implemented in the order of business value so that the most valuable things are implemented first. Quality is kept as high as possible. The schedule is primarily managed by manipulating scope."
+    },
+    {
+      "id": "18b9d258-f5fb-4967-a790-75b96ecca670",
+      "text": "of all the Agile processes, XP is the best defined, the most complete, and the least muddled. Virtually all other Agile processes are a subset of or a variation on XP."
+    },
+    {
+      "id": "cdfd5095-33d7-4ab2-9d7b-ff77f4ac3cd9",
+      "text": "The older a software system is, the better it should be. The design and architecture of a software system should get better with time. The structure of the code should improve, and so should the efficiency and throughput of the system. Isn’t that obvious? Isn’t that what you would expect from any group of humans working on anything?"
+    },
+    {
+      "id": "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f",
+      "text": "Continuous, steady improvement is what users, customers, and managers expect. They expect that early problems will fade away and that the system will get better and better with time. The Agile practices of Pairing, TDD, Refactoring, and Simple Design strongly support this expectation."
+    },
+    {
+      "id": "6710190a-4f03-4479-b435-d9bd316f6729",
+      "text": "I expect estimates, and I expect them to be honest. The most honest estimate is “I don’t know.” However, that estimate is not complete. You may not know everything, but there are some things you do know. So I expect you to provide estimates based on what you do and don’t know."
+    },
+    {
+      "id": "717f1ff3-d379-4176-8416-547db1fdef0c",
+      "text": "Either the scopes or the dates must be soft."
+    },
+    {
+      "id": "818239d4-1d70-41c4-8f34-631c8de2446b",
+      "text": "An estimate is a guess; we want some idea of how long the project will take without actually building the project. We want the cost of estimation to be low. Therefore an estimate is, by definition, imprecise."
+    },
+    {
+      "id": "642b60be-8ba0-4af9-bccf-b8536e397f2f",
+      "text": "One technique that works quite well for large tasks is trivariate estimation. Such estimates are composed of three numbers: best-case, nominal-case, and worst-case. These numbers are confidence estimates."
+    },
+    {
+      "id": "86d20209-109b-419b-8109-f958c2e05e3b",
+      "text": "The definition of “done” is this: acceptance tests pass."
+    },
+    {
+      "id": "a998df93-2a9a-4bdf-b2dd-7b09dd3feb2a",
+      "text": "On the seventh day, God rested. God later made it a commandment to rest on the seventh day. Apparently even God needs to run at a Sustainable Pace."
+    },
+    {
+      "id": "c8bbb27e-4f65-4e0e-b205-55938945d358",
+      "text": "Working overtime is not a way to show your dedication to your employer. What it shows is that you are a bad planner, that you agree to deadlines to which you shouldn’t agree, that you make promises you shouldn’t make, that you are a manipulable laborer and not a professional."
+    },
+    {
+      "id": "14434375-a600-4db0-a156-92062734921d",
+      "text": "The most precious ingredient in the life of a programmer is sufficient sleep."
+    },
+    {
+      "id": "37b4ab5d-d39e-4228-be2d-8baad99f492c",
+      "text": "Without TDD, Refactoring, Simple Design, and yes, even Pair Programming, Agile becomes an ineffective flaccid shell of what it was intended to be."
+    },
+    {
+      "id": "e237b72f-45c0-4931-84a6-a29eb36c570a",
+      "text": "These two disciplines, double-entry bookkeeping and TDD, are equivalent. They both serve the same function: to prevent errors in critically important documents where every symbol must be correct."
+    },
+    {
+      "id": "f9685a05-7566-4162-973b-1bd5dba3a174",
+      "text": "By writing the tests first, you will decouple the system in ways that you had never thought about before. The whole system will be testable; therefore, the whole system will be decoupled. It is for this reason that TDD is often called a design technique. The Three Rules force you into a much higher degree of decoupling."
+    },
+    {
+      "id": "dae87d46-da23-4447-a2b0-befe36a6959d",
+      "text": "That is why we practice TDD. We practice it because it gives us the courage to keep the code clean and orderly. It gives us the courage to act like professionals."
+    },
+    {
+      "id": "a616672e-c6e5-4d7a-b998-e9785660ecbf",
+      "text": "Kent Beck’s rules of Simple Design are as follows: Pass all the tests. Reveal the intent. Remove duplication. Decrease elements. The numbers are both the order in which these are executed and the priority they are given."
+    },
+    {
+      "id": "5308ec45-dbe6-41e0-88ea-943abeefa278",
+      "text": "Agile is for small- to medium-sized teams, period. It works well for such teams. Agile was never intended for large teams."
+    },
+    {
+      "id": "1a07e608-bf42-470e-99c3-ddd7de3b1ed2",
+      "text": "Craftspeople strive to do the best job they can, not because someone is paying, but based on a desire to do things well."
+    },
+    {
+      "id": "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab",
+      "text": "Software Craftsmanship community considers XP the best set of Agile development practices currently available."
+    },
+    {
+      "id": "b3e9d76d-1610-4a54-a0fe-72ba355ffad6",
+      "text": "Software can be developed at lower cost, with fewer defects, with higher productivity, and with much higher return on investment."
+    },
+    {
+      "id": "b704b9cc-10bc-492c-b10d-5c8c2dd0f43b",
+      "text": "XP is lightweight. In XP you only do what you need to do to create value for the customer."
+    },
+    {
+      "id": "97e6947c-3087-4897-a34b-7562d7279d19",
+      "text": "XP is a software development discipline that addresses risk at all levels of the development process."
+    },
+    {
+      "id": "a7b00e77-3117-4caa-8fdb-2d13a0915072",
+      "text": "XP creates and maintains a comprehensive suite of automated tests, which are run and rerun after every change (many times a day) to ensure a quality baseline. XP always keeps the system in deployable condition. Problems are not allowed to accumulate."
+    },
+    {
+      "id": "bf219c92-2dcc-478f-b6df-f88f8c5ed200",
+      "text": "XP tests from the perspective of both programmers writing tests function-by-function and customers writing tests program-feature-by-program-feature."
+    },
+    {
+      "id": "c2ea256a-22fa-425f-8556-82b1d87e912a",
+      "text": "Ask five times why a problem occurred."
+    },
+    {
+      "id": "2c9f1fd0-947c-4197-8510-59b70108b639",
+      "text": "Put new software into production every night. Any gap between what is on a programmer’s desk and what is in production is a risk."
+    },
+    {
+      "id": "f3f8af1f-0b58-4c5b-ac1c-02acbf51b500",
+      "text": "I trust two metrics to measure the health of XP teams. The first is the number of defects found after development."
+    },
+    {
+      "id": "9a1a4830-d456-4d5a-920c-b37da04e26ff",
+      "text": "Both post-development defects and investment-to-return are indicators of team effectiveness much as a speedometer is an indicator of speed."
+    },
+    {
+      "id": "b2aeca02-4be1-4a06-b35d-b0f2270e6da8",
+      "text": "The most powerful design heuristic I know is Once and Only Once: data, structure, or logic should exist in only one place in the system."
+    },
+    {
+      "id": "ee9b2082-4fae-4836-b9fc-ffef246245c8",
+      "text": "Which kinds of decisions are premature? Decisions that have nothing to do with the business requirements—the use cases—of the system. These include decisions about frameworks, databases, web servers, utility libraries, dependency injection, and the like. A good system architecture is one in which decisions like these are rendered ancillary and deferrable. A good system architecture does not depend on those decisions. A good system architecture allows those decisions to be made at the latest possible moment, without significant impact."
+    },
+    {
+      "id": "d2575fb9-2db9-4a05-96c6-fb39902f7d2a",
+      "text": "Good architectures are centered on use cases so that architects can safely describe the structures that support those use cases without committing to frameworks, tools, and environments."
+    },
+    {
+      "id": "1671b169-fd9c-454b-b1c4-03891970ac62",
+      "text": "The web is a delivery mechanism—an IO device—and your application architecture should treat it as such. The fact that your application is delivered over the web is a detail and should not dominate your system structure."
     }
   ]
 }
