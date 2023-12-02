@@ -168,9 +168,7 @@
         "a59383cc-dc21-4a2e-8436-b326603388ec",
         "34e85dba-900b-4b05-932d-a95199e5de30",
         "dfc4f5f4-0931-4feb-9fe6-2bedb3bd34a6",
-        "61a7319d-2e3d-4b93-921b-4ea656dd373c",
         "3a04faee-310f-442f-80c1-1518542fdf1f",
-        "8f93c9be-1a4f-4aad-9303-6257e92d4e30",
         "65197231-7845-42d1-bc72-5da6cc93f798",
         "6ee6336f-6fbb-4822-b466-afcd30747112",
         "cccdeac3-5143-42e7-8efc-166b9c93018d",
@@ -351,7 +349,11 @@
         "b2aeca02-4be1-4a06-b35d-b0f2270e6da8",
         "ee9b2082-4fae-4836-b9fc-ffef246245c8",
         "d2575fb9-2db9-4a05-96c6-fb39902f7d2a",
-        "1671b169-fd9c-454b-b1c4-03891970ac62"
+        "1671b169-fd9c-454b-b1c4-03891970ac62",
+        "5a7ce62d-e010-49ff-b6e1-c5b924b73973",
+        "5e08c852-ee75-4e69-a4a0-61d8bf3b189e",
+        "86e5aa00-70fa-4c3e-92fa-db0dda275493",
+        "04a6afb8-84d4-4ff9-942c-f53b154bc68b"
       ]
     },
     {
@@ -462,7 +464,6 @@
       "id": "97386e6c-8ce0-49a8-9888-0f56b9e5407e",
       "text": "[Jez Humble](https://continuousdelivery.com/about/)",
       "children": [
-        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb",
         "377f4065-480e-4fe3-af92-049ede43870e",
         "853ddf20-a100-4986-a28c-fb123a1786aa"
       ]
@@ -536,7 +537,9 @@
         "a0511261-91f0-4546-ae49-5ec55f9abc6d",
         "71dc55b6-0d3d-470c-b451-51a4985e43e9",
         "a540fbbd-da3e-406d-b8c9-527054c77d17",
-        "e8e9464c-cf51-423e-86e4-a83f97633808"
+        "e8e9464c-cf51-423e-86e4-a83f97633808",
+        "e7e0eba4-1a30-48d4-b88b-182cdc517f89",
+        "813a1034-5cee-4adf-9350-66864d3ac264"
       ]
     },
     {
@@ -591,7 +594,7 @@
     },
     {
       "id": "6526ce07-9465-4bff-b84e-aa7926eebc28",
-      "text": "[Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)"
+      "text": "[Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)"
     },
     {
       "id": "6561e0e6-4518-4fc7-bcdd-52f2a5813dea",
@@ -599,11 +602,11 @@
     },
     {
       "id": "b135c146-d54b-46b2-851c-7fc370ede8fc",
-      "text": "[Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)"
+      "text": "[Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)"
     },
     {
       "id": "4ebc88a1-fba4-4991-97a2-030874168f01",
-      "text": "[\"Design in Practice\" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)"
+      "text": "[Design in Practice](https://www.youtube.com/watch?v=c5QF2HjHLSE)"
     },
     {
       "id": "302cfdca-3083-47ea-af4c-e99d84672db4",
@@ -662,15 +665,15 @@
     },
     {
       "id": "17c3074c-865a-430d-9d74-fa0968261ba3",
-      "text": "[GORUCO 2009 - SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)"
+      "text": "[SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU)"
     },
     {
       "id": "a237cf29-f293-42d7-b63e-fcf44beee6e2",
-      "text": "[RailsConf 2014 - All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)"
+      "text": "[All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)"
     },
     {
       "id": "c9e78519-1f27-49de-98dd-c3059591c58e",
-      "text": "[Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)"
+      "text": "[The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M)"
     },
     {
       "id": "48bf19df-c236-4e49-bfdf-06d4928c6642",
@@ -702,11 +705,10 @@
       "children": [
         "e85bb8b6-64b8-46a7-a32c-dafc993ec723",
         "d7224ab9-d763-40fe-96cf-0088de8051e4",
+        "0d22ead3-8d34-4881-8144-b6362cd6f613",
         "048d1e17-a657-4cf4-a5de-fea0660f037b",
         "d08828f7-6658-4601-8eab-3c1cc29f4bd7",
         "3770d02d-c5f2-4d11-8415-2a2ec4be0aa1",
-        "0d22ead3-8d34-4881-8144-b6362cd6f613",
-        "7f048e09-fc8d-4a7e-82a4-74fb634b67a0",
         "a6fa6023-df2c-4826-a40f-9a7eb883e660",
         "81a5bd86-2217-4873-b44c-0c94796031b0",
         "81069711-aec6-4d84-bac1-b737bc30e066",
@@ -987,11 +989,10 @@
       "id": "d017560b-ef09-411c-8142-5837982d4d6c",
       "text": "[CI/CD](https://en.wikipedia.org/wiki/CI/CD)",
       "children": [
-        "54cf63eb-6eee-4dc8-89f2-a3c182151fbb",
+        "93520754-f71b-4075-8bb7-f6f4433b8fd5",
+        "853ddf20-a100-4986-a28c-fb123a1786aa",
         "59191a6c-4601-4df4-a0ef-4719e7d5f073",
         "ec182dd0-c85d-420d-9f19-0b50735d94a7",
-        "853ddf20-a100-4986-a28c-fb123a1786aa",
-        "93520754-f71b-4075-8bb7-f6f4433b8fd5",
         "37730209-347d-4bed-9252-357d3d2686b4",
         "3a04faee-310f-442f-80c1-1518542fdf1f",
         "1a62beca-52c9-4e3a-ab3a-a0fba2130564",
@@ -1228,7 +1229,7 @@
     },
     {
       "id": "ad850c42-d120-4fcf-b3a6-d2e34c32e117",
-      "text": "[SaaS - zharikovpro Tech Stack](https://stackshare.io/zharikovpro/saas)"
+      "text": "[SaaS - zharikovpro Tech Stack at StackShare](https://stackshare.io/zharikovpro/saas)"
     },
     {
       "id": "930d8f72-a727-482c-9794-a3227eb7fe9f",
@@ -1388,10 +1389,6 @@
     {
       "id": "9a255429-f1b7-4977-b6bb-17747ee1798a",
       "text": "[The state of cloud native development](https://www.slashdata.co/free-resources/the-state-of-cloud-native-development-1)"
-    },
-    {
-      "id": "54cf63eb-6eee-4dc8-89f2-a3c182151fbb",
-      "text": "[What is Continuous Delivery? - Continuous Delivery](https://continuousdelivery.com/)"
     },
     {
       "id": "377f4065-480e-4fe3-af92-049ede43870e",
@@ -1834,16 +1831,8 @@
       "text": "[Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)"
     },
     {
-      "id": "61a7319d-2e3d-4b93-921b-4ea656dd373c",
-      "text": "[The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/)"
-    },
-    {
       "id": "3a04faee-310f-442f-80c1-1518542fdf1f",
       "text": "[The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)"
-    },
-    {
-      "id": "8f93c9be-1a4f-4aad-9303-6257e92d4e30",
-      "text": "[Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)"
     },
     {
       "id": "65197231-7845-42d1-bc72-5da6cc93f798",
