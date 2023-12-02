@@ -489,7 +489,7 @@
     },
     {
       "id": "4a6c026d-8d4f-4d3d-b1ca-f4389a228f66",
-      "text": "[Steve McConnell - Wikipedia](https://en.wikipedia.org/wiki/Steve_McConnell)",
+      "text": "[Steve McConnell](https://en.wikipedia.org/wiki/Steve_McConnell)",
       "children": [
         "a939d22e-1c89-4d76-b096-62966c95798f",
         "2af8903a-73f8-4201-9860-fd8719092fb3",
@@ -985,7 +985,7 @@
     },
     {
       "id": "d017560b-ef09-411c-8142-5837982d4d6c",
-      "text": "[CI/CD - Wikipedia](https://en.wikipedia.org/wiki/CI/CD)",
+      "text": "[CI/CD](https://en.wikipedia.org/wiki/CI/CD)",
       "children": [
         "54cf63eb-6eee-4dc8-89f2-a3c182151fbb",
         "59191a6c-4601-4df4-a0ef-4719e7d5f073",
@@ -1232,11 +1232,11 @@
     },
     {
       "id": "930d8f72-a727-482c-9794-a3227eb7fe9f",
-      "text": "[List of software development philosophies - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)"
+      "text": "[List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)"
     },
     {
       "id": "17d9fba0-d38a-44ed-a7cb-b08230478bdb",
-      "text": "[Brooks's law - Wikipedia](https://en.wikipedia.org/wiki/Brooks%27s_law)",
+      "text": "[Brooks's law](https://en.wikipedia.org/wiki/Brooks%27s_law)",
       "children": [
         "21a7db46-3663-46f8-a9a0-82ab76300d49"
       ]
@@ -1247,18 +1247,18 @@
     },
     {
       "id": "c2768186-89ea-4f56-9fb6-c61be10e251a",
-      "text": "[The Mythical Man-Month - Wikipedia](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)",
+      "text": "[The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)",
       "children": [
         "17d9fba0-d38a-44ed-a7cb-b08230478bdb"
       ]
     },
     {
       "id": "155086b4-49b3-426a-b167-40bd027c99e5",
-      "text": "[DRY | Don't repeat yourself - Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
+      "text": "[DRY | Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
     },
     {
       "id": "8121599f-818d-480b-81c6-6615d45f1e05",
-      "text": "[Fail-fast - Wikipedia](https://en.wikipedia.org/wiki/Fail-fast)"
+      "text": "[Fail-fast](https://en.wikipedia.org/wiki/Fail-fast)"
     },
     {
       "id": "365b79e7-1812-4c9a-86ee-a351740e4ebf",
@@ -1297,19 +1297,19 @@
     },
     {
       "id": "b22c46ef-b9e9-4acb-9b93-3d18864806ac",
-      "text": "[KISS principle - Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)"
+      "text": "[KISS principle](https://en.wikipedia.org/wiki/KISS_principle)"
     },
     {
       "id": "2bd8f900-168e-4d35-ae4a-f7858f769a03",
-      "text": "[Pareto principle - Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)"
+      "text": "[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)"
     },
     {
       "id": "b977aab0-459a-467a-864a-bb5fbe5f224d",
-      "text": "[Release early, release often - Wikipedia](https://en.wikipedia.org/wiki/Release_early,_release_often)"
+      "text": "[Release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often)"
     },
     {
       "id": "453283d1-a9ca-4a5d-920d-d06b369e44f3",
-      "text": "[SPOT | SSOT | Single point of truth | Single source of truth - Wikipedia](https://en.wikipedia.org/wiki/Single_source_of_truth)",
+      "text": "[SPOT | SSOT | Single point of truth | Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)",
       "children": [
         "5789fbfe-5d87-4bab-af9d-a225c74dbf6e",
         "b2aeca02-4be1-4a06-b35d-b0f2270e6da8"
@@ -1336,7 +1336,7 @@
     },
     {
       "id": "e4b79e6c-5b8b-4efe-aef7-2f8d87216df7",
-      "text": "[Unix philosophy - Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy)",
+      "text": "[Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)",
       "children": [
         "dac70732-68c6-45ab-b25d-781f36b03770",
         "112d6abe-a910-4e6e-a8e6-5f845fe21658"
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "84923e28-25fd-47f0-9625-775e23532a22",
-      "text": "[YAGNI | You aren't gonna need it - Wikipedia](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)"
+      "text": "[YAGNI | You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)"
     },
     {
       "id": "fc294880-4891-4be5-a27e-84ddbb3d8536",
@@ -1356,7 +1356,7 @@
     },
     {
       "id": "e70cd69b-891d-4e2f-88f4-fe99c29ce64e",
-      "text": "[Pair programming - Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)",
+      "text": "[Pair programming](https://en.wikipedia.org/wiki/Pair_programming)",
       "children": [
         "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f"
       ]
@@ -1367,11 +1367,11 @@
     },
     {
       "id": "c26f0155-f0b4-4918-bafc-21436f183663",
-      "text": "[Single-responsibility principle - Wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle)"
+      "text": "[Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)"
     },
     {
       "id": "e256730d-981f-408a-976b-f24d34cc809e",
-      "text": "[Dependency inversion principle - Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)"
+      "text": "[Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)"
     },
     {
       "id": "d765efc7-2078-444b-ade7-86a3c074ecb1",
@@ -1402,11 +1402,11 @@
     },
     {
       "id": "7d435570-aec6-4fdd-8215-13360af99d02",
-      "text": "[Specification by example - Wikipedia](https://en.wikipedia.org/wiki/Specification_by_example)"
+      "text": "[Specification by example](https://en.wikipedia.org/wiki/Specification_by_example)"
     },
     {
       "id": "b9455c62-27f0-4eae-8e36-5e26d85b0d38",
-      "text": "[ATDD | Acceptance test-driven development - Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)",
+      "text": "[ATDD | Acceptance test-driven development](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)",
       "children": [
         "9b3b9e1d-340b-4b0c-bf1d-d6194602c921",
         "7ba4d53a-b87a-4a32-bc06-1d96f0b072df",
@@ -1566,7 +1566,7 @@
     },
     {
       "id": "e0a76495-c00a-42bb-b571-894f4c03c025",
-      "text": "[Gartner - Wikipedia](https://en.wikipedia.org/wiki/Gartner)",
+      "text": "[Gartner](https://en.wikipedia.org/wiki/Gartner)",
       "children": [
         "99cf6d1b-1e7c-4561-905d-10056f2fd0d3"
       ]
@@ -1593,7 +1593,7 @@
     },
     {
       "id": "d653bf24-661f-4d40-b433-d0d715a43a45",
-      "text": "[Edsger W. Dijkstra - Wikipedia](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)",
+      "text": "[Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)",
       "children": [
         "1dac6458-f29b-47fb-9e53-7bbc104ee41f"
       ]
@@ -1612,21 +1612,21 @@
     },
     {
       "id": "cdd646ff-6483-4d44-9368-52bb3d78bc16",
-      "text": "[Scientific method - Wikipedia](https://en.wikipedia.org/wiki/Scientific_method)",
+      "text": "[Scientific method](https://en.wikipedia.org/wiki/Scientific_method)",
       "children": [
         "3a6e6228-9b45-4663-941b-c4af6026eee2"
       ]
     },
     {
       "id": "3a6e6228-9b45-4663-941b-c4af6026eee2",
-      "text": "[Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science)",
+      "text": "[Computer science](https://en.wikipedia.org/wiki/Computer_science)",
       "children": [
         "4af07617-4171-4c57-a1f7-7ed0ed81eeac"
       ]
     },
     {
       "id": "4af07617-4171-4c57-a1f7-7ed0ed81eeac",
-      "text": "[Turing Award - Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)",
+      "text": "[Turing Award](https://en.wikipedia.org/wiki/Turing_Award)",
       "children": [
         "d653bf24-661f-4d40-b433-d0d715a43a45",
         "44c8ba5c-7360-4894-8a27-067ad1ed6ceb",
@@ -1635,7 +1635,7 @@
     },
     {
       "id": "44c8ba5c-7360-4894-8a27-067ad1ed6ceb",
-      "text": "[Donald Knuth - Wikipedia](https://en.wikipedia.org/wiki/Donald_Knuth)",
+      "text": "[Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)",
       "children": [
         "e68b9457-bce6-4fea-a7a6-50b08af9a7ae",
         "04a6afb8-84d4-4ff9-942c-f53b154bc68b",
@@ -1662,18 +1662,18 @@
     },
     {
       "id": "9ab78929-6123-4637-95e1-e7b88a7ab302",
-      "text": "[Barbara Liskov - Wikipedia](https://en.wikipedia.org/wiki/Barbara_Liskov)",
+      "text": "[Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov)",
       "children": [
         "c9c4f344-e657-42f7-ae63-7bce9659d34c"
       ]
     },
     {
       "id": "c9c4f344-e657-42f7-ae63-7bce9659d34c",
-      "text": "[Liskov substitution principle - Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)"
+      "text": "[Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)"
     },
     {
       "id": "c36d0a6f-3f89-473b-8ba0-ee735879ecb6",
-      "text": "[Secure by design - Wikipedia](https://en.wikipedia.org/wiki/Secure_by_design)",
+      "text": "[Secure by design](https://en.wikipedia.org/wiki/Secure_by_design)",
       "children": [
         "8d01c104-8679-46e3-8eb6-4347f8022695"
       ]
@@ -1700,7 +1700,7 @@
     },
     {
       "id": "b27fb6cb-52a3-44d8-b7f0-c15842ede306",
-      "text": "[Thinking, Fast and Slow - Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)"
+      "text": "[Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)"
     },
     {
       "id": "a939d22e-1c89-4d76-b096-62966c95798f",
@@ -1738,7 +1738,7 @@
     },
     {
       "id": "89433be1-52ca-470b-bb1f-00b94a789b50",
-      "text": "[Peopleware: Productive Projects and Teams - Wikipedia](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams)"
+      "text": "[Peopleware: Productive Projects and Teams](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams)"
     },
     {
       "id": "74fde713-0476-4d6e-aa1b-db9f1c3b3a03",
@@ -1756,7 +1756,7 @@
     },
     {
       "id": "2af8903a-73f8-4201-9860-fd8719092fb3",
-      "text": "[Code Complete - Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)"
+      "text": "[Code Complete](https://en.wikipedia.org/wiki/Code_Complete)"
     },
     {
       "id": "1346a070-02b4-47fc-9ae2-1844bb677d95",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "a9941386-4e90-45d7-86dd-b1e5fbdfb803",
-      "text": "[Tom DeMarco - Wikipedia](https://en.wikipedia.org/wiki/Tom_DeMarco)",
+      "text": "[Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco)",
       "children": [
         "89433be1-52ca-470b-bb1f-00b94a789b50",
         "165cc5a3-2b16-4489-b3aa-d6ad6477fd53",
