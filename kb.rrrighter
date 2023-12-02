@@ -12,26 +12,26 @@
       "id": "9fbbd16c-ea94-4ce9-b87c-79ca54889259",
       "text": "🧠 Philosophies",
       "children": [
+        "930d8f72-a727-482c-9794-a3227eb7fe9f",
         "200fb470-0962-46b1-bfa7-e9ab25b06af4",
         "d295df5b-41d3-4028-a2ed-79efc3da9ab3",
         "06f075ad-25fe-4fd9-8ff8-1fe25b0fd568",
         "e43c5a6b-ee86-41e7-bdfb-f70ea929f6a8",
         "e4b79e6c-5b8b-4efe-aef7-2f8d87216df7",
-        "c36d0a6f-3f89-473b-8ba0-ee735879ecb6",
-        "6526ce07-9465-4bff-b84e-aa7926eebc28",
         "b135c146-d54b-46b2-851c-7fc370ede8fc",
-        "930d8f72-a727-482c-9794-a3227eb7fe9f",
-        "b27fb6cb-52a3-44d8-b7f0-c15842ede306"
+        "c36d0a6f-3f89-473b-8ba0-ee735879ecb6",
+        "6526ce07-9465-4bff-b84e-aa7926eebc28"
       ]
     },
     {
       "id": "6494e5b8-afb2-492b-b433-bd3caf926034",
       "text": "🔬 Methodologies",
       "children": [
+        "d9894527-e870-4dbb-b182-5bff54ab804b",
         "516ec531-086c-4440-8e1f-a56eb25d2b43",
         "05832c84-6748-4a51-a53b-fe79ea277db8",
-        "d9894527-e870-4dbb-b182-5bff54ab804b",
         "ba219e0b-40b0-4481-b26b-e2b3e419fd37",
+        "5c4ffeb7-5ade-49e5-a8dd-30659f558556",
         "cdd646ff-6483-4d44-9368-52bb3d78bc16"
       ]
     },
@@ -134,7 +134,8 @@
         "9c74a42d-77d2-4eb4-9905-b7db5edfa690",
         "0d5b6573-b9d8-4ffd-8f82-94b8d7bcf871",
         "960bde3c-2e60-4e85-979f-c6b1a9e9966f",
-        "7657e774-1634-4cf7-af8e-60a02c09b0ae"
+        "7657e774-1634-4cf7-af8e-60a02c09b0ae",
+        "95617525-14d3-4d1a-a685-071d31327cfb"
       ]
     },
     {
@@ -354,7 +355,10 @@
         "5a7ce62d-e010-49ff-b6e1-c5b924b73973",
         "5e08c852-ee75-4e69-a4a0-61d8bf3b189e",
         "86e5aa00-70fa-4c3e-92fa-db0dda275493",
-        "04a6afb8-84d4-4ff9-942c-f53b154bc68b"
+        "04a6afb8-84d4-4ff9-942c-f53b154bc68b",
+        "ace7b0de-ed76-47f3-8de2-0793258a432d",
+        "aaf2b28f-6f41-4437-8313-01bc4c3079c2",
+        "2cfedc88-054e-423b-920d-18a22948a863"
       ]
     },
     {
@@ -399,7 +403,8 @@
       "children": [
         "5609235b-9b14-4b27-a7cb-d1c3ab92996d",
         "18b9d258-f5fb-4967-a790-75b96ecca670",
-        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab"
+        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab",
+        "84923e28-25fd-47f0-9625-775e23532a22"
       ]
     },
     {
@@ -430,7 +435,9 @@
         "e8e9464c-cf51-423e-86e4-a83f97633808",
         "d765efc7-2078-444b-ade7-86a3c074ecb1",
         "74fde713-0476-4d6e-aa1b-db9f1c3b3a03",
-        "93520754-f71b-4075-8bb7-f6f4433b8fd5"
+        "93520754-f71b-4075-8bb7-f6f4433b8fd5",
+        "8b96413c-01f3-48aa-ae11-608c5eb7f44a",
+        "959cc8e7-c718-4920-a461-7dfa07627999"
       ]
     },
     {
@@ -566,7 +573,10 @@
         "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
         "981e07bd-957f-4b46-be7e-1893eba909f6",
         "1ee6e87c-afd7-4165-a698-7413d381dda9",
-        "a761e9fd-7100-4832-a2ee-c33addce6a03"
+        "a761e9fd-7100-4832-a2ee-c33addce6a03",
+        "959cc8e7-c718-4920-a461-7dfa07627999",
+        "8b96413c-01f3-48aa-ae11-608c5eb7f44a",
+        "c5f52d31-4b4b-4399-9c21-362f2da62bf3"
       ]
     },
     {
@@ -698,7 +708,7 @@
     },
     {
       "id": "efa2c4b9-1976-47b7-9611-a99b9d2dc0e2",
-      "text": "These are notes about resources I use and find helpful in developing better software."
+      "text": "These are personal notes about resources I use and recommend to develop better software."
     },
     {
       "id": "516ec531-086c-4440-8e1f-a56eb25d2b43",
@@ -767,6 +777,7 @@
       "id": "59f6c398-cc59-484f-ad80-5bb664d046d2",
       "text": "[Code Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)",
       "children": [
+        "959cc8e7-c718-4920-a461-7dfa07627999",
         "d765efc7-2078-444b-ade7-86a3c074ecb1",
         "e8e9464c-cf51-423e-86e4-a83f97633808",
         "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
@@ -1350,7 +1361,11 @@
     },
     {
       "id": "84923e28-25fd-47f0-9625-775e23532a22",
-      "text": "[YAGNI | You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)"
+      "text": "[YAGNI | You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)",
+      "children": [
+        "8b96413c-01f3-48aa-ae11-608c5eb7f44a",
+        "c5f52d31-4b4b-4399-9c21-362f2da62bf3"
+      ]
     },
     {
       "id": "fc294880-4891-4be5-a27e-84ddbb3d8536",
@@ -1612,7 +1627,8 @@
       "id": "cdd646ff-6483-4d44-9368-52bb3d78bc16",
       "text": "[Scientific method](https://en.wikipedia.org/wiki/Scientific_method)",
       "children": [
-        "3a6e6228-9b45-4663-941b-c4af6026eee2"
+        "3a6e6228-9b45-4663-941b-c4af6026eee2",
+        "764aaa50-cde3-41f7-99b1-6d7ca96488c5"
       ]
     },
     {
@@ -1698,7 +1714,10 @@
     },
     {
       "id": "b27fb6cb-52a3-44d8-b7f0-c15842ede306",
-      "text": "[Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)"
+      "text": "[Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)",
+      "children": [
+        "b3cf3701-fe9a-47b9-8a69-a854ce371951"
+      ]
     },
     {
       "id": "a939d22e-1c89-4d76-b096-62966c95798f",
@@ -2268,6 +2287,61 @@
     {
       "id": "ba219e0b-40b0-4481-b26b-e2b3e419fd37",
       "text": "[The Twelve-Factor App](https://12factor.net/)"
+    },
+    {
+      "id": "95617525-14d3-4d1a-a685-071d31327cfb",
+      "text": "[Video Editing and Screen Recording Software | ScreenFlow](https://www.telestream.net/screenflow/overview.htm)"
+    },
+    {
+      "id": "8b96413c-01f3-48aa-ae11-608c5eb7f44a",
+      "text": "[Yagni in details: when to use and when not to](https://martinfowler.com/bliki/Yagni.html)",
+      "children": [
+        "ace7b0de-ed76-47f3-8de2-0793258a432d",
+        "aaf2b28f-6f41-4437-8313-01bc4c3079c2"
+      ]
+    },
+    {
+      "id": "ace7b0de-ed76-47f3-8de2-0793258a432d",
+      "text": "Yagni only applies to capabilities built into the software to support a presumptive feature, it does not apply to effort to make the software easier to modify."
+    },
+    {
+      "id": "aaf2b28f-6f41-4437-8313-01bc4c3079c2",
+      "text": "Yagni is not a justification for neglecting the health of your code base. Yagni requires (and enables) malleable code."
+    },
+    {
+      "id": "c5f52d31-4b4b-4399-9c21-362f2da62bf3",
+      "text": "[You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)",
+      "children": [
+        "2cfedc88-054e-423b-920d-18a22948a863"
+      ]
+    },
+    {
+      "id": "2cfedc88-054e-423b-920d-18a22948a863",
+      "text": "Always implement things when you **actually** need them, never when you just **foresee** that you need them."
+    },
+    {
+      "id": "959cc8e7-c718-4920-a461-7dfa07627999",
+      "text": "[Technical Debt Quadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)"
+    },
+    {
+      "id": "b3cf3701-fe9a-47b9-8a69-a854ce371951",
+      "text": "[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) is known for his work in behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences (shared with Vernon L. Smith). "
+    },
+    {
+      "id": "5c4ffeb7-5ade-49e5-a8dd-30659f558556",
+      "text": "[Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done)"
+    },
+    {
+      "id": "764aaa50-cde3-41f7-99b1-6d7ca96488c5",
+      "text": "[Cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias)",
+      "children": [
+        "b27fb6cb-52a3-44d8-b7f0-c15842ede306",
+        "02e79193-7feb-4569-a8b9-2fb35d9ca641"
+      ]
+    },
+    {
+      "id": "02e79193-7feb-4569-a8b9-2fb35d9ca641",
+      "text": "[Cognitive Bias Codex - 180+ biases](https://en.wikipedia.org/wiki/Cognitive_bias#/media/File:Cognitive_Bias_Codex_-_180+_biases,_designed_by_John_Manoogian_III_(jm3).jpg)"
     }
   ]
 }
