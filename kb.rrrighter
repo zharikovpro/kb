@@ -31,6 +31,7 @@
         "516ec531-086c-4440-8e1f-a56eb25d2b43",
         "05832c84-6748-4a51-a53b-fe79ea277db8",
         "d9894527-e870-4dbb-b182-5bff54ab804b",
+        "ba219e0b-40b0-4481-b26b-e2b3e419fd37",
         "cdd646ff-6483-4d44-9368-52bb3d78bc16"
       ]
     },
@@ -48,7 +49,8 @@
         "155086b4-49b3-426a-b167-40bd027c99e5",
         "453283d1-a9ca-4a5d-920d-d06b369e44f3",
         "346428f0-158d-427a-86c1-20fc2a18238e",
-        "52d5d09b-9cac-4685-84cd-8835b90b2053"
+        "52d5d09b-9cac-4685-84cd-8835b90b2053",
+        "ba219e0b-40b0-4481-b26b-e2b3e419fd37"
       ]
     },
     {
@@ -873,7 +875,7 @@
     },
     {
       "id": "4e85bd07-05b7-4b11-92a7-917e2c611a5c",
-      "text": "[refactoring.guru](https://refactoring.guru/)"
+      "text": "[refactoring.guru - design and refactoring patterns](https://refactoring.guru/)"
     },
     {
       "id": "8473ed69-c44a-4485-9f07-4eecdc9106ea",
@@ -2263,6 +2265,10 @@
     {
       "id": "1671b169-fd9c-454b-b1c4-03891970ac62",
       "text": "The web is a delivery mechanism—an IO device—and your application architecture should treat it as such. The fact that your application is delivered over the web is a detail and should not dominate your system structure."
+    },
+    {
+      "id": "ba219e0b-40b0-4481-b26b-e2b3e419fd37",
+      "text": "[The Twelve-Factor App](https://12factor.net/)"
     }
   ]
 }
