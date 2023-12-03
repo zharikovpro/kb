@@ -1,4 +1,4 @@
-[🗃️ EXPLORE THE KNOWLEDGE BASE](https://kb.zharikov.pro)
+🗃 [EXPLORE THE KNOWLEDGE BASE](https://kb.zharikov.pro)
 
 Personal notes about resources I use and recommend to develop better software.
 
