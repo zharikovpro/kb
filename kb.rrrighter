@@ -46,6 +46,9 @@
         "365b79e7-1812-4c9a-86ee-a351740e4ebf",
         "b22c46ef-b9e9-4acb-9b93-3d18864806ac",
         "84923e28-25fd-47f0-9625-775e23532a22",
+        "0feb85ce-df9e-4828-9d6d-3c331dd7c6f5",
+        "b04faee6-23fa-4649-879b-6cdfe87ac627",
+        "d38109bd-a966-479e-8adf-0cb07c93712e",
         "155086b4-49b3-426a-b167-40bd027c99e5",
         "453283d1-a9ca-4a5d-920d-d06b369e44f3",
         "346428f0-158d-427a-86c1-20fc2a18238e",
@@ -57,7 +60,6 @@
       "text": "💪 Practices",
       "children": [
         "da6f4be1-02c3-4440-8060-8a86cb62fed8",
-        "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
         "d017560b-ef09-411c-8142-5837982d4d6c",
         "59f6c398-cc59-484f-ad80-5bb664d046d2",
         "e70cd69b-891d-4e2f-88f4-fe99c29ce64e"
@@ -90,7 +92,8 @@
         "a9941386-4e90-45d7-86dd-b1e5fbdfb803",
         "d653bf24-661f-4d40-b433-d0d715a43a45",
         "44c8ba5c-7360-4894-8a27-067ad1ed6ceb",
-        "9ab78929-6123-4637-95e1-e7b88a7ab302"
+        "9ab78929-6123-4637-95e1-e7b88a7ab302",
+        "f5a1415d-c8ee-4dd5-b508-a8c8a9e7fcab"
       ]
     },
     {
@@ -358,7 +361,9 @@
         "04a6afb8-84d4-4ff9-942c-f53b154bc68b",
         "ace7b0de-ed76-47f3-8de2-0793258a432d",
         "aaf2b28f-6f41-4437-8313-01bc4c3079c2",
-        "2cfedc88-054e-423b-920d-18a22948a863"
+        "2cfedc88-054e-423b-920d-18a22948a863",
+        "16a4a1bf-c3dd-41e2-b82c-e1ed7f97b872",
+        "0feb85ce-df9e-4828-9d6d-3c331dd7c6f5"
       ]
     },
     {
@@ -373,20 +378,20 @@
       "id": "da6f4be1-02c3-4440-8060-8a86cb62fed8",
       "text": "[TDD | Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)",
       "children": [
-        "3e857f69-ea92-4f22-95ad-072c3249aed7",
-        "634029ff-0014-494d-9d41-fe9249aaae8e",
-        "c9e78519-1f27-49de-98dd-c3059591c58e",
-        "7d435570-aec6-4fdd-8215-13360af99d02",
-        "b9455c62-27f0-4eae-8e36-5e26d85b0d38",
-        "b6d729c4-d082-44a2-bd5c-c39d75c3e928",
-        "65197231-7845-42d1-bc72-5da6cc93f798",
         "e5fa911f-aeb8-40ac-989e-4a0a8855192d",
         "ec526ebd-3960-4a3f-8f8c-aa750ce9ab7f",
         "37b4ab5d-d39e-4228-be2d-8baad99f492c",
         "e237b72f-45c0-4931-84a6-a29eb36c570a",
         "f9685a05-7566-4162-973b-1bd5dba3a174",
         "dae87d46-da23-4447-a2b0-befe36a6959d",
-        "bf219c92-2dcc-478f-b6df-f88f8c5ed200"
+        "bf219c92-2dcc-478f-b6df-f88f8c5ed200",
+        "b6d729c4-d082-44a2-bd5c-c39d75c3e928",
+        "3e857f69-ea92-4f22-95ad-072c3249aed7",
+        "c1417bce-e13a-4d23-8d5c-a3c6b8dc7995",
+        "b9455c62-27f0-4eae-8e36-5e26d85b0d38",
+        "634029ff-0014-494d-9d41-fe9249aaae8e",
+        "c9e78519-1f27-49de-98dd-c3059591c58e",
+        "65197231-7845-42d1-bc72-5da6cc93f798"
       ]
     },
     {
@@ -636,7 +641,13 @@
     },
     {
       "id": "b04faee6-23fa-4649-879b-6cdfe87ac627",
-      "text": "[Kent Beck Design Rules:](https://martinfowler.com/bliki/BeckDesignRules.html)\n\n- Passes the tests\n- Reveals intention\n- No duplication\n- Fewest elements"
+      "text": "[Kent Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)",
+      "children": [
+        "a58b855e-903d-422d-af9c-74c3a71c2df1",
+        "2c65c986-b387-4ba0-b030-0a11bc9d735d",
+        "6a517290-ac2d-49d9-be99-bbc77cc18ee7",
+        "9dbdace4-3047-4be8-b935-67e3e2470e87"
+      ]
     },
     {
       "id": "c3e9c3a3-4a2a-4f37-b8be-d99f27dc1a61",
@@ -1314,7 +1325,7 @@
     },
     {
       "id": "2bd8f900-168e-4d35-ae4a-f7858f769a03",
-      "text": "[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)"
+      "text": "[Pareto principle in computing](https://en.wikipedia.org/wiki/Pareto_principle#In_computing)"
     },
     {
       "id": "b977aab0-459a-467a-864a-bb5fbe5f224d",
@@ -1423,7 +1434,8 @@
       "children": [
         "9b3b9e1d-340b-4b0c-bf1d-d6194602c921",
         "7ba4d53a-b87a-4a32-bc06-1d96f0b072df",
-        "a7b00e77-3117-4caa-8fdb-2d13a0915072"
+        "a7b00e77-3117-4caa-8fdb-2d13a0915072",
+        "7d435570-aec6-4fdd-8215-13360af99d02"
       ]
     },
     {
@@ -1452,8 +1464,9 @@
     },
     {
       "id": "d38109bd-a966-479e-8adf-0cb07c93712e",
-      "text": "Basics of the Unix Philosophy",
+      "text": "[Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)",
       "children": [
+        "16a4a1bf-c3dd-41e2-b82c-e1ed7f97b872",
         "ad38109c-8e51-43e1-a4eb-890be5941b25",
         "39e4b7b7-7b1d-4aaf-b967-28dd89f96441",
         "3e9e51e2-3d36-4fbd-83e5-a3eb06467939",
@@ -1824,14 +1837,14 @@
         "a998df93-2a9a-4bdf-b2dd-7b09dd3feb2a",
         "c8bbb27e-4f65-4e0e-b205-55938945d358",
         "14434375-a600-4db0-a156-92062734921d",
-        "37b4ab5d-d39e-4228-be2d-8baad99f492c",
         "e237b72f-45c0-4931-84a6-a29eb36c570a",
         "f9685a05-7566-4162-973b-1bd5dba3a174",
         "dae87d46-da23-4447-a2b0-befe36a6959d",
         "a616672e-c6e5-4d7a-b998-e9785660ecbf",
         "5308ec45-dbe6-41e0-88ea-943abeefa278",
         "1a07e608-bf42-470e-99c3-ddd7de3b1ed2",
-        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab"
+        "a9cf0f4d-4aed-4f0a-92c4-4c3e3ca4a9ab",
+        "37b4ab5d-d39e-4228-be2d-8baad99f492c"
       ]
     },
     {
@@ -2342,6 +2355,37 @@
     {
       "id": "02e79193-7feb-4569-a8b9-2fb35d9ca641",
       "text": "[Cognitive Bias Codex - 180+ biases](https://en.wikipedia.org/wiki/Cognitive_bias#/media/File:Cognitive_Bias_Codex_-_180+_biases,_designed_by_John_Manoogian_III_(jm3).jpg)"
+    },
+    {
+      "id": "a58b855e-903d-422d-af9c-74c3a71c2df1",
+      "text": "Passes the tests"
+    },
+    {
+      "id": "2c65c986-b387-4ba0-b030-0a11bc9d735d",
+      "text": "Reveals intention"
+    },
+    {
+      "id": "6a517290-ac2d-49d9-be99-bbc77cc18ee7",
+      "text": "No duplication"
+    },
+    {
+      "id": "9dbdace4-3047-4be8-b935-67e3e2470e87",
+      "text": "Fewest elements"
+    },
+    {
+      "id": "16a4a1bf-c3dd-41e2-b82c-e1ed7f97b872",
+      "text": "Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface."
+    },
+    {
+      "id": "f5a1415d-c8ee-4dd5-b508-a8c8a9e7fcab",
+      "text": "[Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike)",
+      "children": [
+        "0feb85ce-df9e-4828-9d6d-3c331dd7c6f5"
+      ]
+    },
+    {
+      "id": "0feb85ce-df9e-4828-9d6d-3c331dd7c6f5",
+      "text": "Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming."
     }
   ]
 }
