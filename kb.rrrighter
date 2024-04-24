@@ -11,7 +11,8 @@
         "579f7211-f795-40aa-a7ac-b9c56977820d",
         "8541b428-d0b7-4a4f-bf4d-7ea28379dcb9",
         "778c01e1-f527-48f3-900f-f55b98014d3a",
-        "087ea34e-1194-44cd-a6b6-9ac11ef0d071"
+        "087ea34e-1194-44cd-a6b6-9ac11ef0d071",
+        null
       ]
     },
     {
@@ -73,9 +74,9 @@
       "id": "579f7211-f795-40aa-a7ac-b9c56977820d",
       "text": "💪 Practices",
       "children": [
-        "657a3c3d-79f9-42ae-b687-4c3c7a1ddbb0",
         "a40c97f5-097e-4932-9dfb-5ad5cf9f350f",
         "b1deb9bc-d5e5-4e51-9109-2b055559c8f0",
+        "657a3c3d-79f9-42ae-b687-4c3c7a1ddbb0",
         "d00686f0-a6ad-4c97-b527-77b8cc16489b"
       ]
     },
@@ -117,6 +118,14 @@
         "49ec3357-c1b5-43aa-a6a3-ba014608f084",
         "259655e5-ca3e-4d7d-81de-390e75a072dc",
         "3025d19c-ac07-43cb-80e5-b2c0039352bd"
+      ]
+    },
+    {
+      "text": "",
+      "children": [
+        "65be3d30-49a0-4299-a13b-4e46362cdf75",
+        "81b9de7b-77b2-4f0b-86d2-9ce1cf87c164",
+        "443427ec-6058-4061-b063-9818d404acbb"
       ]
     },
     {
@@ -1042,26 +1051,6 @@
       "text": "[Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)"
     },
     {
-      "id": "657a3c3d-79f9-42ae-b687-4c3c7a1ddbb0",
-      "text": "[TDD | Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)",
-      "children": [
-        "6ab1f803-41fe-4c2f-91e3-1b4890a5f631",
-        "a1e4cc08-80a0-4049-94d7-70cb10471c8a",
-        "56d06711-3285-46d6-bdd1-5cc79e1e659d",
-        "5d189d30-8d2f-4f1e-bfb0-f16357a4bf0b",
-        "2c092368-29bd-4dd6-b933-66a7cfc66ede",
-        "4877b0cc-d1eb-4eb2-8b4d-e5e55dd32feb",
-        "676e7a87-4308-4db9-b407-36148480d093",
-        "2b4cf6c2-dc1a-4238-b681-21713096626b",
-        "7f065869-32e6-42d6-9517-72c78e5706df",
-        "5f78eea4-9885-4b71-97b5-052faec7f92d",
-        "55e39e00-92fd-4ef5-8fa4-f71c81a1741b",
-        "5ee2a2dd-c3ad-4004-bf9f-a27a887a8b30",
-        "0591728e-39c3-4047-a11d-9de21fdbc08a",
-        "b62578e1-2383-4c56-a954-6dc81c8d7d7a"
-      ]
-    },
-    {
       "id": "b1deb9bc-d5e5-4e51-9109-2b055559c8f0",
       "text": "[Code Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)",
       "children": [
@@ -1074,6 +1063,33 @@
       ]
     },
     {
+      "id": "657a3c3d-79f9-42ae-b687-4c3c7a1ddbb0",
+      "text": "[TDD | Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)",
+      "children": [
+        "ac66ce29-ac9b-4169-a775-4b89beeb8a98",
+        "dd98137b-57e0-41c8-8cea-0cc6658cdf3b",
+        "5ee2a2dd-c3ad-4004-bf9f-a27a887a8b30",
+        "acdeedce-69da-4040-ad48-b57a25515b48",
+        "65be3d30-49a0-4299-a13b-4e46362cdf75",
+        "a1624a18-51e6-417f-82e7-cdab50aced89",
+        "6ab1f803-41fe-4c2f-91e3-1b4890a5f631",
+        "a1e4cc08-80a0-4049-94d7-70cb10471c8a",
+        "56d06711-3285-46d6-bdd1-5cc79e1e659d",
+        "5d189d30-8d2f-4f1e-bfb0-f16357a4bf0b",
+        "2c092368-29bd-4dd6-b933-66a7cfc66ede",
+        "4877b0cc-d1eb-4eb2-8b4d-e5e55dd32feb",
+        "676e7a87-4308-4db9-b407-36148480d093",
+        "81b9de7b-77b2-4f0b-86d2-9ce1cf87c164",
+        "2b4cf6c2-dc1a-4238-b681-21713096626b",
+        "443427ec-6058-4061-b063-9818d404acbb",
+        "7f065869-32e6-42d6-9517-72c78e5706df",
+        "5f78eea4-9885-4b71-97b5-052faec7f92d",
+        "55e39e00-92fd-4ef5-8fa4-f71c81a1741b",
+        "0591728e-39c3-4047-a11d-9de21fdbc08a",
+        "b62578e1-2383-4c56-a954-6dc81c8d7d7a"
+      ]
+    },
+    {
       "id": "d00686f0-a6ad-4c97-b527-77b8cc16489b",
       "text": "[Pair programming](https://en.wikipedia.org/wiki/Pair_programming)",
       "children": [
@@ -1081,8 +1097,71 @@
       ]
     },
     {
+      "id": "3951c2d7-9e60-4d82-bf30-873589ba9e0c",
+      "text": "[Technical Debt Quadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)"
+    },
+    {
+      "id": "ab531c54-34e4-473f-aab5-958b2b25593a",
+      "text": "[Refactoring: Improving the Design of Existing Code](https://refactoring.com/)"
+    },
+    {
+      "id": "0471e504-e3f2-44ca-ab9d-a36c1c9d3e04",
+      "text": "[Refactoring Ruby Edition](https://martinfowler.com/books/refactoringRubyEd.html)"
+    },
+    {
+      "id": "16e9d2ac-9b53-46c1-b6d0-d7d009dd6119",
+      "text": "[refactoring.guru - design and refactoring patterns](https://refactoring.guru/)"
+    },
+    {
+      "id": "b3f39f30-f2ca-4d18-9c49-3f9519d47f45",
+      "text": "[All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)"
+    },
+    {
+      "id": "ac66ce29-ac9b-4169-a775-4b89beeb8a98",
+      "text": "[Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)"
+    },
+    {
+      "id": "dd98137b-57e0-41c8-8cea-0cc6658cdf3b",
+      "text": "[Test Desiderata](https://kentbeck.github.io/TestDesiderata/)"
+    },
+    {
+      "id": "5ee2a2dd-c3ad-4004-bf9f-a27a887a8b30",
+      "text": "[Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck-ebook/dp/B095SQ9WP4/)",
+      "children": [
+        "a0e2c422-311d-48c4-bd3a-0a2c5bfa81f6"
+      ]
+    },
+    {
+      "id": "acdeedce-69da-4040-ad48-b57a25515b48",
+      "text": "[TDD Is An Essential](https://www.youtube.com/watch?v=JDi3MSUd3zs)"
+    },
+    {
+      "id": "65be3d30-49a0-4299-a13b-4e46362cdf75",
+      "text": "[Test Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html)",
+      "children": [
+        "68d77b7d-5a84-4295-b7eb-2a95ae21adfe"
+      ]
+    },
+    {
+      "id": "a1624a18-51e6-417f-82e7-cdab50aced89",
+      "text": "[Statistics & Studies: The Benefits Of Test Driven Development](https://theqalead.com/general/statistics-studies-benefits-test-driven-development/)"
+    },
+    {
+      "id": "81b9de7b-77b2-4f0b-86d2-9ce1cf87c164",
+      "text": "All in all, I think test-first programming is one of the most beneficial software practices to emerge during the past decade and is a good general approach."
+    },
+    {
       "id": "2b4cf6c2-dc1a-4238-b681-21713096626b",
       "text": "[Test first](https://blog.cleancoder.com/uncle-bob/2013/09/23/Test-first.html)"
+    },
+    {
+      "id": "443427ec-6058-4061-b063-9818d404acbb",
+      "text": "[Test-Before Is Operationally Different](https://www.geepawhill.org/2019/01/21/tdd-pro-tip-test-before-is-operationally-different/)",
+      "children": [
+        "cb4ded1c-8f88-42e5-b12e-35093df92eaa",
+        "9939f4d9-4640-49f8-a24d-019c660ecd88",
+        "b508c503-f902-4ead-8681-afa6928bd92b"
+      ]
     },
     {
       "id": "7f065869-32e6-42d6-9517-72c78e5706df",
@@ -1107,10 +1186,6 @@
       ]
     },
     {
-      "id": "5ee2a2dd-c3ad-4004-bf9f-a27a887a8b30",
-      "text": "[Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck-ebook/dp/B095SQ9WP4/)"
-    },
-    {
       "id": "0591728e-39c3-4047-a11d-9de21fdbc08a",
       "text": "[The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M)"
     },
@@ -1119,28 +1194,28 @@
       "text": "[Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)"
     },
     {
+      "id": "a0e2c422-311d-48c4-bd3a-0a2c5bfa81f6",
+      "text": "Rather than apply minutes of suspect reasoning, we can just ask the computer by making the change and running the tests. In teaching TDD, I see this situation all the time—excellent software engineers spending 5 to 10 minutes reasoning about a question that the computer could answer in 15 seconds."
+    },
+    {
+      "id": "68d77b7d-5a84-4295-b7eb-2a95ae21adfe",
+      "text": "Writing the test first, what [XPE2](https://www.amazon.com/gp/product/0321278658/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321278658&linkCode=as2&tag=martinfowlerc-20) calls Test-First Programming, provides two main benefits. Most obviously **it's a way to get [SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)**, since we can only write some functional code in response to making a test pass. The second benefit is that thinking about the **test first forces us to think about the interface to the code first**. This focus on interface and how you use a class helps us separate interface from implementation, a key element of good design that many programmers struggle with."
+    },
+    {
+      "id": "cb4ded1c-8f88-42e5-b12e-35093df92eaa",
+      "text": "People ask why we test before instead of testing after. The answer is because of the operational impact of testing before. And the value of TDD is not only in the power of the made — the tests — it’s in the balancing of the made, the making, and the maker."
+    },
+    {
+      "id": "9939f4d9-4640-49f8-a24d-019c660ecd88",
+      "text": "First, test-before style requires the geek to have a clue about where they’re headed with the code. It operates somewhat from the outside, specifying an API or a data structure. As such, it is the beginning of detailed code design. Without that beginning, you’re just typing."
+    },
+    {
+      "id": "b508c503-f902-4ead-8681-afa6928bd92b",
+      "text": "After code is written, when I write tests for it, I am writing from a combination of my recall (overrated) and my re-reading (low-quality because re-)."
+    },
+    {
       "id": "3118591e-ce08-420d-b774-6958ff8cc7c0",
       "text": "[Specification by example](https://en.wikipedia.org/wiki/Specification_by_example)"
-    },
-    {
-      "id": "3951c2d7-9e60-4d82-bf30-873589ba9e0c",
-      "text": "[Technical Debt Quadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)"
-    },
-    {
-      "id": "ab531c54-34e4-473f-aab5-958b2b25593a",
-      "text": "[Refactoring: Improving the Design of Existing Code](https://refactoring.com/)"
-    },
-    {
-      "id": "0471e504-e3f2-44ca-ab9d-a36c1c9d3e04",
-      "text": "[Refactoring Ruby Edition](https://martinfowler.com/books/refactoringRubyEd.html)"
-    },
-    {
-      "id": "16e9d2ac-9b53-46c1-b6d0-d7d009dd6119",
-      "text": "[refactoring.guru - design and refactoring patterns](https://refactoring.guru/)"
-    },
-    {
-      "id": "b3f39f30-f2ca-4d18-9c49-3f9519d47f45",
-      "text": "[All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)"
     },
     {
       "id": "92c71766-032f-4440-a10f-cab0609c0ed4",
@@ -1205,7 +1280,9 @@
         "3951c2d7-9e60-4d82-bf30-873589ba9e0c",
         "68776401-0e9d-4da9-8dd4-25687835bd10",
         "f5b635b9-6bf1-4eb1-9612-55190f24e1e7",
-        "56e51b8c-89af-43fc-8f35-4b4ba8c05089"
+        "56e51b8c-89af-43fc-8f35-4b4ba8c05089",
+        "65be3d30-49a0-4299-a13b-4e46362cdf75",
+        "ac66ce29-ac9b-4169-a775-4b89beeb8a98"
       ]
     },
     {
@@ -1315,7 +1392,9 @@
         "644b95c1-ff5c-402a-987d-1730d0d252a5",
         "fb749bf4-36ac-47d9-ab44-46417856044b",
         "4b3af181-6a7b-4adf-8468-0304d63472d8",
-        "10e0c0fc-4bd4-4293-b748-91351d9c05fa"
+        "10e0c0fc-4bd4-4293-b748-91351d9c05fa",
+        "68d77b7d-5a84-4295-b7eb-2a95ae21adfe",
+        "a0e2c422-311d-48c4-bd3a-0a2c5bfa81f6"
       ]
     },
     {
@@ -1329,7 +1408,8 @@
         "5899931d-d011-4aef-9366-395213de4c9d",
         "db854697-8aa8-4cb5-abc6-46a6cd7168fb",
         "b3f39f30-f2ca-4d18-9c49-3f9519d47f45",
-        "0591728e-39c3-4047-a11d-9de21fdbc08a"
+        "0591728e-39c3-4047-a11d-9de21fdbc08a",
+        "acdeedce-69da-4040-ad48-b57a25515b48"
       ]
     },
     {
@@ -1700,7 +1780,8 @@
         "9052ba1c-02fb-4fbd-95f8-4acc60812743",
         "6d110330-bd58-4ac9-815b-6476d17d42e3",
         "68776401-0e9d-4da9-8dd4-25687835bd10",
-        "3951c2d7-9e60-4d82-bf30-873589ba9e0c"
+        "3951c2d7-9e60-4d82-bf30-873589ba9e0c",
+        "acdeedce-69da-4040-ad48-b57a25515b48"
       ]
     },
     {
