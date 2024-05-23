@@ -11,7 +11,8 @@
         "579f7211-f795-40aa-a7ac-b9c56977820d",
         "8541b428-d0b7-4a4f-bf4d-7ea28379dcb9",
         "778c01e1-f527-48f3-900f-f55b98014d3a",
-        "087ea34e-1194-44cd-a6b6-9ac11ef0d071"
+        "087ea34e-1194-44cd-a6b6-9ac11ef0d071",
+        null
       ]
     },
     {
@@ -1222,14 +1223,15 @@
         "e5a36b42-238c-42f6-9a4c-b7ad60955b73",
         "15695f1b-e7b8-4553-8640-d15578b64005",
         "7467f065-3753-437d-9fb9-35fac62397d2",
+        "99e4a8dd-6e52-4b34-b82e-87a0fe97b990",
         "a197d7ef-ea80-4976-9550-d9f40ba8f2b3",
         "5ee2a2dd-c3ad-4004-bf9f-a27a887a8b30",
         "ab531c54-34e4-473f-aab5-958b2b25593a",
         "0471e504-e3f2-44ca-ab9d-a36c1c9d3e04",
         "48a809c3-8061-4b25-ba22-325c0d450607",
-        "b7cfb588-3144-41f6-b621-59236be6fde2",
-        "316aa00c-2bc1-443e-a744-c5286a17f173",
         "508c2b07-221a-4c16-a036-860adb5a753b",
+        "316aa00c-2bc1-443e-a744-c5286a17f173",
+        "b7cfb588-3144-41f6-b621-59236be6fde2",
         "ed49d975-94b9-45ac-9398-bcdbef3997c1",
         "7bea0bb4-4031-406c-ba46-83157abbbb9a",
         "dca7c23c-8b89-4db8-b1c2-47d57d33732a",
@@ -1238,7 +1240,6 @@
         "4fc45937-67a5-42de-8d28-8ec840a5c821",
         "9052ba1c-02fb-4fbd-95f8-4acc60812743",
         "8c7a35e7-26a9-418e-a9d6-9aef2f2d6fef",
-        "99e4a8dd-6e52-4b34-b82e-87a0fe97b990",
         "cd309284-5c76-4e13-9b1d-057e33960a27",
         "02495046-73e6-46c6-97e3-323d8468e31e",
         "388550d4-8fb2-408f-a0c0-fa9b0f179dc5",
@@ -1388,7 +1389,8 @@
         "4b3af181-6a7b-4adf-8468-0304d63472d8",
         "10e0c0fc-4bd4-4293-b748-91351d9c05fa",
         "68d77b7d-5a84-4295-b7eb-2a95ae21adfe",
-        "a0e2c422-311d-48c4-bd3a-0a2c5bfa81f6"
+        "a0e2c422-311d-48c4-bd3a-0a2c5bfa81f6",
+        "81b9de7b-77b2-4f0b-86d2-9ce1cf87c164"
       ]
     },
     {
@@ -1421,12 +1423,15 @@
       ]
     },
     {
-      "id": "48a809c3-8061-4b25-ba22-325c0d450607",
-      "text": "[The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)"
+      "id": "99e4a8dd-6e52-4b34-b82e-87a0fe97b990",
+      "text": "[Code Complete](https://en.wikipedia.org/wiki/Code_Complete)",
+      "children": [
+        "81b9de7b-77b2-4f0b-86d2-9ce1cf87c164"
+      ]
     },
     {
-      "id": "b7cfb588-3144-41f6-b621-59236be6fde2",
-      "text": "[Basecamp: REMOTE — Office Not Required](https://basecamp.com/books/remote)"
+      "id": "48a809c3-8061-4b25-ba22-325c0d450607",
+      "text": "[The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)"
     },
     {
       "id": "508c2b07-221a-4c16-a036-860adb5a753b",
@@ -1434,6 +1439,10 @@
       "children": [
         "8bc70822-8028-4f5d-8cb5-7637a57da80b"
       ]
+    },
+    {
+      "id": "b7cfb588-3144-41f6-b621-59236be6fde2",
+      "text": "[Basecamp: REMOTE — Office Not Required](https://basecamp.com/books/remote)"
     },
     {
       "id": "ed49d975-94b9-45ac-9398-bcdbef3997c1",
@@ -1490,10 +1499,6 @@
         "c34333be-f728-4fce-ade4-a6107074769c",
         "ea107d08-0a59-43e6-9e58-3a8b4b0cfe8d"
       ]
-    },
-    {
-      "id": "99e4a8dd-6e52-4b34-b82e-87a0fe97b990",
-      "text": "[Code Complete](https://en.wikipedia.org/wiki/Code_Complete)"
     },
     {
       "id": "02495046-73e6-46c6-97e3-323d8468e31e",
@@ -1782,8 +1787,8 @@
       "id": "33622161-5b7f-469f-b63e-1dafc0d32c42",
       "text": "[Steve McConnell](https://en.wikipedia.org/wiki/Steve_McConnell)",
       "children": [
-        "dca7c23c-8b89-4db8-b1c2-47d57d33732a",
         "99e4a8dd-6e52-4b34-b82e-87a0fe97b990",
+        "dca7c23c-8b89-4db8-b1c2-47d57d33732a",
         "388550d4-8fb2-408f-a0c0-fa9b0f179dc5"
       ]
     },
