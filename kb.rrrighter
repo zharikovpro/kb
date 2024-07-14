@@ -45,7 +45,6 @@
         "10ddb7da-8d4e-478a-acbe-a978b16fe399",
         "be8cb6d7-793d-4c2f-86a3-6b9b04f08fd5",
         "70fe3082-6d67-4424-9fe3-791c94349bce",
-        "2bb54d87-0b76-4a15-9e7b-34ea2cbfc03e",
         "34fabb30-e737-4f8a-8058-e372ed1dbad6"
       ]
     },
@@ -440,15 +439,10 @@
       "text": "[The Twelve-Factor App](https://12factor.net/)"
     },
     {
-      "id": "2bb54d87-0b76-4a15-9e7b-34ea2cbfc03e",
-      "text": "[GTD | Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done)"
-    },
-    {
       "id": "34fabb30-e737-4f8a-8058-e372ed1dbad6",
       "text": "[Scientific method](https://en.wikipedia.org/wiki/Scientific_method)",
       "children": [
-        "35ec405a-bad9-47c2-8c5c-14c66da3b6ea",
-        "176de481-5613-4509-8f1f-4d39995cfb1e"
+        "35ec405a-bad9-47c2-8c5c-14c66da3b6ea"
       ]
     },
     {
@@ -855,14 +849,6 @@
       ]
     },
     {
-      "id": "176de481-5613-4509-8f1f-4d39995cfb1e",
-      "text": "[Cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias)",
-      "children": [
-        "7bea0bb4-4031-406c-ba46-83157abbbb9a",
-        "00907070-71f4-40ed-a07b-fe2533a8533a"
-      ]
-    },
-    {
       "id": "8462bef5-a1e6-404e-86bc-14088ed34606",
       "text": "[Turing Award](https://en.wikipedia.org/wiki/Turing_Award)",
       "children": [
@@ -937,21 +923,6 @@
     {
       "id": "0305a393-dc31-4abd-b89f-cc73abeb4c79",
       "text": "[Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)"
-    },
-    {
-      "id": "7bea0bb4-4031-406c-ba46-83157abbbb9a",
-      "text": "[Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)",
-      "children": [
-        "688b552f-0208-4b89-8169-3bd2df6693be"
-      ]
-    },
-    {
-      "id": "00907070-71f4-40ed-a07b-fe2533a8533a",
-      "text": "[Cognitive Bias Codex - 180+ biases](https://en.wikipedia.org/wiki/Cognitive_bias#/media/File:Cognitive_Bias_Codex_-_180+_biases,_designed_by_John_Manoogian_III_(jm3).jpg)"
-    },
-    {
-      "id": "688b552f-0208-4b89-8169-3bd2df6693be",
-      "text": "[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) is known for his work in behavioral economics, for which he was awarded the 2002 Nobel Memorial Prize in Economic Sciences (shared with Vernon L. Smith). "
     },
     {
       "id": "44ebb188-56e0-4ac1-bab7-5fe53e00a044",
@@ -1229,7 +1200,6 @@
         "316aa00c-2bc1-443e-a744-c5286a17f173",
         "b7cfb588-3144-41f6-b621-59236be6fde2",
         "ed49d975-94b9-45ac-9398-bcdbef3997c1",
-        "7bea0bb4-4031-406c-ba46-83157abbbb9a",
         "dca7c23c-8b89-4db8-b1c2-47d57d33732a",
         "c8175b02-5d81-41e0-b68d-6c73a63f4209",
         "08bf0f3d-12ae-4b95-a77f-010e0eecd717",
