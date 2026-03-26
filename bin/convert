@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require_relative "../lib/converter"
+
+input_path = ARGV[0] || "kb.rrrighter"
+output_dir = ARGV[1] || "obsidian"
+
+unless File.exist?(input_path)
+  warn "Error: input file not found: #{input_path}"
+  exit 1
+end
+
+puts "Converting #{input_path} -> #{output_dir}/"
+Converter.new.convert(input_path, output_dir)
+
+files = Dir.glob(File.join(output_dir, "*.md"))
+puts "Done. #{files.length} notes written to #{output_dir}/"
