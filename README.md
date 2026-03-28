@@ -1,0 +1,1 @@
+An Obsidian vault with personal notes on software development resources.

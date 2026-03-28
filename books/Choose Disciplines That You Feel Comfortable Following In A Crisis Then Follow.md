@@ -1,0 +1,5 @@
+---
+links:
+  - "[[The Clean Coder A Code Of Conduct For Professional Programmers]]"
+---
+Choose disciplines that you feel comfortable following in a crisis. Then follow them all the time. Following these disciplines is the best way to avoid getting into a crisis. Don’t change your behavior when the crunch comes. If your disciplines are the best way to work, then they should be followed even in the depths of a crisis.

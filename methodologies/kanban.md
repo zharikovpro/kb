@@ -1,0 +1,5 @@
+---
+links:
+  - "[[Agile]]"
+---
+[Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
